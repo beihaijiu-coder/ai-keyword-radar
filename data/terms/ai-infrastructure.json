@@ -1,0 +1,21 @@
+{
+  "term": "AI infrastructure",
+  "slug": "ai-infrastructure",
+  "first_seen": "2026-06-06",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 78,
+  "source_diversity_score": 67,
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=48414812",
+    "https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure/",
+    "https://openai.com/index/stargate-michigan-data-center"
+  ]
+}

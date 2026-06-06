@@ -1,0 +1,236 @@
+{
+  "updated_at": "2026-06-06T13:54:42.251905+00:00",
+  "terms": [
+    {
+      "term": "AI infrastructure",
+      "slug": "ai-infrastructure",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 78,
+      "source_diversity_score": 67,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48414812",
+        "https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure/",
+        "https://openai.com/index/stargate-michigan-data-center"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 9,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 67,
+      "opportunity_score": 80,
+      "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48424069",
+        "https://github.com/radotsvetkov/akmon",
+        "https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk",
+        "https://liteagent.cloud",
+        "https://github.com/IBL-tools/rawtohdri"
+      ]
+    },
+    {
+      "term": "AI development",
+      "slug": "ai-development",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 7,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 68,
+      "source_diversity_score": 33,
+      "opportunity_score": 74,
+      "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
+        "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
+        "https://abcnews.com/video/133610860/",
+        "https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/",
+        "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73"
+      ]
+    },
+    {
+      "term": "coding agent",
+      "slug": "coding-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 76,
+      "source_diversity_score": 67,
+      "opportunity_score": 74,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48420833",
+        "https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html",
+        "https://news.ycombinator.com/item?id=48419614",
+        "https://openai.com/index/running-codex-safely"
+      ]
+    },
+    {
+      "term": "AI data",
+      "slug": "ai-data",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 7,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/",
+        "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+        "https://veritrooper.com/",
+        "https://zilliz.com/blog/why-we-built-loon-a-storage-engine-for-ai-data-that-never-stops-changing",
+        "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html"
+      ]
+    },
+    {
+      "term": "Claude Code",
+      "slug": "claude-code",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 59,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48420827",
+        "https://news.ycombinator.com/item?id=48419614",
+        "https://github.com/Nayjest/Gito/releases/tag/v4.1.0",
+        "https://news.ycombinator.com/item?id=48405544"
+      ]
+    },
+    {
+      "term": "AI model",
+      "slug": "ai-model",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 68,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+        "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+        "https://techxplore.com/news/2026-06-ai-redirecting-evacuees-safer-exits.html"
+      ]
+    },
+    {
+      "term": "AI code",
+      "slug": "ai-code",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 68,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/Nayjest/Gito/releases/tag/v4.1.0",
+        "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+        "https://codemouse.ai"
+      ]
+    },
+    {
+      "term": "Agentic AI",
+      "slug": "agentic-ai",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 61,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/",
+        "https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure/",
+        "https://drive.google.com/drive/folders/1YUQ3tmcBSLEyBKLi5JdJgmod9mqXFTgl"
+      ]
+    },
+    {
+      "term": "AI companies",
+      "slug": "ai-companies",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 62,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/",
+        "https://news.ycombinator.com/item?id=48419614",
+        "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400"
+      ]
+    },
+    {
+      "term": "AI Data Centers",
+      "slug": "ai-data-centers",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 44,
+      "source_diversity_score": 33,
+      "opportunity_score": 60,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+        "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
+        "https://www.nytimes.com/video/us/100000010828227/how-ai-data-centers-are-building-a-new-political-coalition.html"
+      ]
+    }
+  ]
+}

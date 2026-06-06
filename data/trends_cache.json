@@ -1,0 +1,54 @@
+{
+  "ai agent": {
+    "interest": 34,
+    "checked_at": "2026-06-06T13:43:59.204539+00:00"
+  },
+  "ai data": {
+    "interest": 37,
+    "checked_at": "2026-06-06T13:44:08.861511+00:00"
+  },
+  "ai development": {
+    "interest": 32,
+    "checked_at": "2026-06-06T13:44:19.548826+00:00"
+  },
+  "building ai": {
+    "interest": 41,
+    "checked_at": "2026-06-06T13:44:28.949390+00:00"
+  },
+  "claude code": {
+    "interest": 41,
+    "checked_at": "2026-06-06T13:44:40.058728+00:00"
+  },
+  "ai infrastructure": {
+    "interest": 22,
+    "checked_at": "2026-06-06T13:44:49.248088+00:00"
+  },
+  "coding agent": {
+    "interest": 24,
+    "checked_at": "2026-06-06T13:45:00.144263+00:00"
+  },
+  "agentic ai": {
+    "interest": 39,
+    "checked_at": "2026-06-06T13:45:10.495219+00:00"
+  },
+  "ai companies": {
+    "interest": 38,
+    "checked_at": "2026-06-06T13:45:19.628808+00:00"
+  },
+  "ai model": {
+    "interest": 32,
+    "checked_at": "2026-06-06T13:45:51.180882+00:00"
+  },
+  "any ai": {
+    "interest": 55,
+    "checked_at": "2026-06-06T13:45:59.552444+00:00"
+  },
+  "ai data centers": {
+    "interest": 56,
+    "checked_at": "2026-06-06T13:46:09.552636+00:00"
+  },
+  "ai code": {
+    "interest": 32,
+    "checked_at": "2026-06-06T13:46:19.963615+00:00"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "term": "AI data",
+  "slug": "ai-data",
+  "first_seen": "2026-06-06",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 7,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 63,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/",
+    "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+    "https://veritrooper.com/",
+    "https://zilliz.com/blog/why-we-built-loon-a-storage-engine-for-ai-data-that-never-stops-changing",
+    "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html"
+  ]
+}

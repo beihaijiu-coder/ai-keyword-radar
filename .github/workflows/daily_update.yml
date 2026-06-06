@@ -1,0 +1,58 @@
+name: Daily AI Terms Update
+
+on:
+  schedule:
+    - cron: "0 23 * * *" # UTC 23:00 = 北京时间 07:00（UTC+8）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build daily AI terms data
+        env:
+          PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
+        run: python scripts/build_data.py
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          cache-dependency-path: web/package-lock.json
+
+      - name: Verify Next.js build
+        run: |
+          cd web
+          npm ci
+          npm run build
+
+      - name: Commit generated JSON data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/terms data/subscribers.json
+          if [ -f data/trends_cache.json ]; then
+            git add data/trends_cache.json
+          fi
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update daily AI terms data"
+            git push
+          fi

@@ -1,0 +1,31 @@
+name: Weekly AI Terms Email
+
+on:
+  schedule:
+    - cron: "0 23 * * 1" # UTC 周一 23:00 = 北京时间周二 07:00（UTC+8）
+  workflow_dispatch:
+
+jobs:
+  send-weekly-email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send weekly email digest
+        env:
+          EMAIL_PROVIDER: ${{ secrets.EMAIL_PROVIDER }}
+          EMAIL_API_KEY: ${{ secrets.EMAIL_API_KEY }}
+          EMAIL_API_URL: ${{ secrets.EMAIL_API_URL }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+        run: python scripts/send_email.py

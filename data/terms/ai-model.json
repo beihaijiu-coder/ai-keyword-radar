@@ -1,0 +1,20 @@
+{
+  "term": "AI model",
+  "slug": "ai-model",
+  "first_seen": "2026-06-06",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 68,
+  "source_diversity_score": 33,
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+    "https://techxplore.com/news/2026-06-ai-redirecting-evacuees-safer-exits.html"
+  ]
+}
