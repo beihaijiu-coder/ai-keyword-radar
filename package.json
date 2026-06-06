@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "install:web": "cd web && npm ci",
+    "install:web": "npm ci && cd web && npm ci",
     "build": "cd web && npm run build"
   },
   "dependencies": {
