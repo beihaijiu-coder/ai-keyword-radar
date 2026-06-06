@@ -1,0 +1,12 @@
+{
+  "name": "ai-keyword-radar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "install:web": "cd web && npm ci",
+    "build": "cd web && npm run build"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
