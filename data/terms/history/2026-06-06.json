@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:54:42.251905+00:00",
+  "updated_at": "2026-06-06T14:12:09.672233+00:00",
   "terms": [
     {
       "term": "AI infrastructure",
@@ -230,6 +230,26 @@
         "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
         "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
         "https://www.nytimes.com/video/us/100000010828227/how-ai-data-centers-are-building-a-new-political-coalition.html"
+      ]
+    },
+    {
+      "term": "AI can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 38,
+      "source_diversity_score": 33,
+      "opportunity_score": 58,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48425236",
+        "https://www.mooreds.com/wordpress/archives/3737",
+        "https://news.ycombinator.com/item?id=48405544"
       ]
     }
   ]
