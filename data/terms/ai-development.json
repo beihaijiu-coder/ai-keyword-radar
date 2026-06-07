@@ -5,13 +5,13 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 33,
   "opportunity_score": 74,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
     "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",

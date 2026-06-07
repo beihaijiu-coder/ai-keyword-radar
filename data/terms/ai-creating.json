@@ -1,20 +1,18 @@
 {
-  "term": "Claude Code",
-  "slug": "claude-code",
-  "first_seen": "2026-06-06",
+  "term": "AI creating",
+  "slug": "ai-creating",
+  "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 59,
+  "search_gap_score": 62,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48420827",
-    "https://news.ycombinator.com/item?id=48419614",
-    "https://github.com/Nayjest/Gito/releases/tag/v4.1.0"
+    "https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f"
   ]
 }

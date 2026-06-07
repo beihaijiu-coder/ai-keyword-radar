@@ -54,5 +54,17 @@
   "ai can": {
     "interest": 62,
     "checked_at": "2026-06-06T14:12:15.622202+00:00"
+  },
+  "their ai": {
+    "interest": 40,
+    "checked_at": "2026-06-07T00:12:20.077272+00:00"
+  },
+  "ai creating": {
+    "interest": 38,
+    "checked_at": "2026-06-07T00:12:29.993647+00:00"
+  },
+  "ai slop": {
+    "interest": 42,
+    "checked_at": "2026-06-07T00:12:39.993905+00:00"
   }
 }
