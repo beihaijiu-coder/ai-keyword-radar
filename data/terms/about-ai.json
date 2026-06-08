@@ -1,0 +1,20 @@
+{
+  "term": "about AI",
+  "slug": "about-ai",
+  "first_seen": "2026-06-08",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 75,
+  "source_diversity_score": 33,
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://rutgerbregman.substack.com/p/an-inconvenient-truth-about-ai",
+    "https://news.ycombinator.com/item?id=48430864",
+    "https://ianarawjo.com/docs/Thats_Enough_About_AI_Replacing_Users_in_User_Research__Arawjo.pdf"
+  ]
+}

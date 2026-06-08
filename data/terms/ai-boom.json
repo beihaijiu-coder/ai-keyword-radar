@@ -1,0 +1,20 @@
+{
+  "term": "AI boom",
+  "slug": "ai-boom",
+  "first_seen": "2026-06-08",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 72,
+  "source_diversity_score": 33,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
+    "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+    "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence"
+  ]
+}

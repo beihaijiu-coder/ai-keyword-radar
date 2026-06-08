@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/",
+    "https://medium.com/@vektormemory/memories-of-the-past-cyberpunk-nostalgia-and-ai-slop-dff4a61e1435",
+    "https://substack.com/@cb/note/c-271417569",
     "https://github.com/malvads/Slopper",
-    "https://old.reddit.com/r/TrueOffMyChest/comments/1ty2veb/ai_slop_has_infiltrated_the_homes_of_the_elderly/",
-    "https://www.builder.io/blog/developers-drowning-in-ai-prs"
+    "https://old.reddit.com/r/TrueOffMyChest/comments/1ty2veb/ai_slop_has_infiltrated_the_homes_of_the_elderly/"
   ]
 }

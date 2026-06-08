@@ -66,5 +66,33 @@
   "ai slop": {
     "interest": 42,
     "checked_at": "2026-06-07T00:12:39.993905+00:00"
+  },
+  "ai boom": {
+    "interest": 28,
+    "checked_at": "2026-06-08T00:17:18.447428+00:00"
+  },
+  "ai enthusiasts": {
+    "interest": 1,
+    "checked_at": "2026-06-08T00:17:28.294616+00:00"
+  },
+  "ai usage": {
+    "interest": 37,
+    "checked_at": "2026-06-08T00:17:38.281458+00:00"
+  },
+  "local llm": {
+    "interest": 27,
+    "checked_at": "2026-06-08T00:17:48.326280+00:00"
+  },
+  "tell hn": {
+    "interest": 0,
+    "checked_at": "2026-06-08T00:17:58.290537+00:00"
+  },
+  "sudo report": {
+    "interest": 1,
+    "checked_at": "2026-06-08T00:18:08.310848+00:00"
+  },
+  "about ai": {
+    "interest": 25,
+    "checked_at": "2026-06-08T00:18:18.330000+00:00"
   }
 }
