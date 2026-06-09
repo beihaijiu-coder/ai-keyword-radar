@@ -1,0 +1,22 @@
+{
+  "term": "Siri AI",
+  "slug": "siri-ai",
+  "first_seen": "2026-06-09",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 5,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 94,
+  "source_diversity_score": 33,
+  "opportunity_score": 84,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.inc.com/connor-jewiss/apples-new-siri-ai-represents-a-make-or-break-moment-for-founders/91357842",
+    "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+    "https://www.apple.com/apple-intelligence/",
+    "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+    "https://9to5mac.com/2026/06/08/new-siri-whats-new/"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "term": "GitHub Copilot",
+  "slug": "github-copilot",
+  "first_seen": "2026-06-09",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 49,
+  "source_diversity_score": 33,
+  "opportunity_score": 62,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://medium.com/@jeffreyflynt02/you-dont-need-a-github-copilot-subscription-to-use-vs-code-ai-features-5fda4c8291d4",
+    "https://github.com/davidreis97/defending-code-reference-harness-copilot",
+    "https://blog.kilo.ai/p/the-github-copilot-bill-came-due"
+  ]
+}

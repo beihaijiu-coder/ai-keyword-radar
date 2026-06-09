@@ -94,5 +94,41 @@
   "about ai": {
     "interest": 25,
     "checked_at": "2026-06-08T00:18:18.330000+00:00"
+  },
+  "hi hn": {
+    "interest": 1,
+    "checked_at": "2026-06-09T00:10:57.195599+00:00"
+  },
+  "siri ai": {
+    "interest": 6,
+    "checked_at": "2026-06-09T00:11:07.158931+00:00"
+  },
+  "ai has": {
+    "interest": 54,
+    "checked_at": "2026-06-09T00:11:17.284536+00:00"
+  },
+  "show hn ai": {
+    "interest": 1,
+    "checked_at": "2026-06-09T00:11:27.254851+00:00"
+  },
+  "hn ai": {
+    "interest": 0,
+    "checked_at": "2026-06-09T00:11:37.176866+00:00"
+  },
+  "if ai": {
+    "interest": 51,
+    "checked_at": "2026-06-09T00:11:47.220932+00:00"
+  },
+  "github copilot": {
+    "interest": 51,
+    "checked_at": "2026-06-09T00:11:57.194434+00:00"
+  },
+  "no ai": {
+    "interest": 34,
+    "checked_at": "2026-06-09T00:12:07.152541+00:00"
+  },
+  "ai copilot": {
+    "interest": 49,
+    "checked_at": "2026-06-09T00:12:17.104868+00:00"
   }
 }
