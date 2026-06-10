@@ -130,5 +130,45 @@
   "ai copilot": {
     "interest": 49,
     "checked_at": "2026-06-09T00:12:17.104868+00:00"
+  },
+  "claude fable": {
+    "interest": 3,
+    "checked_at": "2026-06-10T00:20:20.130764+00:00"
+  },
+  "local ai": {
+    "interest": 27,
+    "checked_at": "2026-06-10T00:20:29.836715+00:00"
+  },
+  "ai video": {
+    "interest": 37,
+    "checked_at": "2026-06-10T00:20:40.040624+00:00"
+  },
+  "ai platform": {
+    "interest": 29,
+    "checked_at": "2026-06-10T00:20:49.979344+00:00"
+  },
+  "ai i": {
+    "interest": 32,
+    "checked_at": "2026-06-10T00:20:59.882429+00:00"
+  },
+  "silicon valley ai": {
+    "interest": 3,
+    "checked_at": "2026-06-10T00:21:09.989871+00:00"
+  },
+  "silicon valley ai boom": {
+    "interest": 1,
+    "checked_at": "2026-06-10T00:21:19.853784+00:00"
+  },
+  "valley ai": {
+    "interest": 28,
+    "checked_at": "2026-06-10T00:21:29.804470+00:00"
+  },
+  "valley ai boom": {
+    "interest": 0,
+    "checked_at": "2026-06-10T00:21:39.795944+00:00"
+  },
+  "core ai": {
+    "interest": 26,
+    "checked_at": "2026-06-10T00:21:49.840391+00:00"
   }
 }

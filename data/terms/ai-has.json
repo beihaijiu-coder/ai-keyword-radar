@@ -5,16 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 46,
   "source_diversity_score": 33,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 61,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-    "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-    "https://luisgardea.substack.com/p/ai-has-a-measurement-problem"
+    "https://github.com/MJohnstonAI/ai-billing-delegation",
+    "https://luisgardea.substack.com/p/ai-has-a-measurement-problem",
+    "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"
   ]
 }

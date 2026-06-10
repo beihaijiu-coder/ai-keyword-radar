@@ -1,7 +1,7 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "Silicon Valley AI Boom",
+  "slug": "silicon-valley-ai-boom",
+  "first_seen": "2026-06-10",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,6 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://screencharm.com/",
-    "https://capakit.com/",
-    "https://www.cc.dev/"
+    "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/"
   ]
 }

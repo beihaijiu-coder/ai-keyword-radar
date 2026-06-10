@@ -1,0 +1,21 @@
+{
+  "term": "Claude Fable",
+  "slug": "claude-fable",
+  "first_seen": "2026-06-10",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 97,
+  "source_diversity_score": 33,
+  "opportunity_score": 85,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://generative-ai.review/2026/06/claude-fable-rush-test-compare-vs-opus-4-8-vs-chatgpt-5-5-2026-06-09/",
+    "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "https://artificialanalysis.ai/articles/claude-fable-5-mythos",
+    "https://www.aipricing.guru/news/claude-fable-5-mythos-5-pricing-june-2026/"
+  ]
+}

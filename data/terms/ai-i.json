@@ -1,0 +1,20 @@
+{
+  "term": "AI I",
+  "slug": "ai-i",
+  "first_seen": "2026-06-10",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 68,
+  "source_diversity_score": 33,
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=48463576",
+    "https://www.macworld.com/article/3158943/siri-ai-ill-believe-it-when-i-see-it.html",
+    "https://news.ycombinator.com/item?id=48455882"
+  ]
+}

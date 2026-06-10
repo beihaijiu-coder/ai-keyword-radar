@@ -1,0 +1,21 @@
+{
+  "term": "AI video",
+  "slug": "ai-video",
+  "first_seen": "2026-06-10",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 63,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://developer.apple.com/videos/play/wwdc2026/326/",
+    "https://www.rewardful.com/use-cases/ai-video-generators",
+    "https://www.youtube.com/watch?v=Ts5Z64A0Vv4",
+    "https://runapi.ai/"
+  ]
+}
