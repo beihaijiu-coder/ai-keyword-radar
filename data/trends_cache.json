@@ -170,5 +170,69 @@
   "core ai": {
     "interest": 26,
     "checked_at": "2026-06-10T00:21:49.840391+00:00"
+  },
+  "hey hn": {
+    "interest": 0,
+    "checked_at": "2026-06-11T00:22:57.432496+00:00"
+  },
+  "ai memory": {
+    "interest": 27,
+    "checked_at": "2026-06-11T00:23:07.479666+00:00"
+  },
+  "targeting ai": {
+    "interest": 5,
+    "checked_at": "2026-06-11T00:23:17.612183+00:00"
+  },
+  "targeting ai debates": {
+    "interest": 1,
+    "checked_at": "2026-06-11T00:23:27.690163+00:00"
+  },
+  "ai debates": {
+    "interest": 0,
+    "checked_at": "2026-06-11T00:23:37.305899+00:00"
+  },
+  "ai voice": {
+    "interest": 31,
+    "checked_at": "2026-06-11T00:23:47.394241+00:00"
+  },
+  "ai news": {
+    "interest": 27,
+    "checked_at": "2026-06-11T00:23:57.456317+00:00"
+  },
+  "around ai": {
+    "interest": 37,
+    "checked_at": "2026-06-11T00:24:07.373473+00:00"
+  },
+  "letting ai": {
+    "interest": 4,
+    "checked_at": "2026-06-11T00:24:17.446052+00:00"
+  },
+  "letting ai agents": {
+    "interest": 1,
+    "checked_at": "2026-06-11T00:24:27.483304+00:00"
+  },
+  "agents need": {
+    "interest": 18,
+    "checked_at": "2026-06-11T00:24:37.418950+00:00"
+  },
+  "autonomous ai": {
+    "interest": 24,
+    "checked_at": "2026-06-11T00:24:47.331508+00:00"
+  },
+  "ai image": {
+    "interest": 41,
+    "checked_at": "2026-06-11T00:24:57.369233+00:00"
+  },
+  "open source ai": {
+    "interest": 24,
+    "checked_at": "2026-06-11T00:25:07.405687+00:00"
+  },
+  "agent skills": {
+    "interest": 11,
+    "checked_at": "2026-06-11T00:25:17.334080+00:00"
+  },
+  "microsoft ai": {
+    "interest": 30,
+    "checked_at": "2026-06-11T00:25:27.373479+00:00"
   }
 }

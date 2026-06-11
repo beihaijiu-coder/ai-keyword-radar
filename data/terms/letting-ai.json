@@ -1,0 +1,20 @@
+{
+  "term": "letting AI",
+  "slug": "letting-ai",
+  "first_seen": "2026-06-11",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 96,
+  "source_diversity_score": 33,
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://finance.yahoo.com/sectors/technology/articles/visa-plugs-payment-network-chatgpt-180150542.html",
+    "https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f",
+    "https://messagevisor.com/"
+  ]
+}

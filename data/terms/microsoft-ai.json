@@ -1,0 +1,20 @@
+{
+  "term": "Microsoft AI",
+  "slug": "microsoft-ai",
+  "first_seen": "2026-06-11",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 70,
+  "source_diversity_score": 33,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/",
+    "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious"
+  ]
+}

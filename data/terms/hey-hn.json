@@ -1,0 +1,22 @@
+{
+  "term": "Hey HN",
+  "slug": "hey-hn",
+  "first_seen": "2026-06-11",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 6,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 100,
+  "source_diversity_score": 33,
+  "opportunity_score": 87,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.topolog.co.uk",
+    "https://donethat.ai/blog/dogfooding-donethat",
+    "https://github.com/HelixDB/helix-db/tree/main",
+    "https://www.razix.app",
+    "https://www.artie.com"
+  ]
+}

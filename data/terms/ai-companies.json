@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 62,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.bullbear.ninja/board/10",
-    "https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/",
-    "https://news.ycombinator.com/item?id=48419614",
-    "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400"
+    "https://www.reuters.com/business/media-telecom/trump-says-he-thinks-ai-companies-will-agree-giving-back-public-2026-06-10/",
+    "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
+    "https://nanog.org/events/nanog-97/content/5771"
   ]
 }

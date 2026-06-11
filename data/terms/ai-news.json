@@ -1,0 +1,21 @@
+{
+  "term": "AI news",
+  "slug": "ai-news",
+  "first_seen": "2026-06-11",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 73,
+  "source_diversity_score": 67,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
+    "https://aibriefs.news",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+  ]
+}
