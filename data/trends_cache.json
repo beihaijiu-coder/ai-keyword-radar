@@ -234,5 +234,29 @@
   "microsoft ai": {
     "interest": 30,
     "checked_at": "2026-06-11T00:25:27.373479+00:00"
+  },
+  "ai era": {
+    "interest": 30,
+    "checked_at": "2026-06-12T00:22:19.914689+00:00"
+  },
+  "used ai": {
+    "interest": 41,
+    "checked_at": "2026-06-12T00:22:29.774487+00:00"
+  },
+  "my ai": {
+    "interest": 39,
+    "checked_at": "2026-06-12T00:22:39.822098+00:00"
+  },
+  "getting ai": {
+    "interest": 44,
+    "checked_at": "2026-06-12T00:22:49.819409+00:00"
+  },
+  "getting ai wrong": {
+    "interest": 0,
+    "checked_at": "2026-06-12T00:22:59.584953+00:00"
+  },
+  "ai wrong": {
+    "interest": 16,
+    "checked_at": "2026-06-12T00:23:09.781552+00:00"
   }
 }

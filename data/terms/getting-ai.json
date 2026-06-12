@@ -1,20 +1,19 @@
 {
-  "term": "AI code",
-  "slug": "ai-code",
-  "first_seen": "2026-06-06",
+  "term": "getting AI",
+  "slug": "getting-ai",
+  "first_seen": "2026-06-12",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 68,
+  "search_gap_score": 56,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
+  "opportunity_score": 65,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/hyhmrright/brooks-lint",
-    "https://news.ycombinator.com/item?id=48488990",
-    "https://www.jackfranklin.co.uk/blog/ai-review-plan/"
+    "https://europe2031.ai/",
+    "https://www.youtube.com/watch?v=KpTZbq-eV38"
   ]
 }

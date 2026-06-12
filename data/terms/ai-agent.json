@@ -3,20 +3,21 @@
   "slug": "ai-agent",
   "first_seen": "2026-06-06",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
-  "mention_count_recent": 12,
-  "mention_count_history": 0,
+  "mention_count_recent": 18,
+  "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
-  "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 12; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "source_diversity_score": 67,
+  "opportunity_score": 80,
+  "trend_note": "Recent mentions: 18; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "https://github.com/tkeeper-org/tkeeper",
-    "https://trymastro.com/study",
-    "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "https://riskkernel.com/"
+    "https://buildy.so/",
+    "https://ciris.ai/",
+    "https://github.com/trebaud/diffcat",
+    "https://github.com/Fujo930/ORP",
+    "https://stillwind.ai"
   ]
 }

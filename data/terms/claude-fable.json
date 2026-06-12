@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 11,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 97,
   "source_diversity_score": 33,
   "opportunity_score": 85,
-  "trend_note": "Recent mentions: 11; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://blog.kilo.ai/p/sota-models-should-learn-to-kiss",
+    "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "https://pacmanai.com/",
-    "https://news.ycombinator.com/item?id=48484306",
-    "https://artificialanalysis.ai/articles/claude-fable-5-mythos-intelligence-index",
-    "https://claude5.ai/en/news/claude-fable-5-free-access-june-9-22-pro-max-team-enterprise",
-    "https://mkotlikov.substack.com/p/fable-5-considered-harmful"
+    "https://news.ycombinator.com/item?id=48484306"
   ]
 }
