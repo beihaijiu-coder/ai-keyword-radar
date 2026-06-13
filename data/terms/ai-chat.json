@@ -1,0 +1,20 @@
+{
+  "term": "AI chat",
+  "slug": "ai-chat",
+  "first_seen": "2026-06-13",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 49,
+  "source_diversity_score": 33,
+  "opportunity_score": 62,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://oss.chat/tour",
+    "https://bitboard.work/",
+    "https://buildy.so/"
+  ]
+}

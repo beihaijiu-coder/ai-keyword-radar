@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 67,
-  "opportunity_score": 74,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 84,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://vmysla.substack.com/p/closing-the-loop-one-impressive-ai",
-    "https://www.vibedrift.ai/blog/does-a-drift-checker-change-agent-output",
-    "https://withlore.ai/",
+    "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+    "https://bitboard.work/",
+    "https://artificialanalysis.ai/agents/coding-agents",
+    "https://github.com/DevMando/MandoCode",
     "https://openai.com/index/running-codex-safely"
   ]
 }

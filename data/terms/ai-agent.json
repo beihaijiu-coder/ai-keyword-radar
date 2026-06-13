@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 18,
+  "mention_count_recent": 16,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 18; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 16; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://buildy.so/",
-    "https://ciris.ai/",
-    "https://github.com/trebaud/diffcat",
-    "https://github.com/Fujo930/ORP",
-    "https://stillwind.ai"
+    "https://news.ycombinator.com/item?id=48509761",
+    "https://github.com/Aspct3434/Distill-Agent",
+    "https://github.com/smithersbot/smithersbot",
+    "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "https://www.emiliaprotocol.ai/try"
   ]
 }

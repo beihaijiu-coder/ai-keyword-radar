@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/outgate-ai/og-local",
-    "https://github.com/hyhmrright/brooks-lint",
-    "https://artificialanalysis.ai/agents/coding-agents",
-    "https://github.com/fabioconcina/claumon",
-    "https://news.ycombinator.com/item?id=48487147"
+    "https://github.com/ibm777p2/Intelligence-Emotions",
+    "https://kickbacks.ai",
+    "https://github.com/outgate-ai/og-local"
   ]
 }

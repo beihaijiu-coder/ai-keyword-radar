@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 87,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/prakhar1114/ai_mime",
-    "https://donethat.ai/blog/dogfooding-donethat",
-    "https://meet.upilote.com",
-    "https://aibriefs.news"
+    "https://oss.chat/tour",
+    "https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27",
+    "https://aiverdict.github.io/"
   ]
 }
