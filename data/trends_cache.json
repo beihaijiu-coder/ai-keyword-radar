@@ -274,5 +274,25 @@
   "source ai": {
     "interest": 19,
     "checked_at": "2026-06-13T00:23:45.781065+00:00"
+  },
+  "ai killed": {
+    "interest": 25,
+    "checked_at": "2026-06-14T00:15:45.116273+00:00"
+  },
+  "ai hallucinations": {
+    "interest": 12,
+    "checked_at": "2026-06-14T00:15:54.986797+00:00"
+  },
+  "has ai": {
+    "interest": 51,
+    "checked_at": "2026-06-14T00:16:05.002926+00:00"
+  },
+  "has ai killed": {
+    "interest": 3,
+    "checked_at": "2026-06-14T00:16:14.949353+00:00"
+  },
+  "why ai": {
+    "interest": 58,
+    "checked_at": "2026-06-14T00:16:24.945468+00:00"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "term": "Why AI",
+  "slug": "why-ai",
+  "first_seen": "2026-06-14",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 42,
+  "source_diversity_score": 33,
+  "opportunity_score": 59,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://www.rnz.co.nz/life/wellbeing/chatbot-teddies-for-three-year-olds-why-ai-toys-are-risky-for-kids",
+    "https://www.encurtador.dev/redirecionamento/71b29bo",
+    "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails"
+  ]
+}

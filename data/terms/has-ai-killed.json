@@ -1,20 +1,18 @@
 {
-  "term": "source AI",
-  "slug": "source-ai",
-  "first_seen": "2026-06-13",
+  "term": "Has AI Killed",
+  "slug": "has-ai-killed",
+  "first_seen": "2026-06-14",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 81,
+  "search_gap_score": 97,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
+  "opportunity_score": 81,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48521779",
-    "https://opensourceaimustwin.com/?share=v2",
-    "https://github.com/smithersbot/smithersbot"
+    "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
   ]
 }

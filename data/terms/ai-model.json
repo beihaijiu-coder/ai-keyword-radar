@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 74,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-    "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
-    "https://techxplore.com/news/2026-06-ai-redirecting-evacuees-safer-exits.html"
+    "https://news.ycombinator.com/item?id=48519780",
+    "https://news.ycombinator.com/item?id=48515589",
+    "https://github.com/mmccalla/model-due-diligence",
+    "https://www.fourthline.com/newsroom/supervised-vs-contrastive-classification"
   ]
 }

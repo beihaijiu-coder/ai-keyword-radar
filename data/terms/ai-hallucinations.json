@@ -1,0 +1,20 @@
+{
+  "term": "AI hallucinations",
+  "slug": "ai-hallucinations",
+  "first_seen": "2026-06-14",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 88,
+  "source_diversity_score": 33,
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
+    "https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations",
+    "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f"
+  ]
+}

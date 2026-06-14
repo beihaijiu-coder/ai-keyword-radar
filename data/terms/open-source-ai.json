@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/smithersbot/smithersbot",
-    "https://github.com/oktaydbk54/vibeclip",
-    "https://github.com/sanniheruwala/RedNotebookAI/blob/main/README.md",
-    "https://opensource.org/ai/webinars/copyright-right-answer-for-open-source-code-wrong-answer-for-open-source-ai",
-    "https://ciris.ai/"
+    "https://news.ycombinator.com/item?id=48521779",
+    "https://github.com/AhmadHammad21/OpenDevOps",
+    "https://ma.ttias.be/transcribing-syscast-with-local-ai/",
+    "https://opensourceaimustwin.com/?share=v2",
+    "https://github.com/smithersbot/smithersbot"
   ]
 }
