@@ -1,5 +1,5 @@
 {
-  "term": "AI Can",
+  "term": "AI can",
   "slug": "ai-can",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 58,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/",
-    "https://spectrum.ieee.org/tracking-glacier-melting-ai",
-    "https://www.cc.dev/"
+    "https://news.ycombinator.com/item?id=48531538",
+    "https://github.com/ptobey/local-memory-mcp",
+    "https://clawdcursor.com"
   ]
 }

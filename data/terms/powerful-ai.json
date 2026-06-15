@@ -1,0 +1,20 @@
+{
+  "term": "powerful AI",
+  "slug": "powerful-ai",
+  "first_seen": "2026-06-15",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 68,
+  "source_diversity_score": 33,
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786",
+    "https://www.pentesty.co/blog/fable5-mythos5-us-government-ban-cybersecurity",
+    "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security"
+  ]
+}

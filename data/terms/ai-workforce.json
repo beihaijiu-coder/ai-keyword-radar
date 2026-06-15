@@ -1,0 +1,19 @@
+{
+  "term": "AI workforce",
+  "slug": "ai-workforce",
+  "first_seen": "2026-06-15",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 74,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://finance.yahoo.com/sectors/technology/articles/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-212324481.html",
+    "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/"
+  ]
+}

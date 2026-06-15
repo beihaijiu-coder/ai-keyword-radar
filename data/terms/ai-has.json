@@ -1,5 +1,5 @@
 {
-  "term": "AI Has",
+  "term": "AI has",
   "slug": "ai-has",
   "first_seen": "2026-06-09",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 61,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://github.com/MJohnstonAI/ai-billing-delegation",
-    "https://luisgardea.substack.com/p/ai-has-a-measurement-problem",
-    "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"
+    "https://news.ycombinator.com/item?id=48531710",
+    "https://news.ycombinator.com/item?id=48521779",
+    "https://news.ycombinator.com/item?id=48520967"
   ]
 }

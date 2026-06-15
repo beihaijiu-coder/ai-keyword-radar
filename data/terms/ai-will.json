@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 37,
   "source_diversity_score": 33,
-  "opportunity_score": 61,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 57,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://www.telegraph.co.uk/business/2026/06/13/javier-mileis-plan-let-ai-led-companies-run-riot-argentina/",
     "https://www.bloomberg.com/opinion/articles/2026-06-12/ai-threatens-worker-motivation-unless-leaders-step-up",
-    "https://twitter.com/0xjaniak/status/2058907417161646186",
-    "https://news.ycombinator.com/item?id=48507014",
-    "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
-    "https://adversariallogic.com/when-ai-finds-the-shortcut-reward-hacking-from-1994-to-2025/"
+    "https://twitter.com/0xjaniak/status/2058907417161646186"
   ]
 }

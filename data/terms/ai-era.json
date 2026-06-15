@@ -6,16 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 67,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.scmp.com/economy/china-economy/article/3356913/chinas-universities-cut-12000-obsolete-degrees-amid-race-embrace-ai-era",
     "https://htmx.org/essays/universities-and-ai/",
     "https://shopify.engineering/quick",
+    "https://medium.com/@amney.mounir/data-analyst-interviews-are-changing-with-ai-and-you-better-be-ready-6dc46e8172c4",
     "https://openai.com/index/industrial-policy-for-the-intelligence-age"
   ]
 }

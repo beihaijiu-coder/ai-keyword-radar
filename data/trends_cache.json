@@ -294,5 +294,25 @@
   "why ai": {
     "interest": 58,
     "checked_at": "2026-06-14T00:16:24.945468+00:00"
+  },
+  "ai content": {
+    "interest": 28,
+    "checked_at": "2026-06-15T00:19:39.732193+00:00"
+  },
+  "powerful ai": {
+    "interest": 32,
+    "checked_at": "2026-06-15T00:19:49.689250+00:00"
+  },
+  "ai would": {
+    "interest": 44,
+    "checked_at": "2026-06-15T00:19:59.616069+00:00"
+  },
+  "ai workforce": {
+    "interest": 26,
+    "checked_at": "2026-06-15T00:20:09.493126+00:00"
+  },
+  "ai workforce shift": {
+    "interest": 1,
+    "checked_at": "2026-06-15T00:20:19.529430+00:00"
   }
 }
