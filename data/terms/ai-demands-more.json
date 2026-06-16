@@ -1,0 +1,19 @@
+{
+  "term": "AI demands more",
+  "slug": "ai-demands-more",
+  "first_seen": "2026-06-16",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 99,
+  "source_diversity_score": 33,
+  "opportunity_score": 86,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+    "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
+  ]
+}

@@ -314,5 +314,37 @@
   "ai workforce shift": {
     "interest": 1,
     "checked_at": "2026-06-15T00:20:19.529430+00:00"
+  },
+  "ai demands": {
+    "interest": 2,
+    "checked_at": "2026-06-16T01:43:19.026462+00:00"
+  },
+  "ai demands more": {
+    "interest": 1,
+    "checked_at": "2026-06-16T01:43:28.885652+00:00"
+  },
+  "ai demands more engineering": {
+    "interest": 0,
+    "checked_at": "2026-06-16T01:43:38.915162+00:00"
+  },
+  "ai tool": {
+    "interest": 35,
+    "checked_at": "2026-06-16T01:43:58.964564+00:00"
+  },
+  "ai research": {
+    "interest": 28,
+    "checked_at": "2026-06-16T01:44:29.003708+00:00"
+  },
+  "where ai": {
+    "interest": 31,
+    "checked_at": "2026-06-16T01:44:39.000544+00:00"
+  },
+  "ai assistant": {
+    "interest": 38,
+    "checked_at": "2026-06-16T01:44:48.864074+00:00"
+  },
+  "ai costs": {
+    "interest": 24,
+    "checked_at": "2026-06-16T01:44:58.939443+00:00"
   }
 }

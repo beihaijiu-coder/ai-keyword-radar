@@ -1,20 +1,20 @@
 {
-  "term": "Autonomous AI",
-  "slug": "autonomous-ai",
-  "first_seen": "2026-06-11",
+  "term": "where AI",
+  "slug": "where-ai",
+  "first_seen": "2026-06-16",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 76,
+  "search_gap_score": 69,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
+  "opportunity_score": 70,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://recrutador.com/en/blog/the-case-against-autonomous-hiring-ai/",
-    "https://cognition.ai/blog/ai-productivity",
-    "https://github.com/tkngate/tkngate"
+    "https://news.ycombinator.com/item?id=48544117",
+    "https://news.ycombinator.com/item?id=48544106",
+    "https://www.youtube.com/watch?v=3rWSvrFahIY"
   ]
 }
