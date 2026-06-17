@@ -1,20 +1,20 @@
 {
-  "term": "AI code",
-  "slug": "ai-code",
-  "first_seen": "2026-06-06",
+  "term": "AI coding agent",
+  "slug": "ai-coding-agent",
+  "first_seen": "2026-06-17",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 68,
+  "search_gap_score": 74,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
+  "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/lolu1032/pantheon-skills",
-    "https://github.com/HexmosTech/git-lrc",
-    "https://news.ycombinator.com/item?id=48546575"
+    "https://sigmashake.com",
+    "https://smartdino.dev",
+    "https://github.com/Constellation-Labs/gate-oc-audit"
   ]
 }

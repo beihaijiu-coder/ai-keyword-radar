@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 9,
+  "mention_count_recent": 12,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/SamuelZ12/prtokens/",
-    "https://www.al3rez.com/building-zehn",
-    "https://velxio.dev/v3/",
-    "https://github.com/vagkaratzas/skills/blob/main/token-saviour/SKILL.md",
-    "https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/"
+    "https://devopness.com/blog/deploy-hermes-ai-agent-devopness/",
+    "https://github.com/andrewyng/aisuite",
+    "https://github.com/akshaylakkur/Q",
+    "https://davenporter.substack.com/p/how-to-track-ai-agent-lineage-and",
+    "https://vulnfeed.novadyne.ai/"
   ]
 }

@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 99,
   "source_diversity_score": 33,
-  "opportunity_score": 86,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://spanly.com/",
-    "https://ezziwebtools.com",
-    "https://fata.dev",
-    "https://tailpanic.com"
+    "https://odocs.co",
+    "https://github.com/stevesolun/ctx",
+    "https://workspace.google.com/marketplace/app/ai_response_feedback_for_forms/1081979139028"
   ]
 }

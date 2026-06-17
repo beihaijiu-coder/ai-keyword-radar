@@ -1,5 +1,5 @@
 {
-  "term": "AI content",
+  "term": "AI Content",
   "slug": "ai-content",
   "first_seen": "2026-06-15",
   "sources": [
@@ -14,8 +14,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://humanizehub.me",
-    "https://nobot-two.vercel.app/",
+    "https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd",
+    "https://authenticmanager.substack.com/p/my-take-on-gen-ai-content",
     "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "https://openai.com/index/advancing-content-provenance"
   ]
