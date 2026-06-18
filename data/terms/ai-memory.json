@@ -13,9 +13,9 @@
   "opportunity_score": 76,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://ctxgov.github.io/ctxgov/try-in-5-minutes.html",
-    "https://github.com/HelixDB/helix-db/tree/main",
-    "https://hindsight.vectorize.io/blog/2026/06/09/fastest-growing-oss-ai-memory",
-    "https://tenureai.dev/"
+    "https://news.ycombinator.com/item?id=48577739",
+    "https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html",
+    "https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/",
+    "https://github.com/roandejager/Hillock"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "term": "Generative AI",
+  "slug": "generative-ai",
+  "first_seen": "2026-06-18",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
+  "velocity_score": 100,
+  "search_gap_score": 70,
+  "source_diversity_score": 67,
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://cepr.org/publications/dp21577",
+    "https://queue.acm.org/detail.cfm?id=3807965",
+    "https://www.gamesindustry.biz/how-dare-we-use-something-like-that-on-someones-dream-why-generative-ai-artwork-is-a-no-go-for-the-scroll-of-taiwu",
+    "https://www.infoq.com/news/2026/06/oracle-genai-policies/",
+    "https://openai.com/index/japan-teen-safety-blueprint"
+  ]
+}

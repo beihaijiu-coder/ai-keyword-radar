@@ -1,20 +1,20 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "Which AI",
+  "slug": "which-ai",
+  "first_seen": "2026-06-18",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 86,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 77,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/Rocketgraph/rocketgraph",
-    "https://ferrix.ai/",
-    "https://odocs.co"
+    "https://news.ycombinator.com/item?id=48572127",
+    "https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks",
+    "https://pacwich.dev/"
   ]
 }

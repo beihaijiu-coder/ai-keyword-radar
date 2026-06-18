@@ -1,20 +1,20 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "without ai",
+  "slug": "without-ai",
+  "first_seen": "2026-06-18",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 81,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 75,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/Rocketgraph/rocketgraph",
-    "https://ferrix.ai/",
-    "https://odocs.co"
+    "https://spellabee.com/",
+    "https://maximumroulette.com/apps/webgpu/examples.html",
+    "https://news.ycombinator.com/item?id=48570641"
   ]
 }

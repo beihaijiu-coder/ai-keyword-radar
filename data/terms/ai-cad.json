@@ -1,19 +1,20 @@
 {
-  "term": "about AI",
-  "slug": "about-ai",
-  "first_seen": "2026-06-08",
+  "term": "AI CAD",
+  "slug": "ai-cad",
+  "first_seen": "2026-06-18",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 75,
+  "search_gap_score": 76,
   "source_diversity_score": 33,
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-    "https://www.flourish.org/2026/06/agree-everyone-ai/"
+    "https://www.instagram.com/reel/DZtOnedBDnu/",
+    "https://github.com/Adam-CAD/CADAM",
+    "http://xfgr.ai"
   ]
 }

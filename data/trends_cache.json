@@ -350,5 +350,25 @@
   "ai coding agent": {
     "interest": 26,
     "checked_at": "2026-06-17T00:23:19.056099+00:00"
+  },
+  "generative ai": {
+    "interest": 30,
+    "checked_at": "2026-06-18T00:21:14.429784+00:00"
+  },
+  "ai cad": {
+    "interest": 24,
+    "checked_at": "2026-06-18T00:21:24.509752+00:00"
+  },
+  "ai features": {
+    "interest": 21,
+    "checked_at": "2026-06-18T00:21:34.339740+00:00"
+  },
+  "without ai": {
+    "interest": 19,
+    "checked_at": "2026-06-18T00:21:44.474295+00:00"
+  },
+  "which ai": {
+    "interest": 14,
+    "checked_at": "2026-06-18T00:21:54.362175+00:00"
   }
 }
