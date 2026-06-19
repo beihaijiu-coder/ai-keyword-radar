@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=gc5XZJfF0kQ",
-    "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
-    "https://encord.com/blog/merlin-encord-mcp-agentic-intelligence/"
+    "https://gizmodo.com/a-federal-regulator-wants-to-fast-track-ai-data-centers-onto-the-power-grid-2000773803",
+    "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+    "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+    "https://www.thenational.scot/news/26205897.larbert-ai-data-centre-become-top-10-polluter/"
   ]
 }

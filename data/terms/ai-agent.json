@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 17,
+  "mention_count_recent": 6,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 17; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "https://github.com/StoneSteel27/AutomatiQ",
+    "https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/",
     "https://klaylab.com/",
-    "https://tryscope.app/",
-    "https://www.browserless.io/blog/writing-an-ai-agent",
-    "https://orcaclient.com/",
-    "https://vokal.team"
+    "https://tryscope.app/"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "term": "what AI",
+  "slug": "what-ai",
+  "first_seen": "2026-06-19",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 66,
+  "source_diversity_score": 67,
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=48581257",
+    "https://news.ycombinator.com/item?id=48577739",
+    "https://github.com/cnaebadi/ai-disclosure-handbook",
+    "https://openai.com/academy/what-is-ai"
+  ]
+}

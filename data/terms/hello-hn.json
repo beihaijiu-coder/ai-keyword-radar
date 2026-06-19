@@ -1,20 +1,19 @@
 {
-  "term": "without AI",
-  "slug": "without-ai",
-  "first_seen": "2026-06-18",
+  "term": "Hello HN",
+  "slug": "hello-hn",
+  "first_seen": "2026-06-19",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 81,
+  "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
+  "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48587869",
-    "https://spellabee.com/",
-    "https://maximumroulette.com/apps/webgpu/examples.html"
+    "https://github.com/StoneSteel27/AutomatiQ",
+    "https://spellabee.com/"
   ]
 }
