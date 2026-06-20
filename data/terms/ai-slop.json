@@ -1,20 +1,22 @@
 {
-  "term": "AI Slop",
+  "term": "AI slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=mRO_QonhC2c",
-    "https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/",
-    "https://nobot-two.vercel.app/"
+    "https://www.augmentedswe.com/p/ai-slop-cannons-and-their-consequences",
+    "https://news.ycombinator.com/item?id=48601647",
+    "https://www.kapwing.com/resources/the-tiktok-ai-slop-report/",
+    "https://old.reddit.com/r/SaaS/comments/1u6f84g/the_ai_slop_refactor_wave_is_coming_and_i_havent/",
+    "https://news.ycombinator.com/item?id=48587869"
   ]
 }
