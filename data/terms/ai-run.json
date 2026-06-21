@@ -1,0 +1,20 @@
+{
+  "term": "AI run",
+  "slug": "ai-run",
+  "first_seen": "2026-06-21",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 87,
+  "source_diversity_score": 33,
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://theassociationwebmasters.blogspot.com/2026/06/i-gave-my-company-to-ai-for-6-months.html",
+    "https://medium.com/@jmafonsomoreira/i-let-an-ai-run-a-revolutionary-idea-on-my-macbook-overnight-d764909f8e4a",
+    "https://ceobench.com/"
+  ]
+}

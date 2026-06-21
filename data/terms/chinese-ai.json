@@ -1,7 +1,7 @@
 {
-  "term": "AI coding agent",
-  "slug": "ai-coding-agent",
-  "first_seen": "2026-06-17",
+  "term": "Chinese AI",
+  "slug": "chinese-ai",
+  "first_seen": "2026-06-21",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/BetaBots-LLC/callimachus",
-    "https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/",
-    "https://wcook04.github.io/microcosm-substrate/"
+    "https://asiaai.fyi/east-asias-ai-capital-surge-homegrown-models-challenge-west-amid-mineral-tensions/",
+    "https://www.ft.com/content/2567877b-9acc-4cf3-a9e5-5f46c1abd13e",
+    "https://aiweekly.co/alerts/five-chinese-ai-labs-cut-token-prices-up-to-99"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "term": "AI slop",
+  "term": "AI Slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
@@ -13,10 +13,10 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/",
     "https://www.augmentedswe.com/p/ai-slop-cannons-and-their-consequences",
     "https://news.ycombinator.com/item?id=48601647",
     "https://www.kapwing.com/resources/the-tiktok-ai-slop-report/",
-    "https://old.reddit.com/r/SaaS/comments/1u6f84g/the_ai_slop_refactor_wave_is_coming_and_i_havent/",
-    "https://news.ycombinator.com/item?id=48587869"
+    "https://old.reddit.com/r/SaaS/comments/1u6f84g/the_ai_slop_refactor_wave_is_coming_and_i_havent/"
   ]
 }

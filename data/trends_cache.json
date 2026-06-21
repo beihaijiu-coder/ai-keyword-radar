@@ -386,5 +386,21 @@
   "business model": {
     "interest": 8,
     "checked_at": "2026-06-20T00:16:19.665198+00:00"
+  },
+  "chinese ai": {
+    "interest": 26,
+    "checked_at": "2026-06-21T00:15:53.732263+00:00"
+  },
+  "ai governance": {
+    "interest": 27,
+    "checked_at": "2026-06-21T00:16:03.780897+00:00"
+  },
+  "every ai": {
+    "interest": 31,
+    "checked_at": "2026-06-21T00:16:13.685130+00:00"
+  },
+  "ai run": {
+    "interest": 13,
+    "checked_at": "2026-06-21T00:16:23.713427+00:00"
   }
 }
