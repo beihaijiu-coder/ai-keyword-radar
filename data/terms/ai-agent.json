@@ -6,17 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 16,
+  "mention_count_recent": 13,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 16; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/adlternative/agent-historian",
     "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
     "https://github.com/rewired89/HSIP-1PHASE",
-    "https://github.com/deftio/quikdown",
     "https://news.ycombinator.com/item?id=48608835",
     "https://github.com/Naveja00/OverReach"
   ]

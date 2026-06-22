@@ -1,0 +1,18 @@
+{
+  "term": "AI Spotlight",
+  "slug": "ai-spotlight",
+  "first_seen": "2026-06-22",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 98,
+  "source_diversity_score": 33,
+  "opportunity_score": 86,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a"
+  ]
+}

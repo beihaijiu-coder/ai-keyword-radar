@@ -1,5 +1,5 @@
 {
-  "term": "No AI",
+  "term": "no AI",
   "slug": "no-ai",
   "first_seen": "2026-06-09",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.blockchainednovel.com/",
-    "https://news.ycombinator.com/item?id=48445920",
-    "https://github.com/udit-rawat/RepoSignal"
+    "https://github.com/harihkk/Debug-Brief",
+    "https://zither-zeta.vercel.app/",
+    "https://www.smh.com.au/technology/australian-start-up-boss-who-faked-revenue-gets-nine-years-jail-20260618-p60847.html"
   ]
 }
