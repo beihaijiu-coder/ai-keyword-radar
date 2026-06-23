@@ -1,0 +1,19 @@
+{
+  "term": "AI Giants",
+  "slug": "ai-giants",
+  "first_seen": "2026-06-23",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 96,
+  "source_diversity_score": 33,
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.latimes.com/politics/story/2026-06-21/ai-giants-are-funding-ad-wars-in-races-across-country",
+    "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f"
+  ]
+}

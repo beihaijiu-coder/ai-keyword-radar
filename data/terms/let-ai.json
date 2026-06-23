@@ -1,0 +1,20 @@
+{
+  "term": "let AI",
+  "slug": "let-ai",
+  "first_seen": "2026-06-23",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 63,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.sentibook.com/",
+    "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
+    "https://github.com/cloakward/cloak"
+  ]
+}

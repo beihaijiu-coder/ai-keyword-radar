@@ -1,20 +1,19 @@
 {
-  "term": "local AI",
-  "slug": "local-ai",
-  "first_seen": "2026-06-10",
+  "term": "its AI",
+  "slug": "its-ai",
+  "first_seen": "2026-06-23",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 73,
+  "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
+  "opportunity_score": 66,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48630450",
-    "https://ella-agent.de",
-    "https://vexyn.app/"
+    "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+    "https://news.ycombinator.com/item?id=48628090"
   ]
 }

@@ -418,5 +418,21 @@
   "jane street seizes": {
     "interest": 1,
     "checked_at": "2026-06-22T00:18:47.089638+00:00"
+  },
+  "let ai": {
+    "interest": 37,
+    "checked_at": "2026-06-23T00:15:43.110329+00:00"
+  },
+  "its ai": {
+    "interest": 41,
+    "checked_at": "2026-06-23T00:16:13.467085+00:00"
+  },
+  "ai api": {
+    "interest": 19,
+    "checked_at": "2026-06-23T00:16:23.008917+00:00"
+  },
+  "ai giants": {
+    "interest": 4,
+    "checked_at": "2026-06-23T00:16:33.071520+00:00"
   }
 }
