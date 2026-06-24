@@ -1,5 +1,5 @@
 {
-  "term": "AI code",
+  "term": "AI Code",
   "slug": "ai-code",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://medium.com/@jaspreetsingh_35555/code-review-used-to-work-then-the-agents-arrived-34b1572ddeac",
-    "https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725",
-    "https://medium.com/@navigara/you-cant-measure-roi-on-ai-coding-tools-if-you-never-measured-engineering-f8cc38267eb4"
+    "https://github.com/Karthick-Ramachandran/persist-os",
+    "https://jawuil.dev/en/blog/the-ai-code-agent-hype-real-progress-vs-expectations/",
+    "https://news.ycombinator.com/item?id=48640679"
   ]
 }

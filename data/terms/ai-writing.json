@@ -1,7 +1,7 @@
 {
-  "term": "No AI",
-  "slug": "no-ai",
-  "first_seen": "2026-06-09",
+  "term": "AI writing",
+  "slug": "ai-writing",
+  "first_seen": "2026-06-24",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,8 @@
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://no-ai-coauthors.dev",
-    "https://compilr.dev/",
-    "https://hey.paris/posts/ai-data-centres-tasmania/"
+    "https://getwindowsill.app/blog/windowsill-ollama-private-ai-writing",
+    "https://andrewpwheeler.com/2026/06/23/ai-writing-is-better-than-no-writing/",
+    "https://news.ycombinator.com/item?id=48637755"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "term": "Agent Loop",
+  "slug": "agent-loop",
+  "first_seen": "2026-06-24",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 87,
+  "source_diversity_score": 67,
+  "opportunity_score": 78,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://github.com/context-labs/halo",
+    "https://lobu.ai/blog/the-agent-loop-is-the-new-saas/",
+    "https://github.com/cloudkj/llayer",
+    "https://openai.com/index/speeding-up-agentic-workflows-with-websockets"
+  ]
+}

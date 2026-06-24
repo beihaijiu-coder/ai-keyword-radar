@@ -434,5 +434,17 @@
   "ai giants": {
     "interest": 4,
     "checked_at": "2026-06-23T00:16:33.071520+00:00"
+  },
+  "agent loop": {
+    "interest": 13,
+    "checked_at": "2026-06-24T00:04:24.680078+00:00"
+  },
+  "sakana ai": {
+    "interest": 13,
+    "checked_at": "2026-06-24T00:04:34.428524+00:00"
+  },
+  "ai writing": {
+    "interest": 34,
+    "checked_at": "2026-06-24T00:04:44.714263+00:00"
   }
 }

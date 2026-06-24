@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 68,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://developer.apple.com/videos/play/wwdc2026/326/",
-    "https://www.rewardful.com/use-cases/ai-video-generators",
-    "https://www.youtube.com/watch?v=Ts5Z64A0Vv4",
-    "https://runapi.ai/"
+    "https://news.ycombinator.com/item?id=48651941",
+    "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2",
+    "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/"
   ]
 }
