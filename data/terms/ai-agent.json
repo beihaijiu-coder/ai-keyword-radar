@@ -14,10 +14,10 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
-    "https://github.com/context-labs/halo",
-    "https://github.com/anasfik/flutter_copilot",
-    "https://github.com/hoppscotch/hoppscotch/security/advisories/GHSA-j542-4rch-8hwf",
-    "https://openaca.dev/blog/your-agent-risk-is-in-the-composition/"
+    "https://quickchat.ai/post/connect-ai-agent-to-google-sheets",
+    "https://www.autoeditor.app/",
+    "https://news.ycombinator.com/item?id=48661860",
+    "https://github.com/mario-guerra/orchid-trace",
+    "https://github.com/croustibat/Pinpoint"
   ]
 }

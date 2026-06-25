@@ -1,0 +1,19 @@
+{
+  "term": "AI chatbots",
+  "slug": "ai-chatbots",
+  "first_seen": "2026-06-25",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 74,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
+    "https://twitter.com/ianbremmer/status/2069744192230764723"
+  ]
+}
