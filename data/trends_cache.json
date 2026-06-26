@@ -450,5 +450,17 @@
   "ai chatbots": {
     "interest": 26,
     "checked_at": "2026-06-25T00:18:49.966700+00:00"
+  },
+  "claude ai": {
+    "interest": 43,
+    "checked_at": "2026-06-26T00:16:49.224737+00:00"
+  },
+  "ai economy": {
+    "interest": 31,
+    "checked_at": "2026-06-26T00:16:58.894547+00:00"
+  },
+  "claude ai model": {
+    "interest": 33,
+    "checked_at": "2026-06-26T00:17:08.921202+00:00"
   }
 }

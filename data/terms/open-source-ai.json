@@ -1,21 +1,20 @@
 {
-  "term": "Open Source AI",
+  "term": "open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/challenga-org/openlanguage",
-    "https://www.sipp.sh",
-    "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-    "https://haystack.deepset.ai/"
+    "https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6",
+    "https://github.com/alitariq4589/ci-medic",
+    "https://www.cachd.app/en-US"
   ]
 }

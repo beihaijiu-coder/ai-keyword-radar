@@ -1,21 +1,20 @@
 {
-  "term": "AI memory",
+  "term": "AI Memory",
   "slug": "ai-memory",
   "first_seen": "2026-06-11",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 73,
   "source_diversity_score": 33,
-  "opportunity_score": 76,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48577739",
-    "https://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.htmlhttps://ctxgov.github.io/ctxgov/memory-state-influence-boundary-try-in-5-minutes.html",
-    "https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/",
-    "https://github.com/roandejager/Hillock"
+    "https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/",
+    "https://www.indiehackers.com/post/the-ai-memory-problem-nobody-is-incentivized-to-solve-9c294bdcaa",
+    "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/"
   ]
 }

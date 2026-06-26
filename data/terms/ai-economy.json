@@ -1,20 +1,19 @@
 {
-  "term": "Let AI",
-  "slug": "let-ai",
-  "first_seen": "2026-06-23",
+  "term": "AI Economy",
+  "slug": "ai-economy",
+  "first_seen": "2026-06-26",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 63,
+  "search_gap_score": 69,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
+  "opportunity_score": 70,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://trypolygraph.com/",
-    "https://rephrasethis.co",
-    "https://github.com/varbhat/desktopmcp"
+    "https://intelligence.exponentialview.co/",
+    "https://www.exponentialview.co/p/the-state-of-the-ai-economy"
   ]
 }

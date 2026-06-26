@@ -6,16 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
+  "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://swiftalerts.trade/the-cadence-trade-hn",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
+    "https://medium.com/@deshpandetanmay/i-fine-tuned-an-ai-model-on-my-mac-for-less-than-a-cent-and-you-can-too-8b06978312ec",
+    "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392",
+    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
     "https://openai.com/index/deployment-simulation"
   ]
 }

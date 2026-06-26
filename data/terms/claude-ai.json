@@ -1,0 +1,22 @@
+{
+  "term": "Claude AI",
+  "slug": "claude-ai",
+  "first_seen": "2026-06-26",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 6,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 57,
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.FoolQuest.com/",
+    "https://github.com/lekandigital/claude-export-hub",
+    "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392",
+    "https://opentools.ai/news/singapore-tops-global-per-capita-usage-of-anthropics-claude-ai",
+    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+  ]
+}

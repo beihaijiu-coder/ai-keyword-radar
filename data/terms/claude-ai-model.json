@@ -1,0 +1,19 @@
+{
+  "term": "Claude AI model",
+  "slug": "claude-ai-model",
+  "first_seen": "2026-06-26",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 67,
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392",
+    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+  ]
+}
