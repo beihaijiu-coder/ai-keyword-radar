@@ -462,5 +462,13 @@
   "claude ai model": {
     "interest": 33,
     "checked_at": "2026-06-26T00:17:08.921202+00:00"
+  },
+  "ai search": {
+    "interest": 36,
+    "checked_at": "2026-06-27T00:15:33.197896+00:00"
+  },
+  "ai inference": {
+    "interest": 27,
+    "checked_at": "2026-06-27T00:15:43.057644+00:00"
   }
 }
