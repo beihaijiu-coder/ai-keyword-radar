@@ -470,5 +470,25 @@
   "ai inference": {
     "interest": 27,
     "checked_at": "2026-06-27T00:15:43.057644+00:00"
+  },
+  "ai industry": {
+    "interest": 38,
+    "checked_at": "2026-06-28T00:09:23.375436+00:00"
+  },
+  "ai powered": {
+    "interest": 35,
+    "checked_at": "2026-06-28T00:09:33.222544+00:00"
+  },
+  "not ai": {
+    "interest": 35,
+    "checked_at": "2026-06-28T00:10:03.243327+00:00"
+  },
+  "release mythos ai": {
+    "interest": 1,
+    "checked_at": "2026-06-28T00:10:13.160408+00:00"
+  },
+  "mythos ai": {
+    "interest": 19,
+    "checked_at": "2026-06-28T00:10:23.198163+00:00"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "term": "AI industry",
+  "slug": "ai-industry",
+  "first_seen": "2026-06-28",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 62,
+  "source_diversity_score": 33,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.thealgorithmicbridge.com/p/the-ai-industry-as-you-know-it-died",
+    "https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/",
+    "https://news.ycombinator.com/item?id=48689261",
+    "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
+  ]
+}

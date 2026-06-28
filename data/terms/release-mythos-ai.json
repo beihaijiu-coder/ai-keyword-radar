@@ -1,0 +1,20 @@
+{
+  "term": "release Mythos AI",
+  "slug": "release-mythos-ai",
+  "first_seen": "2026-06-28",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 99,
+  "source_diversity_score": 33,
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+    "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
+  ]
+}

@@ -1,20 +1,20 @@
 {
-  "term": "AI I",
-  "slug": "ai-i",
-  "first_seen": "2026-06-10",
+  "term": "not AI",
+  "slug": "not-ai",
+  "first_seen": "2026-06-28",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 68,
+  "search_gap_score": 65,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
+  "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48697527",
-    "https://news.ycombinator.com/item?id=48690591",
-    "https://news.ycombinator.com/item?id=48686764"
+    "https://news.ycombinator.com/item?id=48701615",
+    "https://www.leapd.ai/resources/state-of-ai-run-businesses-2026",
+    "https://news.ycombinator.com/item?id=48689972"
   ]
 }

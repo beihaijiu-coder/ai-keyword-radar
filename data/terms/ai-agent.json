@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 18,
+  "mention_count_recent": 15,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 18; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 15; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/usemoss/moss",
-    "https://www.agent-kits.com",
-    "https://github.com/royashbrook/hush",
-    "https://github.com/vicmaster/framesmith",
-    "https://news.ycombinator.com/item?id=48689447"
+    "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
+    "https://github.com/shaurcasm/nirnam",
+    "https://openclawlaunch.com",
+    "https://github.com/obro79/promptetheus",
+    "https://github.com/usemoss/moss"
   ]
 }

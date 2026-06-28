@@ -14,10 +14,10 @@
   "opportunity_score": 81,
   "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa",
     "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
     "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
     "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
-    "https://arxiv.org/abs/2606.25244",
-    "https://medium.com/@deshpandetanmay/i-fine-tuned-an-ai-model-on-my-mac-for-less-than-a-cent-and-you-can-too-8b06978312ec"
+    "https://arxiv.org/abs/2606.25244"
   ]
 }
