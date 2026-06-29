@@ -1,19 +1,18 @@
 {
-  "term": "AI Economy",
-  "slug": "ai-economy",
-  "first_seen": "2026-06-26",
+  "term": "AI Race",
+  "slug": "ai-race",
+  "first_seen": "2026-06-29",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 69,
+  "search_gap_score": 62,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
+  "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.exponentialview.co/p/the-state-of-the-ai-economy",
-    "https://intelligence.exponentialview.co/"
+    "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2"
   ]
 }
