@@ -494,5 +494,21 @@
   "ai race": {
     "interest": 38,
     "checked_at": "2026-06-29T00:15:02.479204+00:00"
+  },
+  "south korea": {
+    "interest": 5,
+    "checked_at": "2026-06-30T00:13:02.994225+00:00"
+  },
+  "run ai": {
+    "interest": 44,
+    "checked_at": "2026-06-30T00:13:12.766644+00:00"
+  },
+  "z ai": {
+    "interest": 30,
+    "checked_at": "2026-06-30T00:13:22.850289+00:00"
+  },
+  "ai exuberance": {
+    "interest": 1,
+    "checked_at": "2026-06-30T00:13:32.723972+00:00"
   }
 }

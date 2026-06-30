@@ -1,7 +1,7 @@
 {
-  "term": "Show HN AI",
-  "slug": "show-hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "AI exuberance",
+  "slug": "ai-exuberance",
+  "first_seen": "2026-06-30",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://music0.org/",
-    "https://attractivenesstest.com/soulmate-sketch",
-    "https://news.ycombinator.com/item?id=48715273"
+    "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
+    "https://www.smh.com.au/politics/federal/global-recession-and-the-end-of-the-middle-class-what-ai-exuberance-could-do-to-the-world-20260626-p60ag6.html"
   ]
 }
