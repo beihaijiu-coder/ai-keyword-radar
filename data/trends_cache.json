@@ -510,5 +510,25 @@
   "ai exuberance": {
     "interest": 1,
     "checked_at": "2026-06-30T00:13:32.723972+00:00"
+  },
+  "build ai": {
+    "interest": 45,
+    "checked_at": "2026-07-01T00:14:56.473754+00:00"
+  },
+  "claude sonnet": {
+    "interest": 14,
+    "checked_at": "2026-07-01T00:15:06.206327+00:00"
+  },
+  "agent reads": {
+    "interest": 1,
+    "checked_at": "2026-07-01T00:15:16.179310+00:00"
+  },
+  "agent can": {
+    "interest": 63,
+    "checked_at": "2026-07-01T00:15:26.240971+00:00"
+  },
+  "modern ai": {
+    "interest": 39,
+    "checked_at": "2026-07-01T00:15:56.223541+00:00"
   }
 }

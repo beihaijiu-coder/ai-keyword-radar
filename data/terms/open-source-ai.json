@@ -1,5 +1,5 @@
 {
-  "term": "Open source AI",
+  "term": "Open Source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/chain-shield/ai-agent-audit",
-    "https://xcancel.com/coinbureau/status/2071330294452666695",
-    "https://independent-wire.org/"
+    "https://www.reuters.com/world/china/italys-domyn-launch-open-source-frontier-ai-model-within-year-ceo-says-2026-06-25/",
+    "https://github.com/azhakhan/dribble",
+    "https://github.com/chain-shield/ai-agent-audit"
   ]
 }

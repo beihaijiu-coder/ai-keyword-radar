@@ -1,7 +1,7 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "agent reads",
+  "slug": "agent-reads",
+  "first_seen": "2026-07-01",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://my-morning-report.vercel.app",
-    "https://capacitor.kurrent.io/",
-    "https://github.com/valmishq/valmis"
+    "https://github.com/beebeeVB/trajeckt/",
+    "https://ama2.me/"
   ]
 }
