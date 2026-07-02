@@ -1,5 +1,5 @@
 {
-  "term": "AI Assistant",
+  "term": "AI assistant",
   "slug": "ai-assistant",
   "first_seen": "2026-06-16",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48707732",
-    "https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo",
-    "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen"
+    "https://github.com/Bessouat40/chainything",
+    "https://aos.injecting.ai/",
+    "https://pacslate.com"
   ]
 }

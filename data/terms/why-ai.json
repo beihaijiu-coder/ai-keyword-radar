@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 42,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 59,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
-    "https://kunyuan.substack.com/p/07concept-entrywhy-ai-problems-are",
-    "https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.html",
-    "https://federicozebele.substack.com/p/this-is-why-ai-is-a-bubble-and-what"
+    "https://www.brimtech.co/notes/why-agents-get-canceled/",
+    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "https://www.youtube.com/watch?v=n-hWHV2ZKOA"
   ]
 }

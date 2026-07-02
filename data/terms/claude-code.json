@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://capacitor.kurrent.io/",
-    "https://github.com/LoganYangBo/rh-trading-agent",
-    "https://github.com/tigerless-labs/autoharness",
-    "https://github.com/henryrobbins/open-atp",
-    "https://news.ycombinator.com/item?id=48728744"
+    "https://zcode.z.ai/cn",
+    "https://github.com/Toadoum/ai-research-skill",
+    "https://github.com/afairai/afair",
+    "https://www.businessinsider.com/job-archetypes-ai-claude-codes-boris-cherny-2026-6",
+    "https://paulinatorrr.itch.io/sword-of-ghix-chapter-1"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "term": "AI bubble",
+  "slug": "ai-bubble",
+  "first_seen": "2026-07-02",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
+    "https://www.youtube.com/watch?v=r03DPWGIxfY",
+    "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793"
+  ]
+}

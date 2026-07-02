@@ -14,10 +14,10 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://0xff.nu/hex/",
-    "https://keepp.link/keepp-skill/SKILL.md",
-    "https://cli.revos.dev/",
-    "https://github.com/seachicken/intellij-shoaku",
-    "https://github.com/valmishq/valmis"
+    "https://github.com/torontodeveloper/job-application-agent",
+    "https://news.ycombinator.com/item?id=48751798",
+    "https://dustycloud.org/blog/the-first-ai-agent-worm-is-months-away-if-that/",
+    "https://chromewebstore.google.com/detail/jamdesk-ai-score/mhihkkgpcbmapmojnakhjfhjmiagkhlj",
+    "https://github.com/fred-terzi/totem-llm"
   ]
 }
