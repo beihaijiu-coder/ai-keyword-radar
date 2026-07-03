@@ -1,0 +1,20 @@
+{
+  "term": "More AI",
+  "slug": "more-ai",
+  "first_seen": "2026-07-03",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 66,
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=48763273",
+    "https://futurism.com/future-society/ceo-fire-employee-email-chatpgt-ai-slop",
+    "https://github.com/DougTrier/MoreAI"
+  ]
+}

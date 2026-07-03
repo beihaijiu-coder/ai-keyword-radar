@@ -1,0 +1,20 @@
+{
+  "term": "major AI",
+  "slug": "major-ai",
+  "first_seen": "2026-07-03",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 62,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://github.com/metadist/synaplan/",
+    "https://github.com/steph-dove/klaussy-agents",
+    "https://news.ycombinator.com/item?id=48751514"
+  ]
+}

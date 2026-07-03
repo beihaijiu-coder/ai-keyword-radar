@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 67,
   "opportunity_score": 81,
-  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://role-model.dev/",
-    "https://www.businessinsider.com/satya-nadella-said-every-company-should-build-own-ai-model-2026-6",
-    "https://frontierfictionarchive.org/en/news/a-fiction-archive-for-comparing-frontier-ai-model-behavior-over-time/",
-    "https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa",
-    "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html"
+    "https://www.reuters.com/business/finance/portugal-launches-first-open-source-ai-model-joining-europes-sovereignty-push-2026-07-01/",
+    "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/",
+    "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
+    "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
+    "https://openai.com/index/deployment-simulation"
   ]
 }

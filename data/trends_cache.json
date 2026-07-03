@@ -542,5 +542,21 @@
   "sell excess ai": {
     "interest": 3,
     "checked_at": "2026-07-02T00:16:06.262652+00:00"
+  },
+  "ai ad": {
+    "interest": 38,
+    "checked_at": "2026-07-03T00:13:38.625537+00:00"
+  },
+  "will ai": {
+    "interest": 63,
+    "checked_at": "2026-07-03T00:13:48.376978+00:00"
+  },
+  "more ai": {
+    "interest": 34,
+    "checked_at": "2026-07-03T00:13:58.452440+00:00"
+  },
+  "major ai": {
+    "interest": 38,
+    "checked_at": "2026-07-03T00:14:08.379240+00:00"
   }
 }

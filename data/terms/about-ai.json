@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 75,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=0xS68sl2D70",
-    "https://www.fastforward.blog/fastforward-70-what-baseball-teaches-us-about-ai/",
-    "https://github.com/TangibleResearch/xtra",
-    "https://news.ycombinator.com/item?id=48682713"
+    "https://www.youtube.com/watch?v=5llffhy3SFs",
+    "https://aiweekly.co/editors-blog/testing-fable-interview-with-norbert-wiener",
+    "https://werd.io/i-have-a-theory-about-ai-fake-news-site-the-editorial/"
   ]
 }
