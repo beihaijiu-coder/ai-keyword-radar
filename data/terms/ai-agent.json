@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 15,
+  "mention_count_recent": 13,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 15; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.runmirrors.com/",
-    "https://declaw.ai/arena",
-    "https://www.autolearningagents.com/get-started/",
-    "https://github.com/Gabrieliam42/AI-Agent-Qubitz",
-    "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
+    "https://mailkite.dev/blog/give-your-agent-an-inbox/",
+    "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
+    "https://tetrees.ai/download",
+    "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+    "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html"
   ]
 }

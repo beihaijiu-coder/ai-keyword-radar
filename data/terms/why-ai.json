@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 42,
   "source_diversity_score": 33,
-  "opportunity_score": 59,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.brimtech.co/notes/why-agents-get-canceled/",
-    "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "https://www.youtube.com/watch?v=n-hWHV2ZKOA"
+    "https://www.pangram.com/blog/joe-stech-information-theory-why-ai-writing-sucks",
+    "https://www.youtube.com/watch?v=-0HRzXk8vlk",
+    "https://www.youtube.com/watch?v=JXJf7vL8k94",
+    "https://bennorthmore.com/journals/welcome-to-the-suspicion-economy/",
+    "https://www.businessinsider.com/dimension-20-lore-keeper-skye-smith-ai-2026-6"
   ]
 }

@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 68,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
     "https://dcmag.fr/wp-content/uploads/2026/04/2603.20897v2.pdf",
-    "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/",
-    "https://www.eventual.ai/blog/egodex-scenario-search",
-    "https://www.geekwire.com/2026/the-cost-of-the-ai-boom-amazon-emissions-jump-16-as-company-stands-by-net-zero-pledge/"
+    "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/"
   ]
 }
