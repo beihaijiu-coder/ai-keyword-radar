@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 61,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://gkanellopoulos.com/ai-in-the-enterprise/the-effective-agent/",
-    "https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/",
-    "https://ase.tools/",
-    "https://www.nextkicklabs.com/p/agentic-ai-security-stack-book-release"
+    "https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai",
+    "https://github.com/routing24/skill",
+    "https://store.steampowered.com/app/4849330/SYSCALL_RING_ZERO/"
   ]
 }
