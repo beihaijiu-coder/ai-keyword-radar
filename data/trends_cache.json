@@ -570,5 +570,13 @@
   "can ai": {
     "interest": 61,
     "checked_at": "2026-07-04T00:12:17.463237+00:00"
+  },
+  "own ai": {
+    "interest": 34,
+    "checked_at": "2026-07-06T00:13:48.099276+00:00"
+  },
+  "detecting ai": {
+    "interest": 1,
+    "checked_at": "2026-07-06T00:13:58.133497+00:00"
   }
 }

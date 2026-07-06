@@ -1,7 +1,7 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "Detecting AI",
+  "slug": "detecting-ai",
+  "first_seen": "2026-07-06",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,8 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.prooftree.ai",
-    "https://staythere.ai/",
-    "https://news.ycombinator.com/item?id=48780219"
+    "https://github.com/guy-lifshitz/tacheles",
+    "https://github.com/myshapeprotocol/myshape-protocol",
+    "https://slopscan.ava.pet/"
   ]
 }
