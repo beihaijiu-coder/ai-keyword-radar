@@ -1,0 +1,20 @@
+{
+  "term": "AMD Ryzen AI Halo",
+  "slug": "amd-ryzen-ai-halo",
+  "first_seen": "2026-07-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 96,
+  "source_diversity_score": 33,
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711",
+    "https://www.phoronix.com/review/amd-ryzen-ai-halo",
+    "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
+  ]
+}

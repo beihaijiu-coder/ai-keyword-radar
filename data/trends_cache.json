@@ -578,5 +578,45 @@
   "detecting ai": {
     "interest": 1,
     "checked_at": "2026-07-06T00:13:58.133497+00:00"
+  },
+  "amd ryzen ai": {
+    "interest": 26,
+    "checked_at": "2026-07-07T00:15:44.315016+00:00"
+  },
+  "amd ryzen ai halo": {
+    "interest": 4,
+    "checked_at": "2026-07-07T00:15:54.185178+00:00"
+  },
+  "ryzen ai": {
+    "interest": 31,
+    "checked_at": "2026-07-07T00:16:04.191344+00:00"
+  },
+  "ryzen ai halo": {
+    "interest": 4,
+    "checked_at": "2026-07-07T00:16:14.210731+00:00"
+  },
+  "ai halo": {
+    "interest": 40,
+    "checked_at": "2026-07-07T00:16:24.310544+00:00"
+  },
+  "ai jobs": {
+    "interest": 47,
+    "checked_at": "2026-07-07T00:16:34.140763+00:00"
+  },
+  "ai jobs wipeout": {
+    "interest": 1,
+    "checked_at": "2026-07-07T00:16:44.135743+00:00"
+  },
+  "ai jobs wipeout scenario": {
+    "interest": 0,
+    "checked_at": "2026-07-07T00:16:54.072263+00:00"
+  },
+  "philosophy majors": {
+    "interest": 2,
+    "checked_at": "2026-07-07T00:17:04.195554+00:00"
+  },
+  "when ai": {
+    "interest": 50,
+    "checked_at": "2026-07-07T00:17:24.308408+00:00"
   }
 }

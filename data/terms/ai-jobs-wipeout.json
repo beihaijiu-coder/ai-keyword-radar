@@ -1,0 +1,19 @@
+{
+  "term": "AI Jobs Wipeout",
+  "slug": "ai-jobs-wipeout",
+  "first_seen": "2026-07-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 99,
+  "source_diversity_score": 33,
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+    "https://www.msn.com/en-us/money/careersandeducation/big-tech-has-suddenly-flipped-on-the-ai-jobs-wipeout-scenario/ar-AA27hbnR"
+  ]
+}

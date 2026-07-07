@@ -1,20 +1,20 @@
 {
-  "term": "AI slop",
-  "slug": "ai-slop",
-  "first_seen": "2026-06-07",
+  "term": "When AI",
+  "slug": "when-ai",
+  "first_seen": "2026-07-07",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 58,
+  "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 63,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=4nzzpUKhj1M",
-    "https://news.ycombinator.com/item?id=48798760",
-    "https://github.com/guy-lifshitz/tacheles"
+    "https://self-sovereign-agent.github.io/",
+    "https://tomtunguz.com/ai-spend-breakeven-2029/",
+    "https://github.com/vaishcodescape/shipd-agent"
   ]
 }
