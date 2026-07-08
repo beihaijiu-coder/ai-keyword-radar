@@ -618,5 +618,9 @@
   "when ai": {
     "interest": 50,
     "checked_at": "2026-07-07T00:17:24.308408+00:00"
+  },
+  "muse image": {
+    "interest": 2,
+    "checked_at": "2026-07-08T00:04:44.090766+00:00"
   }
 }

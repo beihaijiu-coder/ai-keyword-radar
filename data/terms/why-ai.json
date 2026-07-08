@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 42,
   "source_diversity_score": 33,
   "opportunity_score": 63,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://medium.com/@alanscottencinas/the-scale-wall-why-ai-gurus-are-building-toys-while-the-world-needs-architects-1d4f354bc6f4",
-    "https://roburie.substack.com/p/why-ai-doesnt-think-cannot-reason",
-    "https://www.pangram.com/blog/joe-stech-information-theory-why-ai-writing-sucks",
-    "https://www.youtube.com/watch?v=-0HRzXk8vlk",
-    "https://www.youtube.com/watch?v=JXJf7vL8k94"
+    "https://medium.com/@Koukyosyumei/a-cursor-sandbox-escape-shows-why-ai-agents-need-kernel-boundaries-281efdb56396",
+    "https://stantyan.com/blog/why-ai-agents-forget/",
+    "https://betterthangood.xyz/blog/weighing-smoke/",
+    "https://www.esri.com/en-us/software-engineering/blog/articles/ai-orchestration-in-the-browser"
   ]
 }

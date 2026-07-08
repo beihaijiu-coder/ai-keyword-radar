@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 14,
+  "mention_count_recent": 13,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 14; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/hritvikgupta/nimbus",
-    "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-    "https://github.com/patrickjh/ssa",
-    "https://www.botfluencerz.com/",
-    "https://github.com/Azure/kars"
+    "https://github.com/nossa-y/activity-frames",
+    "https://developers.cloudflare.com/agent-setup/prompt.md",
+    "https://www.lastehr.com",
+    "https://github.com/robert-vetter/tessera",
+    "https://www.howagentsthink.com/?mode=code"
   ]
 }

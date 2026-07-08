@@ -1,5 +1,5 @@
 {
-  "term": "own AI",
+  "term": "Own AI",
   "slug": "own-ai",
   "first_seen": "2026-07-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://terminai.app",
-    "https://old.reddit.com/r/OpenAI/comments/1unbqyd/openai_is_fasttracking_its_own_ai_agent_phone_for/",
-    "https://kim-ai-gpu.github.io/2026/07/04/introducing-agenlus-browser-rl/"
+    "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html",
+    "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps",
+    "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/"
   ]
 }

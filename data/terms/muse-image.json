@@ -1,0 +1,21 @@
+{
+  "term": "Muse Image",
+  "slug": "muse-image",
+  "first_seen": "2026-07-08",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 98,
+  "source_diversity_score": 33,
+  "opportunity_score": 86,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://twitter.com/AIatMeta/status/2074577662840832382",
+    "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/?_fb_noscript=1",
+    "https://museimage.io/http:/localhost:3000",
+    "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/"
+  ]
+}
