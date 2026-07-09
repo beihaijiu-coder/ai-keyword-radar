@@ -1,7 +1,7 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "AI isn",
+  "slug": "ai-isn",
+  "first_seen": "2026-07-09",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://coderadius.ai",
-    "https://github.com/comcent-io/comcent-ce",
-    "https://github.com/Bike4Mind/bike4mind"
+    "https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/",
+    "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
   ]
 }

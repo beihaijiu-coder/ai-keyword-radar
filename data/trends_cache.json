@@ -622,5 +622,25 @@
   "muse image": {
     "interest": 2,
     "checked_at": "2026-07-08T00:04:44.090766+00:00"
+  },
+  "ai isn": {
+    "interest": 1,
+    "checked_at": "2026-07-09T00:17:39.212278+00:00"
+  },
+  "ai isn t": {
+    "interest": 1,
+    "checked_at": "2026-07-09T00:17:49.210650+00:00"
+  },
+  "ai glasses": {
+    "interest": 29,
+    "checked_at": "2026-07-09T00:17:59.142928+00:00"
+  },
+  "ai images": {
+    "interest": 41,
+    "checked_at": "2026-07-09T00:18:09.190304+00:00"
+  },
+  "muse video": {
+    "interest": 3,
+    "checked_at": "2026-07-09T00:18:19.178983+00:00"
   }
 }

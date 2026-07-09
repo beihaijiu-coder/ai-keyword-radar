@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 80,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48581257",
-    "https://news.ycombinator.com/item?id=48577739",
-    "https://github.com/cnaebadi/ai-disclosure-handbook",
+    "https://www.usenino.com/",
+    "https://builderwrench.com/tools/ai-readiness-inspector",
+    "https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure",
+    "https://iaxt.com/",
     "https://openai.com/academy/what-is-ai"
   ]
 }

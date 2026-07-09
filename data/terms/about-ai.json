@@ -1,20 +1,21 @@
 {
-  "term": "about AI",
+  "term": "About AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 75,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-    "https://thenewstack.io/ai-open-source-newcomers-study/",
-    "https://msukhareva.substack.com/p/the-industry-of-lies-or-what-leaders"
+    "https://www.dwarkesh.com/p/blog-prize-winners",
+    "https://twitter.com/anas_build_/status/2074882630902771733",
+    "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+    "https://www.moldzine.ai/"
   ]
 }

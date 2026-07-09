@@ -1,20 +1,21 @@
 {
-  "term": "generative AI",
+  "term": "Generative AI",
   "slug": "generative-ai",
   "first_seen": "2026-06-18",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://doodlemate.com/meme",
-    "https://www.scala-lang.org/blog/2026/07/06/quality-from-genai.html",
-    "https://dl.acm.org/doi/10.1145/3632620.3671116"
+    "https://theconversation.com/generative-ai-might-end-up-being-worthless-and-that-could-be-a-good-thing-266046",
+    "https://www.nature.com/articles/s41538-026-00953-x",
+    "https://www.reuters.com/technology/meta-expands-generative-ai-tools-with-muse-image-rollout-2026-07-07/",
+    "https://download.ssrn.com/2026/7/6/7067878.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIDz6OwFWqSJjmMMMPme1cCYx%2FZU1pIbv%2ByFKSvL66PApAiBgdZ6Wedr5eghdndGvi1%2Ffyz1wxl0VDv1cp7DSLy6Glyq8BQh6EAQaDDMwODQ3NTMwMTI1NyIMxXpn6PWUX43Kl%2FdDKpkFz8RAgxoIkWb1vwg2V37XayGo0HiYNzWufOMNwIkVd2rnRA7Mbn09gqMzPMhIzmgH4J0MTYLadHaV%2FvZo1h2Ax%2FhLYJtrxpSHJ7sVuCqRfQc%2F1uaH%2BkcR6mUAfVZXuPveVh%2B%2BNIqOZgyp5ETDRygwVlc1NEy4El2x4ujclJ5jQF3nSRSdbzW3lTMNODJI80L5tLHq7A9dKfYtZZC3Urk3CZinGax2Wr%2FmXldASVUex%2BVwu3S5EwPJpbqSkuIg16L41a9eBeFn6ncZMOIDDL9%2BR2Jr8xDFdJ0wBidvHmeJARtMmh3QiDvP7NBRa%2FObflL%2BxlWlftpSoIzbsRdP6HBgHcbVKE%2B7p%2FdVW3ZltqWjB8s730F%2BkcLOMsXr7ovgLjnmdCQiFinYaPIvjh%2BuIfvGMMKOfgRrgowXD4Q2brKeBn%2BDwrOQt108MishPvXfvLSI0xIbQxX7Z%2FdWUabiY9imEofJIvk%2BWWTHhYuhE%2FHTc1ozmLkzmo3xaRzpAOv4svueAZ11tPxtdJX9D557GhvOjUftBcgeibIcOWNewhCrY7MhOPmE9M5GFwAbfDI5lltnnLfaF75OLpgDqpTEhsaHAfdHDe21hJlteXj0UGqpFryt3hoOh1jSx8YVmNHDpQqSVPxMRwHMJWyuPObCcawV1oIZ1tnpTwi9lXI%2FCVYBNK%2F%2F1f2%2FoY2sx2pI0wigHN%2FcxofyANQY8ZeXbxjesKYBOI1IfOwjlUVIX44HjWJzmv49ZKqsF%2FKq8SAkUIk7oCq4RVsueIv4xyc68v2MehWvtX9Lqnx3TPNnAnGQMVd5OIeGJh65r8jsFyPK%2B6x4cY8VZWZim9ECeJDBZbRewiee3vu2zzzax%2Fmyiw3qIQ%2BI9ytcSTSY3z3ErKwwv7220gY6sgHaoRUlwmSJYq7hzSG%2FSDlIHpwhm5u87EenDx0nylms%2BZe04iVhjms9YBKWw2rQBDb4TfyAKEL1iTdn3TEyGeIOUdpFaYD5k3eyNSqueL%2FGdgqJzJNqhEewcHtWUFLYjNubzKwdnugVG1WyH12mHrZI5GsbNFtuuABuy672qeAtc4LQoK77kRyg9TsbryVr5iI6FRjaXsudU99WCPmByUAuHE9EBEKIAKTBfh2cMgsdi3NH&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260708T005457Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWE343H7KGM%2F20260708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=414bcde095f45411d6a7eef647b30fec82eadce912e8ff8eb045e208f474a6cc&abstractId=7067878"
   ]
 }
