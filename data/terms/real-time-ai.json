@@ -1,20 +1,20 @@
 {
-  "term": "AI assistant",
-  "slug": "ai-assistant",
-  "first_seen": "2026-06-16",
+  "term": "real time AI",
+  "slug": "real-time-ai",
+  "first_seen": "2026-07-10",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 62,
+  "search_gap_score": 70,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
+  "opportunity_score": 71,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://vixsound.com",
-    "https://news.ycombinator.com/item?id=48847834",
-    "https://www.opensoftware.co/june"
+    "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "https://ghostinterview.dev",
+    "https://amotionsinc.com/blogs/how-to-use-amotions-ai-zoom-app"
   ]
 }

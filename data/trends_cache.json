@@ -642,5 +642,17 @@
   "muse video": {
     "interest": 3,
     "checked_at": "2026-07-09T00:18:19.178983+00:00"
+  },
+  "says ai": {
+    "interest": 44,
+    "checked_at": "2026-07-10T00:12:20.737529+00:00"
+  },
+  "real time ai": {
+    "interest": 30,
+    "checked_at": "2026-07-10T00:12:30.685105+00:00"
+  },
+  "san francisco": {
+    "interest": 40,
+    "checked_at": "2026-07-10T00:12:40.627878+00:00"
   }
 }
