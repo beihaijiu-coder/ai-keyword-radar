@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48851812",
-    "https://outsideagent.ai/",
-    "https://github.com/MadsLorentzen/ai-job-search",
-    "https://papercrane.ai/blog/today-im-launching-papercrane-cli-a-bi-tool-built-for-claude-code",
-    "https://kastra.ai/"
+    "https://github.com/seaworthy-io/seaworthy-mcp",
+    "https://github.com/Clear-Sights/Makoto",
+    "https://news.ycombinator.com/item?id=48851812"
   ]
 }

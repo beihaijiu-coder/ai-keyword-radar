@@ -1,0 +1,21 @@
+{
+  "term": "AI Training",
+  "slug": "ai-training",
+  "first_seen": "2026-07-11",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 69,
+  "source_diversity_score": 67,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
+    "https://www.mercor.com/blog/mercor-to-acquire-deeptune/",
+    "https://openai.com/index/mrc-supercomputer-networking"
+  ]
+}

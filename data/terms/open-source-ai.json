@@ -1,21 +1,20 @@
 {
-  "term": "Open Source AI",
+  "term": "open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://dibi8.com",
-    "https://map.currentai.org/",
-    "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "https://www.resilientcyber.io/p/how-america-talked-itself-into-chinese"
+    "https://github.com/jamiepine/voicebox",
+    "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+    "https://hub.docker.com/r/kirill89/reviewcerberus"
   ]
 }

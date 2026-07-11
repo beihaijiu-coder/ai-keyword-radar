@@ -1,5 +1,5 @@
 {
-  "term": "AI Images",
+  "term": "AI images",
   "slug": "ai-images",
   "first_seen": "2026-07-09",
   "sources": [
@@ -14,6 +14,7 @@
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.bbc.com/news/articles/cp9lee19y1yo",
-    "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
+    "https://www.reuters.com/business/meta-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/",
+    "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you"
   ]
 }

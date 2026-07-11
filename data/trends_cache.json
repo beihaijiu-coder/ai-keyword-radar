@@ -654,5 +654,25 @@
   "san francisco": {
     "interest": 40,
     "checked_at": "2026-07-10T00:12:40.627878+00:00"
+  },
+  "ai training": {
+    "interest": 31,
+    "checked_at": "2026-07-11T00:04:36.843618+00:00"
+  },
+  "open ai": {
+    "interest": 37,
+    "checked_at": "2026-07-11T00:04:46.732032+00:00"
+  },
+  "my ai agent": {
+    "interest": 19,
+    "checked_at": "2026-07-11T00:04:56.621949+00:00"
+  },
+  "free ai": {
+    "interest": 46,
+    "checked_at": "2026-07-11T00:05:06.747328+00:00"
+  },
+  "ai make": {
+    "interest": 51,
+    "checked_at": "2026-07-11T00:05:16.600098+00:00"
   }
 }
