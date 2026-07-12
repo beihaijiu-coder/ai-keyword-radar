@@ -1,5 +1,5 @@
 {
-  "term": "My AI Agent",
+  "term": "My AI agent",
   "slug": "my-ai-agent",
   "first_seen": "2026-07-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 75,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://1h-money.vercel.app/finale.html",
     "https://medium.com/@alanscottencinas/the-upgrade-that-made-my-ai-agent-worse-610fa6ebe2d4",
-    "https://tryfraym.com",
-    "https://1h-money.vercel.app"
+    "https://tryfraym.com"
   ]
 }

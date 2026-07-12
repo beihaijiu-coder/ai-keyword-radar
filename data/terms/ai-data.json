@@ -1,5 +1,5 @@
 {
-  "term": "AI Data",
+  "term": "AI data",
   "slug": "ai-data",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
     "https://www.eventual.ai/blog/egodex-scenario-search",
-    "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
-    "https://www.gadgetreview.com/ai-data-centers-endless-hum-the-unchecked-ai-nightmare-forcing-a-michigan-town-into-federal-court"
+    "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4"
   ]
 }
