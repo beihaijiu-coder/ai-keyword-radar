@@ -1,5 +1,5 @@
 {
-  "term": "AI code",
+  "term": "AI Code",
   "slug": "ai-code",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://subweave.com/",
-    "https://azuanz.com/posts/making-ai-code-review-measurable/",
-    "https://news.ycombinator.com/item?id=48825447"
+    "https://news.ycombinator.com/item?id=48882310",
+    "https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target",
+    "https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd"
   ]
 }

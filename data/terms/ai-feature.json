@@ -1,0 +1,20 @@
+{
+  "term": "AI feature",
+  "slug": "ai-feature",
+  "first_seen": "2026-07-13",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 69,
+  "source_diversity_score": 33,
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
+    "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash"
+  ]
+}

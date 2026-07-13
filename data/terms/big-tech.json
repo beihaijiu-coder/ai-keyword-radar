@@ -1,0 +1,20 @@
+{
+  "term": "Big Tech",
+  "slug": "big-tech",
+  "first_seen": "2026-07-13",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
+    "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
+    "https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use"
+  ]
+}
