@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T00:01:10.636563+00:00",
+  "updated_at": "2026-07-13T23:58:22.279964+00:00",
   "terms": [
     {
       "term": "Hi HN",
@@ -8,59 +8,63 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 6,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 99,
       "source_diversity_score": 33,
       "opportunity_score": 86,
-      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://github.com/itara-project/itara",
-        "https://github.com/sshwarts/skillscript",
-        "https://sanbox.cloud",
-        "https://github.com/nikvdp/searxng-ai-kit",
-        "https://github.com/seaworthy-io/seaworthy-mcp"
+        "https://www.contextvault.dev/",
+        "https://docs.dev",
+        "https://news.ycombinator.com/item?id=48892722",
+        "https://github.com/itara-project/itara"
       ]
     },
     {
-      "term": "HN AI",
-      "slug": "hn-ai",
-      "first_seen": "2026-06-09",
+      "term": "coding agent",
+      "slug": "coding-agent",
+      "first_seen": "2026-06-06",
       "sources": [
-        "hackernews"
+        "hackernews",
+        "rss"
       ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 100,
-      "source_diversity_score": 33,
-      "opportunity_score": 83,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "mention_count_recent": 5,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 76,
+      "source_diversity_score": 67,
+      "opportunity_score": 84,
+      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.aiphotoeditor.ai/",
-        "https://workspace.google.com/marketplace/app/anyfile_translator/960750725467",
-        "https://github.com/sinewaveai/agent-security-scanner-mcp"
+        "https://auremcto.com/",
+        "https://arena.angel-serv.com/",
+        "https://github.com/daitangio/take-ai-control",
+        "https://kastra.ai/",
+        "https://github.com/Suleman-Elahi/frostdb"
       ]
     },
     {
-      "term": "Show HN AI",
-      "slug": "show-hn-ai",
-      "first_seen": "2026-06-09",
+      "term": "AI Era",
+      "slug": "ai-era",
+      "first_seen": "2026-06-12",
       "sources": [
-        "hackernews"
+        "hackernews",
+        "rss"
       ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 67,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.aiphotoeditor.ai/",
-        "https://workspace.google.com/marketplace/app/anyfile_translator/960750725467",
-        "https://github.com/sinewaveai/agent-security-scanner-mcp"
+        "https://calcrecipe.com/en/workshop/7",
+        "https://htmx.org/essays/universities-and-ai/",
+        "https://news.ycombinator.com/item?id=48886741",
+        "https://openai.com/index/industrial-policy-for-the-intelligence-age"
       ]
     },
     {
@@ -71,19 +75,61 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 17,
+      "mention_count_recent": 13,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 67,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 17; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-        "https://agentindexed.com/",
-        "https://medium.com/databrickscommunity/databricks-ai-agent-genie-code-is-no-longer-free-now-you-have-to-pay-as-you-go-1d40bf8a4aad",
-        "https://apps.apple.com/us/app/msk-ai-cto-agent/id6778822216"
+        "https://news.ycombinator.com/item?id=48899674",
+        "https://github.com/adnqcr7-code/kairosv2",
+        "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
+        "https://www.yacnews.com/sysdig-documents-the-first-ransomware-attack-run-end-to-end-by-an-ai-agent/",
+        "https://kastra.ai/"
+      ]
+    },
+    {
+      "term": "Open source AI",
+      "slug": "open-source-ai",
+      "first_seen": "2026-06-11",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 76,
+      "source_diversity_score": 33,
+      "opportunity_score": 77,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://arena.angel-serv.com/",
+        "https://news.ycombinator.com/item?id=48897859",
+        "https://www.business-standard.com/technology/tech-news/zhipu-founder-backs-open-source-ai-as-global-security-debate-intensifies-126071200342_1.html",
+        "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+      ]
+    },
+    {
+      "term": "AI assistant",
+      "slug": "ai-assistant",
+      "first_seen": "2026-06-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 62,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48892722",
+        "https://www.clarkchat.com/",
+        "https://github.com/pedroaugusto04/Kote",
+        "https://apps.apple.com/kz/app/dari-ai/id6779357765?mt=12"
       ]
     },
     {
@@ -93,22 +139,23 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 8,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 59,
       "source_diversity_score": 33,
       "opportunity_score": 70,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/pedroaugusto04/Kote",
-        "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-        "https://sanbox.cloud",
-        "https://github.com/seaworthy-io/seaworthy-mcp"
+        "https://github.com/lacion/fleet-deck",
+        "https://news.ycombinator.com/item?id=48897613",
+        "https://finterm.ai/",
+        "https://docs.dev",
+        "https://kastra.ai/"
       ]
     },
     {
-      "term": "AI Code",
+      "term": "AI code",
       "slug": "ai-code",
       "first_seen": "2026-06-06",
       "sources": [
@@ -122,48 +169,49 @@
       "opportunity_score": 70,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://www.overplane.dev/",
         "https://news.ycombinator.com/item?id=48882310",
-        "https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target",
-        "https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd"
+        "https://shrsv.hexmos.com/post/perfectly-hitting-the-wrong-target"
       ]
     },
     {
-      "term": "AI feature",
-      "slug": "ai-feature",
-      "first_seen": "2026-07-13",
+      "term": "not AI",
+      "slug": "not-ai",
+      "first_seen": "2026-06-28",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 69,
+      "search_gap_score": 65,
       "source_diversity_score": 33,
-      "opportunity_score": 70,
+      "opportunity_score": 69,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
-        "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-        "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash"
+        "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+        "https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/",
+        "https://www.washingtonpost.com/education/2026/07/12/why-recruiters-cant-find-workers-new-grads-cant-find-jobs/"
       ]
     },
     {
-      "term": "AI found",
-      "slug": "ai-found",
-      "first_seen": "2026-07-13",
+      "term": "AI writing",
+      "slug": "ai-writing",
+      "first_seen": "2026-06-24",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 63,
+      "search_gap_score": 66,
       "source_diversity_score": 33,
-      "opportunity_score": 68,
+      "opportunity_score": 69,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
-        "https://www.untempled.com/guilhermen/art/ai-found-a-secret-computer-bug-hidden-for-15-years-plus-why-cops-chased-a-reporter-over-a-typo-cmrgwcw7o0001ky04qu4ubln8"
+        "https://docs.dev",
+        "https://duetbrowser.com/krnl-ss-redirect?k2vh",
+        "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/"
       ]
     },
     {
@@ -181,54 +229,14 @@
       "opportunity_score": 68,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
-        "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
-        "https://www.eventual.ai/blog/egodex-scenario-search"
+        "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+        "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+        "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/"
       ]
     },
     {
-      "term": "AI assistant",
-      "slug": "ai-assistant",
-      "first_seen": "2026-06-16",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 62,
-      "source_diversity_score": 33,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://github.com/pedroaugusto04/Kote",
-        "https://apps.apple.com/kz/app/dari-ai/id6779357765?mt=12",
-        "https://workspace.google.com/marketplace/app/anyfile_translator/960750725467"
-      ]
-    },
-    {
-      "term": "My AI",
-      "slug": "my-ai",
-      "first_seen": "2026-06-12",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 61,
-      "source_diversity_score": 33,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://github.com/yonidavidson/agentcomm",
-        "https://taoofmac.com/space/blog/2026/07/11/1500",
-        "https://1h-money.vercel.app/finale.html"
-      ]
-    },
-    {
-      "term": "Big Tech",
-      "slug": "big-tech",
+      "term": "against AI",
+      "slug": "against-ai",
       "first_seen": "2026-07-13",
       "sources": [
         "hackernews"
@@ -236,14 +244,94 @@
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 50,
+      "search_gap_score": 64,
       "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+      "opportunity_score": 68,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
-        "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
-        "https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use"
+        "https://github.com/Brokenwatch24/crowdmind",
+        "https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics",
+        "https://www.sixthtone.com/news/1018753/TheChineseVoiceActorForcedtoProveHe’sHuman"
+      ]
+    },
+    {
+      "term": "AI Video",
+      "slug": "ai-video",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 68,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=48891809",
+        "https://diffforge.ai/",
+        "https://www.youtube.com/watch?v=VbqaL_eHhKY"
+      ]
+    },
+    {
+      "term": "AI slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 58,
+      "source_diversity_score": 33,
+      "opportunity_score": 66,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+        "https://github.com/oven-sh/bun/pull/33864",
+        "https://thetruthasiseeitnow.com/using-ai-slop-as-feedback-tells-as-much-about-the-commenter-as-the-creator/"
+      ]
+    },
+    {
+      "term": "Free AI",
+      "slug": "free-ai",
+      "first_seen": "2026-07-11",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 54,
+      "source_diversity_score": 33,
+      "opportunity_score": 64,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://duetbrowser.com/krnl-ss-redirect?k2vh",
+        "https://globalcareers-3qwcpfkw.manus.space/",
+        "https://asianexpats.com"
+      ]
+    },
+    {
+      "term": "AI data centers",
+      "slug": "ai-data-centers",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 44,
+      "source_diversity_score": 33,
+      "opportunity_score": 60,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+        "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+        "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/"
       ]
     }
   ]

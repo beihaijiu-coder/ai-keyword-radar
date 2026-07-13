@@ -686,5 +686,9 @@
   "ai found": {
     "interest": 37,
     "checked_at": "2026-07-13T00:01:57.055872+00:00"
+  },
+  "against ai": {
+    "interest": 36,
+    "checked_at": "2026-07-13T23:58:29.845166+00:00"
   }
 }

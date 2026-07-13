@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 17,
+  "mention_count_recent": 13,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 17; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "https://agentindexed.com/",
-    "https://medium.com/databrickscommunity/databricks-ai-agent-genie-code-is-no-longer-free-now-you-have-to-pay-as-you-go-1d40bf8a4aad",
-    "https://apps.apple.com/us/app/msk-ai-cto-agent/id6778822216"
+    "https://news.ycombinator.com/item?id=48899674",
+    "https://github.com/adnqcr7-code/kairosv2",
+    "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
+    "https://www.yacnews.com/sysdig-documents-the-first-ransomware-attack-run-end-to-end-by-an-ai-agent/",
+    "https://kastra.ai/"
   ]
 }
