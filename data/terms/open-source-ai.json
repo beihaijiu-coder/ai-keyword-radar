@@ -1,5 +1,5 @@
 {
-  "term": "Open source AI",
+  "term": "Open Source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,9 +13,9 @@
   "opportunity_score": 77,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/",
+    "https://fn2.ai/",
     "https://arena.angel-serv.com/",
-    "https://news.ycombinator.com/item?id=48897859",
-    "https://www.business-standard.com/technology/tech-news/zhipu-founder-backs-open-source-ai-as-global-security-debate-intensifies-126071200342_1.html",
-    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+    "https://news.ycombinator.com/item?id=48897859"
   ]
 }

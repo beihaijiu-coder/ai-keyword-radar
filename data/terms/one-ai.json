@@ -1,7 +1,7 @@
 {
-  "term": "AI assistant",
-  "slug": "ai-assistant",
-  "first_seen": "2026-06-16",
+  "term": "one AI",
+  "slug": "one-ai",
+  "first_seen": "2026-07-14",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,8 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/",
-    "https://www.neowin.net/news/spotify-now-has-an-ai-assistant-you-can-talk-to/",
-    "https://github.com/Dream-Mosaic/orbital-pai"
+    "https://usejovita.com",
+    "https://agnost.ai",
+    "https://www.contextvault.dev/"
   ]
 }

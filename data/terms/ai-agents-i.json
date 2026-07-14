@@ -1,20 +1,20 @@
 {
-  "term": "Hey HN",
-  "slug": "hey-hn",
-  "first_seen": "2026-06-11",
+  "term": "AI agents I",
+  "slug": "ai-agents-i",
+  "first_seen": "2026-07-14",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 100,
+  "search_gap_score": 87,
   "source_diversity_score": 33,
-  "opportunity_score": 83,
+  "opportunity_score": 77,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://agnost.ai",
-    "https://anam.ai/",
-    "https://github.com/Zaimwa9/themis"
+    "https://hiver.sh",
+    "https://news.ycombinator.com/item?id=48906299",
+    "https://www.agentsproof.dev/"
   ]
 }
