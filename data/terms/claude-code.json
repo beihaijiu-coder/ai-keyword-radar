@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://fn2.ai/",
-    "https://ivanmisic.net/blog/ai-tools/how-i-built-this-site-with-claude-code",
-    "https://github.com/anandgupta42/aireceipts",
-    "https://stagewhisper.io/lite",
-    "https://github.com/lacion/fleet-deck"
+    "https://news.ycombinator.com/item?id=48927027",
+    "https://getlimits.app",
+    "https://github.com/OtoDock/oto-dock/",
+    "https://github.com/evansjp/grepathy"
   ]
 }

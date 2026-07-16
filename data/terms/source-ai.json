@@ -5,16 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 81,
   "source_diversity_score": 33,
-  "opportunity_score": 79,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://map.currentai.org/",
-    "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "https://www.resilientcyber.io/p/how-america-talked-itself-into-chinese"
+    "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
+    "https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/"
   ]
 }

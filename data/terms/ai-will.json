@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 37,
   "source_diversity_score": 33,
-  "opportunity_score": 61,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 57,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://twitter.com/BenjamineYLiu/status/2067238500877959315",
-    "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "https://github.com/Adam-CAD/CADAM",
-    "https://www.reuters.com/business/world-at-work/ai-will-lead-labour-shortages-jeff-bezos-says-vivatech-2026-06-17/"
+    "https://twitter.com/PalmerLuckey/status/2077216959930728889",
+    "https://www.reuters.com/world/asia-pacific/softbanks-son-says-ai-will-need-5-trillion-per-year-by-2040-dismisses-bubble-2026-07-14/",
+    "https://www.youtube.com/watch?v=sQGZXrzykpU"
   ]
 }

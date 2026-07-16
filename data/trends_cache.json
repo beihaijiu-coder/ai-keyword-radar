@@ -702,5 +702,17 @@
   "ai agents i": {
     "interest": 13,
     "checked_at": "2026-07-14T23:58:32.801479+00:00"
+  },
+  "linus torvalds": {
+    "interest": 16,
+    "checked_at": "2026-07-16T00:04:13.630896+00:00"
+  },
+  "george lucas": {
+    "interest": 24,
+    "checked_at": "2026-07-16T00:04:23.529903+00:00"
+  },
+  "ai not": {
+    "interest": 38,
+    "checked_at": "2026-07-16T00:04:33.575245+00:00"
   }
 }
