@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://cmart.blog/slop-machine/",
-    "https://twitter.com/NeelNanda5/status/2077117795066871908",
-    "https://news.ycombinator.com/item?id=48918150"
+    "https://news.ycombinator.com/item?id=48935943",
+    "https://www.athletedata.health",
+    "https://www.abc.net.au/news/2026-07-16/spotify-making-ai-music-easier-to-detect/106919814",
+    "https://www.youtube.com/watch?v=iUfP6amE7UA",
+    "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"
   ]
 }

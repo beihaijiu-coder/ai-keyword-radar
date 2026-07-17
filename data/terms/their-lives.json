@@ -1,20 +1,18 @@
 {
-  "term": "If AI",
-  "slug": "if-ai",
-  "first_seen": "2026-06-09",
+  "term": "Their Lives",
+  "slug": "their-lives",
+  "first_seen": "2026-07-17",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 49,
+  "search_gap_score": 39,
   "source_diversity_score": 33,
-  "opportunity_score": 62,
+  "opportunity_score": 58,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://seekinweb.com/",
-    "https://news.ycombinator.com/item?id=48935943",
-    "https://www.omrajguru.com/writings/postscarcity"
+    "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972"
   ]
 }

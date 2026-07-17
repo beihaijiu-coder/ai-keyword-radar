@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 38,
   "source_diversity_score": 33,
-  "opportunity_score": 62,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 58,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.businessinsider.com/dimension-20-lore-keeper-skye-smith-ai-2026-6",
-    "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-    "https://news.ycombinator.com/item?id=48760918",
-    "https://news.ycombinator.com/item?id=48759712"
+    "https://www.omrajguru.com/writings/postscarcity",
+    "https://www.smh.com.au/business/workplace/no-hiring-if-an-ai-can-do-the-job-staff-at-mining-giant-told-20260713-p60eth.html",
+    "https://news.ycombinator.com/item?id=48931713"
   ]
 }

@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 60,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=NBtUgWn-nHs",
-    "https://forecastingresearch.substack.com/p/leap-wave-8-ai-timelines",
-    "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-    "https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/"
+    "https://kifly.ai",
+    "https://news.ycombinator.com/item?id=48934870",
+    "https://vektorgeist.com/"
   ]
 }

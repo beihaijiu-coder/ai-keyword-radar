@@ -1,20 +1,20 @@
 {
-  "term": "Show HN AI",
-  "slug": "show-hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "Kimi K3",
+  "slug": "kimi-k3",
+  "first_seen": "2026-07-17",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 94,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 80,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://ai-law-tracker.com",
-    "https://suhasbhairav.com/ai-templates",
-    "https://www.jointjs.com/demos/ai-workflow-builder"
+    "https://artificialanalysis.ai/evaluations/aa-briefcase#results-tabs",
+    "https://artificialanalysis.ai",
+    "https://www.kimi.com/blog/kimi-k3"
   ]
 }

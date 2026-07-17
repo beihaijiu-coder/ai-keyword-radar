@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "https://xcancel.com/NXT4EU/status/2077343621011935648",
-    "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
-    "https://github.com/MDMAtk/TormentNexus",
-    "https://video-editor.ai-creator.top/"
+    "https://github.com/SkyportalAi/skyportalai",
+    "https://github.com/totalumlabs/ai-app-builder-open",
+    "https://github.com/metaspartan/cybara",
+    "https://suhasbhairav.com/ai-templates",
+    "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
   ]
 }

@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 39,
   "source_diversity_score": 33,
-  "opportunity_score": 58,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 62,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.youtube.com/watch?v=Xr9VqRawjAU",
-    "https://citeready.sprytools.com/",
-    "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
+    "https://twitter.com/thsottiaux/status/2077630111499882637",
+    "https://dashboardbuilder.net/ai-generated-dashboard",
+    "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+    "https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/"
   ]
 }

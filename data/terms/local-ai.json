@@ -1,21 +1,22 @@
 {
-  "term": "Local AI",
+  "term": "local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 33,
   "opportunity_score": 76,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/thekiraproject/kira-project-site/blob/main/posts/2026-07-06-prefill-tax.md",
-    "https://sunsetmesasoftware.com/rewire-text/",
-    "https://www.usestitch.ai/",
-    "https://www.theregister.com/ai-and-ml/2026/07/06/amds-ryzen-ai-halo-makes-local-ai-look-easy-but-at-4k-easy-doesnt-come-cheap/5266711"
+    "https://github.com/lemonade-sdk/lemonade/releases/tag/v11.0.0",
+    "https://caider.dev/",
+    "https://open-atelier.app",
+    "https://github.com/Rupak182/heychat/releases/tag/v0.1.0",
+    "https://github.com/sixvolts/familiar"
   ]
 }

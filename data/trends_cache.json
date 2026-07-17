@@ -714,5 +714,29 @@
   "ai not": {
     "interest": 38,
     "checked_at": "2026-07-16T00:04:33.575245+00:00"
+  },
+  "kimi k3": {
+    "interest": 6,
+    "checked_at": "2026-07-17T00:03:45.012434+00:00"
+  },
+  "ai backlash": {
+    "interest": 10,
+    "checked_at": "2026-07-17T00:03:54.549966+00:00"
+  },
+  "ai backlash has": {
+    "interest": 1,
+    "checked_at": "2026-07-17T00:04:04.550132+00:00"
+  },
+  "ai backlash has tech": {
+    "interest": 1,
+    "checked_at": "2026-07-17T00:04:14.559694+00:00"
+  },
+  "tech executives fearing": {
+    "interest": 1,
+    "checked_at": "2026-07-17T00:04:24.542667+00:00"
+  },
+  "their lives": {
+    "interest": 61,
+    "checked_at": "2026-07-17T00:04:34.557531+00:00"
   }
 }
