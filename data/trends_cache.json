@@ -738,5 +738,9 @@
   "their lives": {
     "interest": 61,
     "checked_at": "2026-07-17T00:04:34.557531+00:00"
+  },
+  "ai gateway": {
+    "interest": 6,
+    "checked_at": "2026-07-17T23:57:26.507144+00:00"
   }
 }

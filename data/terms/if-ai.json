@@ -1,5 +1,5 @@
 {
-  "term": "If AI",
+  "term": "if AI",
   "slug": "if-ai",
   "first_seen": "2026-06-09",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 62,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://isvisible.ai",
     "https://seekinweb.com/",
-    "https://news.ycombinator.com/item?id=48935943",
-    "https://www.omrajguru.com/writings/postscarcity"
+    "https://news.ycombinator.com/item?id=48935943"
   ]
 }

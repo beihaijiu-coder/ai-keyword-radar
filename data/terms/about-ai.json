@@ -1,20 +1,21 @@
 {
-  "term": "About AI",
+  "term": "about AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 75,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c",
-    "https://cabird.com/ide/posts/ai-in-peer-review",
-    "https://www.dwarkesh.com/p/blog-prize-winners"
+    "https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/",
+    "https://www.youtube.com/watch?v=17_HcR95YBc",
+    "https://newsletter.getdx.com/p/five-studies-that-are-changing-how",
+    "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories"
   ]
 }

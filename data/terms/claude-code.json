@@ -13,9 +13,9 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://lific.dev",
+    "https://github.com/pocket-veto/pocket-veto",
     "https://github.com/Piebald-AI/claude-code-system-prompts",
-    "https://docs.dev",
-    "https://news.ycombinator.com/item?id=48927027",
-    "https://getlimits.app"
+    "https://docs.dev"
   ]
 }

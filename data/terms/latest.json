@@ -1,120 +1,6 @@
 {
-  "updated_at": "2026-07-17T00:03:38.293628+00:00",
+  "updated_at": "2026-07-17T23:57:20.012558+00:00",
   "terms": [
-    {
-      "term": "Hey HN",
-      "slug": "hey-hn",
-      "first_seen": "2026-06-11",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 100,
-      "source_diversity_score": 33,
-      "opportunity_score": 83,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://news.ycombinator.com/item?id=48937020",
-        "https://pokayoke.codes",
-        "https://github.com/runvendo/vendo"
-      ]
-    },
-    {
-      "term": "HN AI",
-      "slug": "hn-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 100,
-      "source_diversity_score": 33,
-      "opportunity_score": 83,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://ai-law-tracker.com",
-        "https://suhasbhairav.com/ai-templates",
-        "https://www.jointjs.com/demos/ai-workflow-builder"
-      ]
-    },
-    {
-      "term": "AI Backlash Has",
-      "slug": "ai-backlash-has",
-      "first_seen": "2026-07-17",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972"
-      ]
-    },
-    {
-      "term": "AI Backlash Has Tech",
-      "slug": "ai-backlash-has-tech",
-      "first_seen": "2026-07-17",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972"
-      ]
-    },
-    {
-      "term": "Tech Executives Fearing",
-      "slug": "tech-executives-fearing",
-      "first_seen": "2026-07-17",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972"
-      ]
-    },
-    {
-      "term": "Show HN AI",
-      "slug": "show-hn-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://ai-law-tracker.com",
-        "https://suhasbhairav.com/ai-templates",
-        "https://www.jointjs.com/demos/ai-workflow-builder"
-      ]
-    },
     {
       "term": "AI agent",
       "slug": "ai-agent",
@@ -123,41 +9,39 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 11,
+      "mention_count_recent": 13,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 67,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 11; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://arxiv.org/abs/2607.10582",
-        "https://libretto.sh/debug-agents",
-        "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "https://www.embusa.ai",
-        "https://caider.dev/"
+        "https://news.ycombinator.com/item?id=48950737",
+        "https://feralhq.com/",
+        "https://github.com/mathhMadureira/orka",
+        "https://www.wsj.com/tech/ai/1password-for-claude-ai-agents-password-manager-111a7a8a",
+        "https://selbonds.now"
       ]
     },
     {
-      "term": "Linus Torvalds",
-      "slug": "linus-torvalds",
-      "first_seen": "2026-07-16",
+      "term": "AI gateway",
+      "slug": "ai-gateway",
+      "first_seen": "2026-07-17",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 8,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 84,
+      "velocity_score": 90,
+      "search_gap_score": 94,
       "source_diversity_score": 33,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
-        "https://lore.kernel.org/linux-media/CAHk-%3Dwi4zC%2BZe8e%2Bp3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg%40mail.gmail.com/",
-        "https://www.zdnet.com/article/linus-torvalds-puts-his-foot-down-tells-anti-ai-programmers-to-fork-it/",
-        "https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894",
-        "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/#t"
+        "https://www.edgee.ai/blog/posts/edgee-on-premise-gateway",
+        "https://news.ycombinator.com/item?id=48946631",
+        "https://github.com/glama-ai/lightport"
       ]
     },
     {
@@ -175,27 +59,30 @@
       "opportunity_score": 80,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://twitter.com/GavinSBaker/status/2078110934740980193",
         "https://artificialanalysis.ai/evaluations/aa-briefcase#results-tabs",
-        "https://artificialanalysis.ai",
-        "https://www.kimi.com/blog/kimi-k3"
+        "https://artificialanalysis.ai"
       ]
     },
     {
-      "term": "AI Backlash",
-      "slug": "ai-backlash",
-      "first_seen": "2026-07-17",
+      "term": "about AI",
+      "slug": "about-ai",
+      "first_seen": "2026-06-08",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 3,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 90,
+      "velocity_score": 100,
+      "search_gap_score": 75,
       "source_diversity_score": 33,
-      "opportunity_score": 79,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "opportunity_score": 77,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972"
+        "https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/",
+        "https://www.youtube.com/watch?v=17_HcR95YBc",
+        "https://newsletter.getdx.com/p/five-studies-that-are-changing-how",
+        "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories"
       ]
     },
     {
@@ -205,19 +92,40 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 6,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 76,
       "source_diversity_score": 33,
       "opportunity_score": 77,
-      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://stateofopensource.ai/",
+        "https://github.com/richhabits/sam",
         "https://github.com/SkyportalAi/skyportalai",
-        "https://github.com/totalumlabs/ai-app-builder-open",
-        "https://github.com/metaspartan/cybara",
-        "https://suhasbhairav.com/ai-templates",
-        "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
+        "https://github.com/totalumlabs/ai-app-builder-open"
+      ]
+    },
+    {
+      "term": "AI infrastructure",
+      "slug": "ai-infrastructure",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 78,
+      "source_diversity_score": 67,
+      "opportunity_score": 75,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.capexindex.com/",
+        "https://geekyants.com/blog/self-healing-ai-agents-the-future-of-enterprise-automation-needs-governance-observability-and-product-engineering",
+        "https://github.com/SkyportalAi/skyportalai",
+        "https://openai.com/index/stargate-michigan-data-center"
       ]
     },
     {
@@ -227,102 +135,17 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 73,
-      "source_diversity_score": 33,
-      "opportunity_score": 76,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://github.com/lemonade-sdk/lemonade/releases/tag/v11.0.0",
-        "https://caider.dev/",
-        "https://open-atelier.app",
-        "https://github.com/Rupak182/heychat/releases/tag/v0.1.0",
-        "https://github.com/sixvolts/familiar"
-      ]
-    },
-    {
-      "term": "coding agent",
-      "slug": "coding-agent",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews",
-        "rss"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 1,
-      "velocity_score": 75,
-      "search_gap_score": 76,
-      "source_diversity_score": 67,
-      "opportunity_score": 74,
-      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://caider.dev/",
-        "https://github.com/astrio-labs/forall",
-        "https://gate.cat/",
-        "https://openai.com/index/running-codex-safely"
-      ]
-    },
-    {
-      "term": "AI Data",
-      "slug": "ai-data",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 63,
-      "source_diversity_score": 33,
-      "opportunity_score": 72,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-        "https://www.latimes.com/business/story/2026-07-14/new-york-blocks-new-ai-data-centers-in-first-statewide-moratorium",
-        "https://www.youtube.com/watch?v=iVkgD4phOHQ"
-      ]
-    },
-    {
-      "term": "Generative AI",
-      "slug": "generative-ai",
-      "first_seen": "2026-06-18",
-      "sources": [
-        "hackernews"
-      ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 70,
+      "search_gap_score": 73,
       "source_diversity_score": 33,
-      "opportunity_score": 71,
+      "opportunity_score": 72,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-        "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
-      ]
-    },
-    {
-      "term": "AI slop",
-      "slug": "ai-slop",
-      "first_seen": "2026-06-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 6,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 58,
-      "source_diversity_score": 33,
-      "opportunity_score": 70,
-      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://news.ycombinator.com/item?id=48935943",
-        "https://www.athletedata.health",
-        "https://www.abc.net.au/news/2026-07-16/spotify-making-ai-music-easier-to-detect/106919814",
-        "https://www.youtube.com/watch?v=iUfP6amE7UA",
-        "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"
+        "https://github.com/0pen-Sourcer/Hearth",
+        "https://github.com/asayed18/icop",
+        "https://github.com/lemonade-sdk/lemonade/releases/tag/v11.0.0"
       ]
     },
     {
@@ -340,55 +163,34 @@
       "opportunity_score": 70,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://lific.dev",
+        "https://github.com/pocket-veto/pocket-veto",
         "https://github.com/Piebald-AI/claude-code-system-prompts",
-        "https://docs.dev",
-        "https://news.ycombinator.com/item?id=48927027",
-        "https://getlimits.app"
+        "https://docs.dev"
       ]
     },
     {
-      "term": "their AI",
-      "slug": "their-ai",
-      "first_seen": "2026-06-07",
+      "term": "AI I",
+      "slug": "ai-i",
+      "first_seen": "2026-06-10",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 60,
+      "search_gap_score": 68,
       "source_diversity_score": 33,
-      "opportunity_score": 67,
+      "opportunity_score": 70,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://kifly.ai",
-        "https://news.ycombinator.com/item?id=48934870",
-        "https://vektorgeist.com/"
+        "https://news.ycombinator.com/item?id=48943622",
+        "https://bethechatbot.com/",
+        "https://kifly.ai"
       ]
     },
     {
-      "term": "Can AI",
-      "slug": "can-ai",
-      "first_seen": "2026-07-04",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 39,
-      "source_diversity_score": 33,
-      "opportunity_score": 62,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://twitter.com/thsottiaux/status/2077630111499882637",
-        "https://dashboardbuilder.net/ai-generated-dashboard",
-        "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-        "https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/"
-      ]
-    },
-    {
-      "term": "If AI",
+      "term": "if AI",
       "slug": "if-ai",
       "first_seen": "2026-06-09",
       "sources": [
@@ -402,28 +204,9 @@
       "opportunity_score": 62,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
+        "https://isvisible.ai",
         "https://seekinweb.com/",
-        "https://news.ycombinator.com/item?id=48935943",
-        "https://www.omrajguru.com/writings/postscarcity"
-      ]
-    },
-    {
-      "term": "AI Data Centers",
-      "slug": "ai-data-centers",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 44,
-      "source_diversity_score": 33,
-      "opportunity_score": 60,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-        "https://www.latimes.com/business/story/2026-07-14/new-york-blocks-new-ai-data-centers-in-first-statewide-moratorium"
+        "https://news.ycombinator.com/item?id=48935943"
       ]
     },
     {
@@ -441,47 +224,9 @@
       "opportunity_score": 59,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://khalilstemmler.com/articles/the-phases-of-craftship/the-5-phases/",
-        "https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code",
-        "https://www.ted.com/talks/anil_seth_why_ai_isn_t_going_to_become_conscious"
-      ]
-    },
-    {
-      "term": "Their Lives",
-      "slug": "their-lives",
-      "first_seen": "2026-07-17",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 39,
-      "source_diversity_score": 33,
-      "opportunity_score": 58,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972"
-      ]
-    },
-    {
-      "term": "AI can",
-      "slug": "ai-can",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 38,
-      "source_diversity_score": 33,
-      "opportunity_score": 58,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://www.omrajguru.com/writings/postscarcity",
-        "https://www.smh.com.au/business/workplace/no-hiring-if-an-ai-can-do-the-job-staff-at-mining-giant-told-20260713-p60eth.html",
-        "https://news.ycombinator.com/item?id=48931713"
+        "https://geekyants.com/blog/self-healing-ai-agents-the-future-of-enterprise-automation-needs-governance-observability-and-product-engineering",
+        "https://tonyalicea.dev/blog/single-mode-burnout/",
+        "https://khalilstemmler.com/articles/the-phases-of-craftship/the-5-phases/"
       ]
     }
   ]
