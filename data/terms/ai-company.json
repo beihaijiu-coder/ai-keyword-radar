@@ -1,0 +1,20 @@
+{
+  "term": "AI Company",
+  "slug": "ai-company",
+  "first_seen": "2026-07-18",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 70,
+  "source_diversity_score": 33,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://qainsights.com/20-month-the-price-ceiling-every-ai-company-copied/",
+    "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/"
+  ]
+}

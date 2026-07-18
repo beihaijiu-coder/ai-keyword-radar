@@ -1,20 +1,19 @@
 {
-  "term": "source AI",
-  "slug": "source-ai",
-  "first_seen": "2026-06-13",
+  "term": "AI Mania",
+  "slug": "ai-mania",
+  "first_seen": "2026-07-18",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 81,
+  "search_gap_score": 98,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
+  "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://twitter.com/deanwball/status/2078133895766114412",
-    "https://github.com/adgapar/teya",
-    "https://stateofopensource.ai/"
+    "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+    "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/"
   ]
 }

@@ -6,15 +6,15 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 13,
+  "mention_count_recent": 6,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48950737",
+    "https://github.com/inklate/social-skills",
     "https://feralhq.com/",
     "https://github.com/mathhMadureira/orka",
     "https://www.wsj.com/tech/ai/1password-for-claude-ai-agents-password-manager-111a7a8a",

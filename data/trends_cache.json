@@ -742,5 +742,13 @@
   "ai gateway": {
     "interest": 6,
     "checked_at": "2026-07-17T23:57:26.507144+00:00"
+  },
+  "ai mania": {
+    "interest": 2,
+    "checked_at": "2026-07-18T23:59:00.026749+00:00"
+  },
+  "ai company": {
+    "interest": 30,
+    "checked_at": "2026-07-18T23:59:09.861824+00:00"
   }
 }

@@ -1,20 +1,20 @@
 {
-  "term": "AI Video",
+  "term": "AI video",
   "slug": "ai-video",
   "first_seen": "2026-06-10",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48891809",
-    "https://diffforge.ai/",
-    "https://www.youtube.com/watch?v=VbqaL_eHhKY"
+    "https://www.youtube.com/watch?v=17_HcR95YBc",
+    "https://steelsoft.site/software/PixelUp_home.html",
+    "https://www.youtube.com/watch?v=XHeMsXDyw2A"
   ]
 }
