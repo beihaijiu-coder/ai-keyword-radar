@@ -1,7 +1,7 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "Ben Affleck AI",
+  "slug": "ben-affleck-ai",
+  "first_seen": "2026-07-20",
   "sources": [
     "hackernews"
   ],
@@ -13,9 +13,7 @@
   "opportunity_score": 86,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://askciela.com/",
-    "https://regularly.co",
-    "https://karankurani.github.io/OpenCareLoop/",
-    "https://relikes.com/#demo"
+    "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+    "https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/"
   ]
 }

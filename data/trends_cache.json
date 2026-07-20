@@ -750,5 +750,45 @@
   "ai company": {
     "interest": 30,
     "checked_at": "2026-07-18T23:59:09.861824+00:00"
+  },
+  "ben affleck ai": {
+    "interest": 1,
+    "checked_at": "2026-07-20T00:03:16.465260+00:00"
+  },
+  "affleck ai": {
+    "interest": 3,
+    "checked_at": "2026-07-20T00:03:26.183936+00:00"
+  },
+  "prompt injection": {
+    "interest": 17,
+    "checked_at": "2026-07-20T00:03:36.196658+00:00"
+  },
+  "ben affleck ai startup": {
+    "interest": 0,
+    "checked_at": "2026-07-20T00:03:46.160065+00:00"
+  },
+  "affleck ai startup": {
+    "interest": 1,
+    "checked_at": "2026-07-20T00:03:56.205010+00:00"
+  },
+  "affleck ai startup interpositive": {
+    "interest": 0,
+    "checked_at": "2026-07-20T00:04:06.204785+00:00"
+  },
+  "ai startup": {
+    "interest": 28,
+    "checked_at": "2026-07-20T00:04:16.387049+00:00"
+  },
+  "ai startup interpositive": {
+    "interest": 0,
+    "checked_at": "2026-07-20T00:04:26.156235+00:00"
+  },
+  "ai reading": {
+    "interest": 20,
+    "checked_at": "2026-07-20T00:05:06.295625+00:00"
+  },
+  "global decision": {
+    "interest": 11,
+    "checked_at": "2026-07-20T00:05:26.312131+00:00"
   }
 }
