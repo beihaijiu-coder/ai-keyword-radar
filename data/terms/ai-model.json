@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://techstackups.com/articles/ai-model-naming-is-a-mess/",
-    "https://opencode.ai/data/",
-    "https://github.com/ncrypt-ai/pact",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups",
+    "https://runtimewire.com/article/ramp-router-ai-model-gateway-llm-costs",
+    "https://lecturetobook.com/",
+    "https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand",
     "https://openai.com/index/deployment-simulation"
   ]
 }

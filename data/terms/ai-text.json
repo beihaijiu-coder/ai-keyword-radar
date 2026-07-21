@@ -1,20 +1,20 @@
 {
-  "term": "AI slop",
-  "slug": "ai-slop",
-  "first_seen": "2026-06-07",
+  "term": "AI text",
+  "slug": "ai-text",
+  "first_seen": "2026-07-21",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 58,
+  "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48973671",
-    "https://arxiv.org/abs/2607.04003",
-    "https://insidethecreator.beehiiv.com/p/the-slop-purge-has-arrived"
+    "https://www.ynetnews.com/article/rjczjxqvfx",
+    "https://imbue.com/blog/bouncer-leveraging-local-compute-to-detect-ai-slop",
+    "https://zlvox.com/tools/ai-humanizer"
   ]
 }

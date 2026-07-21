@@ -1,5 +1,5 @@
 {
-  "term": "Autonomous AI",
+  "term": "autonomous AI",
   "slug": "autonomous-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://recrutador.com/en/blog/the-case-against-autonomous-hiring-ai/",
-    "https://cognition.ai/blog/ai-productivity",
-    "https://github.com/tkngate/tkngate"
+    "https://github.com/alexanderwanyoike/the0",
+    "https://money-agent-production-a0a9.up.railway.app/api/summarize",
+    "https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/"
   ]
 }

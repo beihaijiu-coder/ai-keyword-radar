@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 94,
   "source_diversity_score": 33,
-  "opportunity_score": 80,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 84,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://twitter.com/GavinSBaker/status/2078110934740980193",
-    "https://artificialanalysis.ai/evaluations/aa-briefcase#results-tabs",
-    "https://artificialanalysis.ai"
+    "https://ai-world-bakeoff.pages.dev/",
+    "https://www.neowin.net/news/uh-oh-the-trump-admin-doesnt-like-chinas-kimi-k3-ai-model-and-could-ban-it-for-americans/",
+    "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand",
+    "https://askciela.com/"
   ]
 }

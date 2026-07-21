@@ -790,5 +790,17 @@
   "global decision": {
     "interest": 11,
     "checked_at": "2026-07-20T00:05:26.312131+00:00"
+  },
+  "ai data center": {
+    "interest": 47,
+    "checked_at": "2026-07-21T00:02:39.035763+00:00"
+  },
+  "ai text": {
+    "interest": 37,
+    "checked_at": "2026-07-21T00:02:49.033541+00:00"
+  },
+  "ai about": {
+    "interest": 57,
+    "checked_at": "2026-07-21T00:02:59.040824+00:00"
   }
 }

@@ -1,16 +1,16 @@
 {
-  "term": "AI data",
-  "slug": "ai-data",
-  "first_seen": "2026-06-06",
+  "term": "AI data center",
+  "slug": "ai-data-center",
+  "first_seen": "2026-07-21",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
-  "search_gap_score": 63,
+  "search_gap_score": 53,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
+  "opportunity_score": 68,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
