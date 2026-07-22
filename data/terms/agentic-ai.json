@@ -1,20 +1,21 @@
 {
-  "term": "Agentic AI",
+  "term": "agentic AI",
   "slug": "agentic-ai",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 61,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming",
-    "https://www.hpc-ai.com/blog/What-Is-Agentic-AI",
-    "https://news.ycombinator.com/item?id=48969329"
+    "https://github.com/aveproject/ave",
+    "https://github.com/inflexa-ai/inflexa",
+    "https://blog.technodrone.cloud/2026/07/aws-intro-owasp-agentic-top10.html",
+    "https://claude.com/blog/ciso-guide-to-agentic-ai"
   ]
 }

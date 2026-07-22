@@ -802,5 +802,29 @@
   "ai about": {
     "interest": 57,
     "checked_at": "2026-07-21T00:02:59.040824+00:00"
+  },
+  "physical ai": {
+    "interest": 35,
+    "checked_at": "2026-07-21T23:59:27.056191+00:00"
+  },
+  "agents live": {
+    "interest": 17,
+    "checked_at": "2026-07-21T23:59:36.918510+00:00"
+  },
+  "open weight ai": {
+    "interest": 14,
+    "checked_at": "2026-07-21T23:59:46.930369+00:00"
+  },
+  "weight ai": {
+    "interest": 31,
+    "checked_at": "2026-07-21T23:59:56.940728+00:00"
+  },
+  "ai tokens": {
+    "interest": 34,
+    "checked_at": "2026-07-22T00:00:06.931454+00:00"
+  },
+  "browser extension": {
+    "interest": 16,
+    "checked_at": "2026-07-22T00:00:16.930328+00:00"
   }
 }

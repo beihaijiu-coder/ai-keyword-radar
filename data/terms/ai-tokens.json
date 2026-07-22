@@ -1,0 +1,20 @@
+{
+  "term": "AI Tokens",
+  "slug": "ai-tokens",
+  "first_seen": "2026-07-21",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 66,
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+    "https://twitter.com/shl/status/2079387173749714944"
+  ]
+}

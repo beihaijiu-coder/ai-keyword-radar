@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 68,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
-    "https://nypost.com/2026/05/21/real-estate/residents-fume-as-georgia-power-seizes-homes-under-eminent-domain/",
-    "https://abcnews.com/US/600-acre-ai-data-center-cost-wisconsin-residents/story?id=130153006",
-    "https://www.spheron.network/blog/ai-data-center-power-constraints-2026/"
+    "https://www.youtube.com/watch?v=fk0HVruAWBk",
+    "https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a",
+    "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html"
   ]
 }

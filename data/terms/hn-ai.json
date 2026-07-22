@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 87,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://ai-law-tracker.com",
-    "https://suhasbhairav.com/ai-templates",
-    "https://www.jointjs.com/demos/ai-workflow-builder"
+    "https://chromewebstore.google.com/detail/ai-chat-exporter-save-cha/fghmokdhfaggnaemnlnmifdkmjcjebhc",
+    "https://ai-song.net/",
+    "https://getaiassist.app/",
+    "https://github.com/mathigatti/telegram-ai-secretary"
   ]
 }

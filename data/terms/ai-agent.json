@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 20,
+  "mention_count_recent": 18,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 20; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 18; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/rajfirke/provena",
-    "https://lake8.dev/lagotto-meter/",
-    "https://www.youtube.com/watch?v=3nhRaJ3eOS8",
-    "https://firerun.io/blog/netlify-per-member-ai-spend-limits-2026/",
-    "https://news.ycombinator.com/item?id=48982958"
+    "https://memsprout.com",
+    "https://github.com/headroomlabs-ai/headroom",
+    "https://libretto.sh/browser-tools",
+    "https://github.com/zachrip/claude-bucks",
+    "https://github.com/Kentucky-ai/opentakeoff"
   ]
 }

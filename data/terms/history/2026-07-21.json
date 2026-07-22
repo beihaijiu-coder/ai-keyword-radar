@@ -1,46 +1,66 @@
 {
-  "updated_at": "2026-07-21T00:02:22.650171+00:00",
+  "updated_at": "2026-07-21T23:59:20.705005+00:00",
   "terms": [
     {
-      "term": "Kimi K3",
-      "slug": "kimi-k3",
-      "first_seen": "2026-07-17",
+      "term": "HN AI",
+      "slug": "hn-ai",
+      "first_seen": "2026-06-09",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 6,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
-      "search_gap_score": 94,
+      "search_gap_score": 100,
       "source_diversity_score": 33,
-      "opportunity_score": 84,
-      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "opportunity_score": 87,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://ai-world-bakeoff.pages.dev/",
-        "https://www.neowin.net/news/uh-oh-the-trump-admin-doesnt-like-chinas-kimi-k3-ai-model-and-could-ban-it-for-americans/",
-        "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-        "https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand",
-        "https://askciela.com/"
+        "https://chromewebstore.google.com/detail/ai-chat-exporter-save-cha/fghmokdhfaggnaemnlnmifdkmjcjebhc",
+        "https://ai-song.net/",
+        "https://getaiassist.app/",
+        "https://github.com/mathigatti/telegram-ai-secretary"
       ]
     },
     {
-      "term": "Hi HN",
-      "slug": "hi-hn",
+      "term": "Show HN AI",
+      "slug": "show-hn-ai",
       "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://chromewebstore.google.com/detail/ai-chat-exporter-save-cha/fghmokdhfaggnaemnlnmifdkmjcjebhc",
+        "https://ai-song.net/",
+        "https://getaiassist.app/",
+        "https://github.com/mathigatti/telegram-ai-secretary"
+      ]
+    },
+    {
+      "term": "Hey HN",
+      "slug": "hey-hn",
+      "first_seen": "2026-06-11",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 99,
+      "search_gap_score": 100,
       "source_diversity_score": 33,
-      "opportunity_score": 82,
+      "opportunity_score": 83,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=48981136",
-        "https://askciela.com/",
-        "https://regularly.co"
+        "https://github.com/kyle-visner/jaybase",
+        "https://www.superserve.ai/",
+        "https://www.sfora.ai"
       ]
     },
     {
@@ -51,19 +71,19 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 7,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 68,
       "source_diversity_score": 67,
       "opportunity_score": 81,
-      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups",
-        "https://runtimewire.com/article/ramp-router-ai-model-gateway-llm-costs",
-        "https://lecturetobook.com/",
-        "https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand",
-        "https://openai.com/index/deployment-simulation"
+        "https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/",
+        "https://localsotabenchmark.engineersf.dev/",
+        "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+        "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+        "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf"
       ]
     },
     {
@@ -74,19 +94,80 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 20,
+      "mention_count_recent": 18,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 67,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 20; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 18; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/rajfirke/provena",
-        "https://lake8.dev/lagotto-meter/",
-        "https://www.youtube.com/watch?v=3nhRaJ3eOS8",
-        "https://firerun.io/blog/netlify-per-member-ai-spend-limits-2026/",
-        "https://news.ycombinator.com/item?id=48982958"
+        "https://memsprout.com",
+        "https://github.com/headroomlabs-ai/headroom",
+        "https://libretto.sh/browser-tools",
+        "https://github.com/zachrip/claude-bucks",
+        "https://github.com/Kentucky-ai/opentakeoff"
+      ]
+    },
+    {
+      "term": "Kimi K3",
+      "slug": "kimi-k3",
+      "first_seen": "2026-07-17",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 94,
+      "source_diversity_score": 33,
+      "opportunity_score": 80,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://fireworks.ai/blog/kimik3-fable",
+        "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-eyes-50-billion-151346997.html",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption"
+      ]
+    },
+    {
+      "term": "Physical AI",
+      "slug": "physical-ai",
+      "first_seen": "2026-07-21",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 65,
+      "source_diversity_score": 67,
+      "opportunity_score": 79,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.media.mit.edu/projects/the-stochastic-parrot/overview/",
+        "https://dreossi.github.io/blog/physical-ai-taxonomy/",
+        "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+        "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+      ]
+    },
+    {
+      "term": "Open Weight AI",
+      "slug": "open-weight-ai",
+      "first_seen": "2026-07-21",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 86,
+      "source_diversity_score": 33,
+      "opportunity_score": 77,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
+        "https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist"
       ]
     },
     {
@@ -96,107 +177,63 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 5,
+      "mention_count_recent": 6,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 74,
       "source_diversity_score": 33,
       "opportunity_score": 76,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.neowin.net/news/uh-oh-the-trump-admin-doesnt-like-chinas-kimi-k3-ai-model-and-could-ban-it-for-americans/",
-        "https://www.flyingpenguin.com/chinese-ai-open-weights-grow-safer-as-american-ai-becomes-dead-weight/",
-        "https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand",
+        "https://twitter.com/jimcramer/status/2079509100535197892",
         "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
-        "https://www.chinese-ai-report.com/"
+        "https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/",
+        "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption"
       ]
     },
     {
-      "term": "AI I",
-      "slug": "ai-i",
-      "first_seen": "2026-06-10",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 68,
-      "source_diversity_score": 33,
-      "opportunity_score": 74,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://apps.apple.com/it/app/riace/id6760669387",
-        "https://news.ycombinator.com/item?id=48980665",
-        "https://news.ycombinator.com/item?id=48979474",
-        "https://www.youtube.com/@bewideai"
-      ]
-    },
-    {
-      "term": "coding agent",
-      "slug": "coding-agent",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews",
-        "rss"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 1,
-      "velocity_score": 75,
-      "search_gap_score": 76,
-      "source_diversity_score": 67,
-      "opportunity_score": 74,
-      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://www.velprium.com/",
-        "https://news.ycombinator.com/item?id=48982875",
-        "https://askciela.com/",
-        "https://openai.com/index/running-codex-safely"
-      ]
-    },
-    {
-      "term": "autonomous AI",
-      "slug": "autonomous-ai",
-      "first_seen": "2026-06-11",
+      "term": "agents live",
+      "slug": "agents-live",
+      "first_seen": "2026-07-21",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 76,
+      "search_gap_score": 83,
       "source_diversity_score": 33,
-      "opportunity_score": 73,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 76,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://github.com/alexanderwanyoike/the0",
-        "https://money-agent-production-a0a9.up.railway.app/api/summarize",
-        "https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/"
+        "https://www.superserve.ai/",
+        "https://meltbox.ai/",
+        "https://chatpanel.net/"
       ]
     },
     {
-      "term": "AI data",
-      "slug": "ai-data",
-      "first_seen": "2026-06-06",
+      "term": "browser extension",
+      "slug": "browser-extension",
+      "first_seen": "2026-07-21",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 63,
+      "velocity_score": 90,
+      "search_gap_score": 84,
       "source_diversity_score": 33,
-      "opportunity_score": 72,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 76,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
-        "https://nypost.com/2026/05/21/real-estate/residents-fume-as-georgia-power-seizes-homes-under-eminent-domain/",
-        "https://abcnews.com/US/600-acre-ai-data-center-cost-wisconsin-residents/story?id=130153006",
-        "https://www.spheron.network/blog/ai-data-center-power-constraints-2026/"
+        "https://chatpanel.net/",
+        "https://quiverkit.dev",
+        "https://useekko.app/"
       ]
     },
     {
-      "term": "local AI",
+      "term": "Local AI",
       "slug": "local-ai",
       "first_seen": "2026-06-10",
       "sources": [
@@ -210,14 +247,14 @@
       "opportunity_score": 72,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=48982875",
-        "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
-        "https://ar5en1c.github.io/headroom/"
+        "https://github.com/The18thWarrior/tzro",
+        "https://zenodo.org/records/21471816",
+        "https://medium.com/@klaudibregu/the-local-ai-lie-weve-all-been-sold-6d3f9373de5e"
       ]
     },
     {
-      "term": "Claude Code",
-      "slug": "claude-code",
+      "term": "agentic AI",
+      "slug": "agentic-ai",
       "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
@@ -225,21 +262,42 @@
       "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
-      "search_gap_score": 59,
+      "search_gap_score": 61,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/aveproject/ave",
+        "https://github.com/inflexa-ai/inflexa",
+        "https://blog.technodrone.cloud/2026/07/aws-intro-owasp-agentic-top10.html",
+        "https://claude.com/blog/ciso-guide-to-agentic-ai"
+      ]
+    },
+    {
+      "term": "AI slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 58,
       "source_diversity_score": 33,
       "opportunity_score": 70,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/dawndrain/movie-gen",
-        "https://sitespeak.ai/blog/automate-customer-support-mcp",
-        "https://callbro.ai/",
-        "https://claudete.co/ai-buddy"
+        "https://github.com/Kalcode/spaceprojectsim",
+        "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+        "https://news.ycombinator.com/item?id=48989672",
+        "https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data"
       ]
     },
     {
-      "term": "where AI",
-      "slug": "where-ai",
-      "first_seen": "2026-06-16",
+      "term": "Weight AI",
+      "slug": "weight-ai",
+      "first_seen": "2026-07-21",
       "sources": [
         "hackernews"
       ],
@@ -251,36 +309,54 @@
       "opportunity_score": 70,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=48980665",
-        "https://www.agentduel.app/b/cru8E9nG",
-        "https://github.com/bjoern-janson/resolution-horizon"
+        "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
+        "https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist"
       ]
     },
     {
-      "term": "AI data center",
-      "slug": "ai-data-center",
+      "term": "AI tool",
+      "slug": "ai-tool",
+      "first_seen": "2026-06-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 65,
+      "source_diversity_score": 33,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=S07dI6pIr_Q",
+        "https://metana.io/ai-training-for-professionals",
+        "https://portraify.app"
+      ]
+    },
+    {
+      "term": "AI Tokens",
+      "slug": "ai-tokens",
       "first_seen": "2026-07-21",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 53,
+      "velocity_score": 90,
+      "search_gap_score": 66,
       "source_diversity_score": 33,
-      "opportunity_score": 68,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/power-companies-can-seize-private-land-to-make-way-for-new-ai-data-center-transmission-lines-report-says-takeovers-could-be-implemented-using-eminent-domain-law-when-private-citizens-refuse-to-sell-land",
-        "https://nypost.com/2026/05/21/real-estate/residents-fume-as-georgia-power-seizes-homes-under-eminent-domain/",
-        "https://abcnews.com/US/600-acre-ai-data-center-cost-wisconsin-residents/story?id=130153006",
-        "https://www.spheron.network/blog/ai-data-center-power-constraints-2026/"
+        "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+        "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+        "https://twitter.com/shl/status/2079387173749714944"
       ]
     },
     {
-      "term": "AI text",
-      "slug": "ai-text",
-      "first_seen": "2026-07-21",
+      "term": "AI data",
+      "slug": "ai-data",
+      "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
       ],
@@ -292,14 +368,14 @@
       "opportunity_score": 68,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.ynetnews.com/article/rjczjxqvfx",
-        "https://imbue.com/blog/bouncer-leveraging-local-compute-to-detect-ai-slop",
-        "https://zlvox.com/tools/ai-humanizer"
+        "https://www.youtube.com/watch?v=fk0HVruAWBk",
+        "https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a",
+        "https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html"
       ]
     },
     {
-      "term": "Agentic AI",
-      "slug": "agentic-ai",
+      "term": "Claude Code",
+      "slug": "claude-code",
       "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
@@ -307,74 +383,14 @@
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 61,
-      "source_diversity_score": 33,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming",
-        "https://www.hpc-ai.com/blog/What-Is-Agentic-AI",
-        "https://news.ycombinator.com/item?id=48969329"
-      ]
-    },
-    {
-      "term": "AI slop",
-      "slug": "ai-slop",
-      "first_seen": "2026-06-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 58,
+      "search_gap_score": 59,
       "source_diversity_score": 33,
       "opportunity_score": 66,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=48973671",
-        "https://arxiv.org/abs/2607.04003",
-        "https://insidethecreator.beehiiv.com/p/the-slop-purge-has-arrived"
-      ]
-    },
-    {
-      "term": "AI about",
-      "slug": "ai-about",
-      "first_seen": "2026-07-21",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 43,
-      "source_diversity_score": 33,
-      "opportunity_score": 60,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://codeground.ai/",
-        "https://news.ycombinator.com/item?id=48981644",
-        "https://news.ycombinator.com/item?id=48980665"
-      ]
-    },
-    {
-      "term": "AI Can",
-      "slug": "ai-can",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 38,
-      "source_diversity_score": 33,
-      "opportunity_score": 58,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://news.ycombinator.com/item?id=48979474",
-        "https://cbrowser.ai/blog/screen-capture-recordings-your-ai-can-read/",
-        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339"
+        "https://www.superserve.ai/",
+        "https://meltbox.ai/",
+        "https://devpost.com/software/diff-forge-ai"
       ]
     }
   ]

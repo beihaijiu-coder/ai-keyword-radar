@@ -1,0 +1,22 @@
+{
+  "term": "Physical AI",
+  "slug": "physical-ai",
+  "first_seen": "2026-07-21",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 65,
+  "source_diversity_score": 67,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.media.mit.edu/projects/the-stochastic-parrot/overview/",
+    "https://dreossi.github.io/blog/physical-ai-taxonomy/",
+    "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+  ]
+}

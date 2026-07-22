@@ -1,5 +1,5 @@
 {
-  "term": "local AI",
+  "term": "Local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48982875",
-    "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
-    "https://ar5en1c.github.io/headroom/"
+    "https://github.com/The18thWarrior/tzro",
+    "https://zenodo.org/records/21471816",
+    "https://medium.com/@klaudibregu/the-local-ai-lie-weve-all-been-sold-6d3f9373de5e"
   ]
 }
