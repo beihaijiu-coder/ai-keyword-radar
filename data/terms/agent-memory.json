@@ -1,20 +1,20 @@
 {
-  "term": "AI assistant",
-  "slug": "ai-assistant",
-  "first_seen": "2026-06-16",
+  "term": "agent memory",
+  "slug": "agent-memory",
+  "first_seen": "2026-07-23",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 62,
+  "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
+  "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/forgesynapseltd/ClawLite",
-    "https://codifycli.com/",
-    "https://pantsyr.dev/blog/smart-safe-or-fast-every-conversational-ai-assistant-picks-two/"
+    "https://github.com/veracium-ai/Veracium",
+    "https://squidler.io/blog/agent-memory-2-capture",
+    "https://memsprout.com"
   ]
 }

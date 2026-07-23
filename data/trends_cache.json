@@ -826,5 +826,33 @@
   "browser extension": {
     "interest": 16,
     "checked_at": "2026-07-22T00:00:16.930328+00:00"
+  },
+  "ai labs": {
+    "interest": 37,
+    "checked_at": "2026-07-23T00:07:41.059360+00:00"
+  },
+  "openai says its ai": {
+    "interest": 3,
+    "checked_at": "2026-07-23T00:08:01.095430+00:00"
+  },
+  "says its ai": {
+    "interest": 5,
+    "checked_at": "2026-07-23T00:08:11.051476+00:00"
+  },
+  "ai kimi k3": {
+    "interest": 35,
+    "checked_at": "2026-07-23T00:08:21.052449+00:00"
+  },
+  "benchmark we": {
+    "interest": 1,
+    "checked_at": "2026-07-23T00:08:31.068300+00:00"
+  },
+  "gives ai": {
+    "interest": 24,
+    "checked_at": "2026-07-23T00:08:41.034866+00:00"
+  },
+  "agent memory": {
+    "interest": 24,
+    "checked_at": "2026-07-23T00:08:51.054515+00:00"
   }
 }

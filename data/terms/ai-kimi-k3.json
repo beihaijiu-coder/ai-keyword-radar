@@ -1,19 +1,20 @@
 {
-  "term": "AI Tokens",
-  "slug": "ai-tokens",
-  "first_seen": "2026-07-21",
+  "term": "AI Kimi K3",
+  "slug": "ai-kimi-k3",
+  "first_seen": "2026-07-23",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 66,
+  "search_gap_score": 65,
   "source_diversity_score": 33,
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
-    "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
+    "https://aiunderheaven.substack.com/p/ai-under-heaven01",
+    "https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7",
+    "https://github.com/column-tax/tax-calc-bench/pull/93"
   ]
 }

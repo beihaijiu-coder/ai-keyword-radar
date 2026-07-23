@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 94,
   "source_diversity_score": 33,
-  "opportunity_score": 80,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 84,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://github.com/column-tax/tax-calc-bench/pull/93",
+    "https://finance.yahoo.com/technology/ai/articles/microsoft-considers-replacing-chatgpt-claude-100000468.html",
+    "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
     "https://fireworks.ai/blog/kimik3-fable",
-    "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-eyes-50-billion-151346997.html",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption"
+    "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-eyes-50-billion-151346997.html"
   ]
 }

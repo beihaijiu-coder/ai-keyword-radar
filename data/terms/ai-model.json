@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 67,
   "opportunity_score": 81,
-  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/",
-    "https://localsotabenchmark.engineersf.dev/",
-    "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
-    "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
-    "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf"
+    "https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat",
+    "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
+    "https://matthewlloyd.github.io/ai-model-release-timeline/",
+    "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "https://openai.com/index/deployment-simulation"
   ]
 }

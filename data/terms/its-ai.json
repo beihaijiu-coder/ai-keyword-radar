@@ -1,20 +1,22 @@
 {
-  "term": "its AI",
+  "term": "Its AI",
   "slug": "its-ai",
   "first_seen": "2026-06-23",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
-    "https://www.marketbeat.com/articles/amazons-new-debt-deal-puts-its-ai-spending-story-on-trial/",
-    "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+    "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face",
+    "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+    "https://apnews.com/article/openai-gpt56-sol-hugging-face-63ab84fed5612af04d8a160d60f6def3"
   ]
 }
