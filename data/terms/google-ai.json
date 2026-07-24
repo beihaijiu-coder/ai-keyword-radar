@@ -1,0 +1,22 @@
+{
+  "term": "Google AI",
+  "slug": "google-ai",
+  "first_seen": "2026-07-24",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 42,
+  "source_diversity_score": 67,
+  "opportunity_score": 60,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+    "https://ai.google/static/documents/GoogleATLASv1.pdf",
+    "https://medium.com/@a.galecki/google-ai-overviews-recommend-brands-your-rank-tracker-never-sees-eeb285e0b9cc",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/"
+  ]
+}

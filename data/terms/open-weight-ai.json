@@ -1,19 +1,21 @@
 {
-  "term": "Open Weight AI",
+  "term": "open weight AI",
   "slug": "open-weight-ai",
   "first_seen": "2026-07-21",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 86,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
-    "https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist"
+    "https://isopenweightaibannedyet.com/",
+    "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+    "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization"
   ]
 }

@@ -1,20 +1,19 @@
 {
-  "term": "without AI",
-  "slug": "without-ai",
-  "first_seen": "2026-06-18",
+  "term": "AI Agents Don",
+  "slug": "ai-agents-don",
+  "first_seen": "2026-07-24",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 81,
+  "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
+  "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://zerogate.cloud",
-    "https://neo-box.app",
-    "https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai"
+    "https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses",
+    "https://loadbearingtech.substack.com/p/self-improving-agent-loops-verifier"
   ]
 }

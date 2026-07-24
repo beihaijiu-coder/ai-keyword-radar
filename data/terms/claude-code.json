@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 8,
+  "mention_count_recent": 10,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 10; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49010310",
-    "https://www.bulaev.net/p/i-had-11-ai-subagents-test-every",
-    "https://github.com/sktkkoo/Yorishiro",
-    "https://bento.page/slides/",
-    "https://promptowl.ai/resources/make-claude-accountable-contextnest-plugin/"
+    "https://github.com/Amal-David/bookshelf",
+    "https://cobaltcode.ai/",
+    "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
+    "https://github.com/sand0vvv/fleet",
+    "https://systima.ai/blog/subagent-tax"
   ]
 }

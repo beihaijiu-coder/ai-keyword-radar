@@ -1,19 +1,22 @@
 {
-  "term": "AI Spending",
+  "term": "AI spending",
   "slug": "ai-spending",
   "first_seen": "2026-07-12",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 72,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
-    "https://www.marketbeat.com/articles/amazons-new-debt-deal-puts-its-ai-spending-story-on-trial/"
+    "https://finterm.ai/blog/big-tech-ai-spending-1-65-trillion.html",
+    "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+    "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+    "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
   ]
 }
