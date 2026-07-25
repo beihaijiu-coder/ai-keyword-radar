@@ -882,5 +882,41 @@
   "some ai": {
     "interest": 49,
     "checked_at": "2026-07-24T00:06:36.730076+00:00"
+  },
+  "ai kill switch": {
+    "interest": 7,
+    "checked_at": "2026-07-25T00:11:43.685402+00:00"
+  },
+  "american ai leadership": {
+    "interest": 4,
+    "checked_at": "2026-07-25T00:12:03.691739+00:00"
+  },
+  "ai leadership": {
+    "interest": 39,
+    "checked_at": "2026-07-25T00:12:13.725153+00:00"
+  },
+  "open weights": {
+    "interest": 23,
+    "checked_at": "2026-07-25T00:12:23.727738+00:00"
+  },
+  "claude opus": {
+    "interest": 14,
+    "checked_at": "2026-07-25T00:12:43.732904+00:00"
+  },
+  "ai generated": {
+    "interest": 45,
+    "checked_at": "2026-07-25T00:12:53.745120+00:00"
+  },
+  "uk aisi": {
+    "interest": 1,
+    "checked_at": "2026-07-25T00:13:13.696449+00:00"
+  },
+  "caisi preliminary assessment": {
+    "interest": 1,
+    "checked_at": "2026-07-25T00:13:23.707197+00:00"
+  },
+  "ai kill switch act": {
+    "interest": 1,
+    "checked_at": "2026-07-25T00:13:43.748484+00:00"
   }
 }

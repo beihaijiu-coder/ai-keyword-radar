@@ -1,20 +1,20 @@
 {
-  "term": "AI slop",
-  "slug": "ai-slop",
-  "first_seen": "2026-06-07",
+  "term": "AI generated",
+  "slug": "ai-generated",
+  "first_seen": "2026-07-25",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 58,
+  "search_gap_score": 55,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 65,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49032342",
-    "https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt",
+    "https://news.ycombinator.com/item?id=49039920",
+    "https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders",
     "https://news.ycombinator.com/item?id=49024805"
   ]
 }

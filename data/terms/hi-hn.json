@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 99,
   "source_diversity_score": 33,
   "opportunity_score": 86,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://notebooker.ai/",
-    "https://github.com/Fr4nZ82/mwe-mcp",
-    "https://scoutfox.in",
-    "https://ldbd.app"
+    "https://brandonli.net/semisim/animations",
+    "https://nommer.ai/",
+    "https://github.com/henrygabriels/binaural-studio",
+    "https://pdfly.uk/",
+    "https://notebooker.ai/"
   ]
 }

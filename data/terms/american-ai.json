@@ -1,0 +1,21 @@
+{
+  "term": "American AI",
+  "slug": "american-ai",
+  "first_seen": "2026-07-25",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "https://twitter.com/JensenHuang/status/2080643682408321103",
+    "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+    "https://www.wsj.com/world/china/china-ai-chips-race-949050d0"
+  ]
+}
