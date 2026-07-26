@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 72,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors",
     "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-    "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
-    "https://news.bloomberglaw.com/texas-brief/tesla-profit-falls-well-short-of-expectations-as-costs-rise-3",
-    "https://finterm.ai/blog/big-tech-ai-spending-1-65-trillion.html"
+    "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html"
   ]
 }

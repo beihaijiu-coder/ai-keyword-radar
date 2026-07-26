@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 8,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49051762",
+    "https://github.com/BinaryBananaLLC/WhipDesk",
     "https://news.ycombinator.com/item?id=49042653",
     "https://www.tripverdict.ca",
-    "https://github.com/APareek89/power-coding",
-    "https://github.com/louisbrulenaudet/monorepo-template",
-    "https://github.com/Amal-David/bookshelf"
+    "https://github.com/APareek89/power-coding"
   ]
 }

@@ -918,5 +918,13 @@
   "ai kill switch act": {
     "interest": 1,
     "checked_at": "2026-07-25T00:13:43.748484+00:00"
+  },
+  "cyber capabilities": {
+    "interest": 0,
+    "checked_at": "2026-07-26T00:05:52.273472+00:00"
+  },
+  "american ai": {
+    "interest": 32,
+    "checked_at": "2026-07-26T00:06:02.161586+00:00"
   }
 }

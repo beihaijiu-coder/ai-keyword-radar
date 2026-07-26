@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 99,
   "source_diversity_score": 33,
   "opportunity_score": 86,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://chromewebstore.google.com/detail/ai-chat-exporter-save-cha/fghmokdhfaggnaemnlnmifdkmjcjebhc",
-    "https://ai-song.net/",
-    "https://getaiassist.app/",
-    "https://github.com/mathigatti/telegram-ai-secretary"
+    "https://www.getdebug.dev/blog/python-ai-app-prefilters",
+    "https://www.ai-toolbox.co",
+    "https://zlvox.com/tools/anime-finder",
+    "https://ai-meter.app",
+    "https://github.com/KubiKDB/AI-Tools-For-Learning"
   ]
 }

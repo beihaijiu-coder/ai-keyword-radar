@@ -1,5 +1,5 @@
 {
-  "term": "Local AI",
+  "term": "local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/timtoole02/Camelid",
-    "https://news.ycombinator.com/item?id=49020107",
-    "https://www.vaultsort.com/guardian"
+    "https://pocketweb.tools/",
+    "https://ai-meter.app",
+    "https://www.unite.ai/python-package-installations-as-an-index-of-local-ai-adoption/"
   ]
 }
