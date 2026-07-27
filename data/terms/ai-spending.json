@@ -1,20 +1,21 @@
 {
-  "term": "AI spending",
+  "term": "AI Spending",
   "slug": "ai-spending",
   "first_seen": "2026-07-12",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 72,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors",
-    "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-    "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html"
+    "https://mlq.ai/news/coinbase-switches-to-chinese-ai-models-glm-and-kimi-cuts-ai-spending-by-50/",
+    "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f",
+    "https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223",
+    "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
   ]
 }

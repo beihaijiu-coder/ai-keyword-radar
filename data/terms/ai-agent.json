@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 12,
+  "mention_count_recent": 13,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/eouzoe/reel",
+    "https://terminai.app",
+    "https://www.actenon.com/",
     "https://pypi.org/project/pyshackle/",
-    "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-    "https://news.ycombinator.com/item?id=49045925",
-    "https://cordum.io/blog/ai-agent-blameless-postmortem-template",
-    "https://github.com/roopamwsure/cage-lite"
+    "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/"
   ]
 }

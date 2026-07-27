@@ -1,5 +1,5 @@
 {
-  "term": "Open source AI",
+  "term": "open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/rortan134/cache-app",
-    "https://github.com/imbue-ai/catalyst",
-    "https://github.com/riponcm/Jharu"
+    "https://github.com/hertz-ai/HARTOS",
+    "https://www.youtube.com/watch?v=siy0744Ykys",
+    "https://github.com/rortan134/cache-app"
   ]
 }

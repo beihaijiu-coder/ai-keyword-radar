@@ -1,5 +1,5 @@
 {
-  "term": "When AI",
+  "term": "when AI",
   "slug": "when-ai",
   "first_seen": "2026-07-07",
   "sources": [
@@ -13,9 +13,9 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
     "https://news.ycombinator.com/item?id=49048352",
     "https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools",
-    "https://tidydesign.substack.com/p/y-code-when-ai",
-    "https://r.rich/blog/ai-native-change-management"
+    "https://tidydesign.substack.com/p/y-code-when-ai"
   ]
 }

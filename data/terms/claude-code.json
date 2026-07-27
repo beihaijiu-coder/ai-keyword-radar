@@ -13,10 +13,10 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/Nutlope/hallmark",
+    "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
+    "https://aifordevelopers.substack.com/p/designmd-for-design-in-claude-code",
     "https://news.ycombinator.com/item?id=49051762",
-    "https://github.com/BinaryBananaLLC/WhipDesk",
-    "https://news.ycombinator.com/item?id=49042653",
-    "https://www.tripverdict.ca",
-    "https://github.com/APareek89/power-coding"
+    "https://github.com/BinaryBananaLLC/WhipDesk"
   ]
 }

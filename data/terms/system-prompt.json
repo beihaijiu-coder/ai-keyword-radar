@@ -1,0 +1,21 @@
+{
+  "term": "system prompt",
+  "slug": "system-prompt",
+  "first_seen": "2026-07-27",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://antigma.ai/blog/2026/07/25/short-prompt-small-models",
+    "https://terminai.app",
+    "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
+    "https://news.ycombinator.com/item?id=49045925"
+  ]
+}
