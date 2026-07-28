@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/",
+    "https://github.com/Sami-Uysal/awesome-open-ai-developer-tools",
     "https://github.com/hertz-ai/HARTOS",
-    "https://www.youtube.com/watch?v=siy0744Ykys",
-    "https://github.com/rortan134/cache-app"
+    "https://www.youtube.com/watch?v=siy0744Ykys"
   ]
 }

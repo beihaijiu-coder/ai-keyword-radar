@@ -1,0 +1,20 @@
+{
+  "term": "AI Doesn",
+  "slug": "ai-doesn",
+  "first_seen": "2026-07-28",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://epoch.ai/publications/earthborne-rangers-benchmark",
+    "https://wilburhimself.github.io/blog/65-why-ai-doesnt-replace-software-architecture/",
+    "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/"
+  ]
+}
