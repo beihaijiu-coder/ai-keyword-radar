@@ -930,5 +930,13 @@
   "genesis mission": {
     "interest": 9,
     "checked_at": "2026-07-27T00:07:43.734930+00:00"
+  },
+  "advancing ai": {
+    "interest": 10,
+    "checked_at": "2026-07-29T00:03:11.311765+00:00"
+  },
+  "ai security": {
+    "interest": 36,
+    "checked_at": "2026-07-29T00:03:41.227097+00:00"
   }
 }

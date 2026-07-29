@@ -1,23 +1,20 @@
 {
-  "term": "what AI",
+  "term": "What AI",
   "slug": "what-ai",
   "first_seen": "2026-06-19",
   "sources": [
-    "hackernews",
-    "rss"
+    "hackernews"
   ],
-  "mention_count_recent": 4,
-  "mention_count_history": 1,
-  "velocity_score": 100,
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
   "search_gap_score": 66,
-  "source_diversity_score": 67,
-  "opportunity_score": 80,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.usenino.com/",
-    "https://builderwrench.com/tools/ai-readiness-inspector",
-    "https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure",
-    "https://iaxt.com/",
-    "https://openai.com/academy/what-is-ai"
+    "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+    "https://blog.zksecurity.xyz/posts/bron-bugs/",
+    "https://github.com/haror1/answerwatch"
   ]
 }

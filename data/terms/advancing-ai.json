@@ -1,0 +1,21 @@
+{
+  "term": "Advancing AI",
+  "slug": "advancing-ai",
+  "first_seen": "2026-07-29",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 90,
+  "source_diversity_score": 67,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
+    "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
+    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+  ]
+}

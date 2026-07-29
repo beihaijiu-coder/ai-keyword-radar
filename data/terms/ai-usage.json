@@ -1,5 +1,5 @@
 {
-  "term": "AI usage",
+  "term": "AI Usage",
   "slug": "ai-usage",
   "first_seen": "2026-06-08",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48483183",
-    "https://blog.ewancroft.uk/3mnw2znjfbc22",
-    "https://news.ycombinator.com/item?id=48464996"
+    "https://blog.scottlogic.com/ceberhardt/rise-of-open-weights/",
+    "https://zenlyfinancial.com/",
+    "https://github.com/burakgon/ai-usage-menubar"
   ]
 }
