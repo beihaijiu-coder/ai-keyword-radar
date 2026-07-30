@@ -1,20 +1,19 @@
 {
-  "term": "Claude Code",
-  "slug": "claude-code",
-  "first_seen": "2026-06-06",
+  "term": "AI stocks",
+  "slug": "ai-stocks",
+  "first_seen": "2026-07-30",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 59,
+  "search_gap_score": 61,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/oryxintel/oryxflow",
-    "https://blog.jetbrains.com/ai/2026/07/ponytail-skill-claude-tested/",
-    "https://github.com/kyle-visner/magpie"
+    "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c",
+    "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks"
   ]
 }

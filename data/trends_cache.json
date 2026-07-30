@@ -938,5 +938,17 @@
   "ai security": {
     "interest": 36,
     "checked_at": "2026-07-29T00:03:41.227097+00:00"
+  },
+  "ai hype": {
+    "interest": 2,
+    "checked_at": "2026-07-30T00:04:28.792287+00:00"
+  },
+  "open source": {
+    "interest": 29,
+    "checked_at": "2026-07-30T00:04:38.735581+00:00"
+  },
+  "ai stocks": {
+    "interest": 39,
+    "checked_at": "2026-07-30T00:05:18.792673+00:00"
   }
 }

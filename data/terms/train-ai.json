@@ -1,0 +1,20 @@
+{
+  "term": "Train AI",
+  "slug": "train-ai",
+  "first_seen": "2026-07-30",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material",
+    "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+    "https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back"
+  ]
+}

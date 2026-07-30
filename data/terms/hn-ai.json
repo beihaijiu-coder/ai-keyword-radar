@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 87,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.getdebug.dev/blog/python-ai-app-prefilters",
-    "https://www.ai-toolbox.co",
-    "https://zlvox.com/tools/anime-finder",
-    "https://ai-meter.app"
+    "https://leaderboard.far.ai/",
+    "https://leetcopilot.dev",
+    "https://zaatar.ai/"
   ]
 }

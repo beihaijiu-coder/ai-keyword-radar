@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 61,
   "source_diversity_score": 67,
   "opportunity_score": 78,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://openai.com/index/scientific-computing-agentic-ai/",
-    "https://zenodo.org/records/21277138",
-    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "https://github.com/AgentSwarms-fyi/agentswarms",
+    "https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/preventing-data-purpose-laundering-agentic-ai-hardware-rooted-pre-effectuation-layer-gdpr-purpose",
+    "https://github.com/FedericoTs/quantprobe",
+    "https://news.ycombinator.com/item?id=49092716",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

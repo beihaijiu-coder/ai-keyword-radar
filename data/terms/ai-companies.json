@@ -1,5 +1,5 @@
 {
-  "term": "AI Companies",
+  "term": "AI companies",
   "slug": "ai-companies",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt",
-    "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/"
+    "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material",
+    "https://www.news.com.au/technology/online/internet/ai-labs-buy-scan-shred-millions-of-rare-books/news-story/0c3b45a67093ab462a587a0348538ce9"
   ]
 }

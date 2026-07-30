@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 94,
   "source_diversity_score": 33,
-  "opportunity_score": 80,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 84,
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://vllm.ai/blog/2026-07-27-k3",
-    "https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities",
-    "https://www.alexinch.com/blog/kimi-k3"
+    "https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
+    "https://aicontentfootprint.com/",
+    "https://www.incalmo.ai/blog/2026/06/26/glm-malware/",
+    "https://aistack.imec-int.com/blog/gpu-self-hosting"
   ]
 }
