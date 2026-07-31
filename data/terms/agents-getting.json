@@ -1,20 +1,20 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "agents getting",
+  "slug": "agents-getting",
+  "first_seen": "2026-07-31",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 97,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 81,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/Gimanh/taskview-community",
+    "https://news.ycombinator.com/item?id=49116923",
     "https://github.com/coasty-ai/open-cowork",
-    "https://news.ycombinator.com/item?id=49105561"
+    "https://github.com/tuneloop/tuneloop"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "term": "after AI",
+  "slug": "after-ai",
+  "first_seen": "2026-07-31",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 60,
+  "source_diversity_score": 33,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
+    "https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549",
+    "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1"
+  ]
+}

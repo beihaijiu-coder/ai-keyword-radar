@@ -950,5 +950,17 @@
   "ai stocks": {
     "interest": 39,
     "checked_at": "2026-07-30T00:05:18.792673+00:00"
+  },
+  "after ai": {
+    "interest": 40,
+    "checked_at": "2026-07-31T00:09:32.603685+00:00"
+  },
+  "anthropic ai": {
+    "interest": 40,
+    "checked_at": "2026-07-31T00:09:52.587492+00:00"
+  },
+  "agents getting": {
+    "interest": 3,
+    "checked_at": "2026-07-31T00:10:22.575884+00:00"
   }
 }
