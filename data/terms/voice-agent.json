@@ -1,20 +1,20 @@
 {
-  "term": "AI video",
-  "slug": "ai-video",
-  "first_seen": "2026-06-10",
+  "term": "voice agent",
+  "slug": "voice-agent",
+  "first_seen": "2026-08-01",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 63,
+  "search_gap_score": 73,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
+  "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=pHcZpvIfho0",
-    "https://www.prizmkey.com",
-    "https://www.reclip.io"
+    "https://veris.ai/leaderboard",
+    "https://ringup.dev/",
+    "https://github.com/sidmohan0/pomi"
   ]
 }

@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 50,
   "source_diversity_score": 33,
   "opportunity_score": 67,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1",
-    "https://www.youtube.com/watch?v=hy90LdpEUvQ",
-    "https://www.youtube.com/watch?v=qeXpUZTdvsI",
-    "https://www.youtube.com/watch?v=xKuDvRRE7Bc"
+    "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+    "https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
+    "https://www.yetanothervalueblog.com/p/did-situational-awareness-inflate",
+    "https://www.cnbc.com/video/2026/07/31/ai-bubble-will-burst-if-10-year-moves-above-5-percent-says-breakout-capitals-ruchir-sharma.html",
+    "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
   ]
 }

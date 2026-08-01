@@ -962,5 +962,33 @@
   "agents getting": {
     "interest": 3,
     "checked_at": "2026-07-31T00:10:22.575884+00:00"
+  },
+  "ai models hacked": {
+    "interest": 4,
+    "checked_at": "2026-08-01T00:10:12.047295+00:00"
+  },
+  "its own ai": {
+    "interest": 19,
+    "checked_at": "2026-08-01T00:10:32.032577+00:00"
+  },
+  "tap us ai": {
+    "interest": 0,
+    "checked_at": "2026-08-01T00:11:12.032143+00:00"
+  },
+  "tap us ai models": {
+    "interest": 0,
+    "checked_at": "2026-08-01T00:11:22.012938+00:00"
+  },
+  "us ai": {
+    "interest": 49,
+    "checked_at": "2026-08-01T00:11:42.041449+00:00"
+  },
+  "us ai models": {
+    "interest": 8,
+    "checked_at": "2026-08-01T00:11:52.039667+00:00"
+  },
+  "voice agent": {
+    "interest": 27,
+    "checked_at": "2026-08-01T00:12:02.063665+00:00"
   }
 }

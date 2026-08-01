@@ -1,5 +1,5 @@
 {
-  "term": "AI security",
+  "term": "AI Security",
   "slug": "ai-security",
   "first_seen": "2026-07-29",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://predx-article.fika.bar/microsoft-s-ai-security-leap-signals-a-new-era-in-cyber-defe-01KYKBWZ671C178665K5F7MEEF",
-    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks"
+    "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
+    "https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/",
+    "https://raylinement.substack.com/p/ai-security-breaches-the-problems"
   ]
 }

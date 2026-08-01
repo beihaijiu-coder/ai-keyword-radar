@@ -1,0 +1,21 @@
+{
+  "term": "Situational Awareness",
+  "slug": "situational-awareness",
+  "first_seen": "2026-08-01",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+    "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142",
+    "https://www.youtube.com/watch?v=RJdgh9eEZvw"
+  ]
+}

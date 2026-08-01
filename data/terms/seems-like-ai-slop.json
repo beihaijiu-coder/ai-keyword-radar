@@ -1,0 +1,21 @@
+{
+  "term": "Seems Like AI Slop",
+  "slug": "seems-like-ai-slop",
+  "first_seen": "2026-08-01",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 5,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
+    "https://thenextweb.com/news/linkedin-seems-like-ai-slop-button",
+    "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop"
+  ]
+}

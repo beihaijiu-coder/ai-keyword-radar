@@ -1,0 +1,19 @@
+{
+  "term": "tap US AI models",
+  "slug": "tap-us-ai-models",
+  "first_seen": "2026-08-01",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 100,
+  "source_diversity_score": 33,
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+    "https://www.reuters.com/world/asia-pacific/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/"
+  ]
+}

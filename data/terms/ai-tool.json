@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 65,
   "source_diversity_score": 33,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://notjustyou.dev",
-    "https://github.com/KubiKDB/AI-Tools-For-Learning",
-    "https://text.npr.org/g-s1-134929"
+    "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+    "https://www.bbc.com/news/articles/c9349yx2ydvo",
+    "https://www.fastcompany.com/91572019/starbucks-bet-big-ai-tool-national-scale-9-months-inventory-automated-counting-nomadgo",
+    "https://llvm.org/docs/AIToolPolicy.html"
   ]
 }
