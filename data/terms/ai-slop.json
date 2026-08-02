@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 9,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.bbc.com/news/articles/c77g6dm5pr8o",
     "https://www.ifpi.org/ifpi-rolls-out-global-principles-for-the-eligibility-of-recordings-developed-using-ai-in-official-music-charts-worldwide/",
     "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
     "https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool",
-    "https://thenextweb.com/news/linkedin-seems-like-ai-slop-button",
-    "https://www.youtube.com/watch?v=uJblcC4lKYw"
+    "https://thenextweb.com/news/linkedin-seems-like-ai-slop-button"
   ]
 }

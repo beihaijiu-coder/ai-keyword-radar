@@ -1,21 +1,19 @@
 {
-  "term": "when AI",
+  "term": "When AI",
   "slug": "when-ai",
   "first_seen": "2026-07-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
-    "https://news.ycombinator.com/item?id=49048352",
-    "https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools",
-    "https://tidydesign.substack.com/p/y-code-when-ai"
+    "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/"
   ]
 }

@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.investors.com/news/turbine-generator-ai-data-center-power-threat/",
-    "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-    "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/"
+    "https://aidatacenterimpact.com/",
+    "https://www.youtube.com/watch?v=ckoi0RTEgcY",
+    "https://waitlist.urldn.com/",
+    "https://www.investors.com/news/turbine-generator-ai-data-center-power-threat/"
   ]
 }

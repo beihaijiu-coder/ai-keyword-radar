@@ -5,14 +5,15 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 64,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://zeltser.com/ai-security-market-field-guide",
     "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
     "https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/",
     "https://raylinement.substack.com/p/ai-security-breaches-the-problems"
