@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 73,
   "source_diversity_score": 33,
-  "opportunity_score": 76,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://leadprompt.sh/a/739-Building-an-Infinite-Memory-Local-AI-Stack-on-Fedora",
-    "https://engineering.signaldrift.net",
-    "https://github.com/colliehq/collie",
-    "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d"
+    "https://github.com/zyads/eyes",
+    "https://grigio.org/will-self-hosted-local-ai-go-mainstream-or-stay-a-niche-for-nerds/",
+    "https://acefleet.dev/blog/announcing-the-ace-sidecar"
   ]
 }
