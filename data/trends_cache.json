@@ -1002,5 +1002,9 @@
   "ai hacking": {
     "interest": 30,
     "checked_at": "2026-08-03T00:03:44.676928+00:00"
+  },
+  "ai meeting": {
+    "interest": 33,
+    "checked_at": "2026-08-04T00:12:40.616037+00:00"
   }
 }

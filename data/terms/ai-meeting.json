@@ -1,20 +1,20 @@
 {
-  "term": "every AI",
-  "slug": "every-ai",
-  "first_seen": "2026-06-21",
+  "term": "AI meeting",
+  "slug": "ai-meeting",
+  "first_seen": "2026-08-04",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 69,
+  "search_gap_score": 67,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
+  "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://tokenmaxxer.xyz",
-    "https://verginglabs.com/",
-    "https://news.ycombinator.com/item?id=49148320"
+    "https://github.com/bitwize-ai/Logue",
+    "https://github.com/puremetricsai/lumi",
+    "https://news.ycombinator.com/item?id=49150911"
   ]
 }

@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 55,
   "source_diversity_score": 33,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://newsroom.snap.com/rewarding-authentic-creativity-on-spotlight",
-    "https://github.com/penca-io/penca",
-    "https://treefortsystems.com/blog/is-this-blog-post-ai-generated/"
+    "https://github.com/ayarse/popkorn",
+    "https://github.com/RudderCode/Rudder",
+    "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+    "https://news.ycombinator.com/item?id=49144673"
   ]
 }
