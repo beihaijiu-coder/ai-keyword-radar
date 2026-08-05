@@ -1,0 +1,22 @@
+{
+  "term": "Bending Spoons",
+  "slug": "bending-spoons",
+  "first_seen": "2026-08-05",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 12,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 92,
+  "source_diversity_score": 33,
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 12; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable",
+    "https://www.reuters.com/legal/transactional/bending-spoons-makes-first-post-ipo-acquisition-with-13-billion-airtable-deal-2026-08-04/",
+    "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-$1.285-billion",
+    "https://www.bloomberg.com/news/articles/2026-08-04/bending-spoons-to-buy-software-firm-airtable-for-2-3-billion",
+    "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/"
+  ]
+}

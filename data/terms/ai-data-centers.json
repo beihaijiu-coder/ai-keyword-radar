@@ -1,5 +1,5 @@
 {
-  "term": "AI Data Centers",
+  "term": "AI data centers",
   "slug": "ai-data-centers",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,7 +13,8 @@
   "opportunity_score": 60,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-    "https://www.latimes.com/business/story/2026-07-14/new-york-blocks-new-ai-data-centers-in-first-statewide-moratorium"
+    "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+    "https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/",
+    "https://www.npr.org/2026/07/30/nx-s1-5909318/massive-demand-from-ai-data-centers-drives-up-computer-memory-prices"
   ]
 }

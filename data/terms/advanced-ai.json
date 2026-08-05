@@ -1,0 +1,23 @@
+{
+  "term": "advanced AI",
+  "slug": "advanced-ai",
+  "first_seen": "2026-08-05",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
+  "velocity_score": 100,
+  "search_gap_score": 64,
+  "source_diversity_score": 67,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+    "https://news.ycombinator.com/item?id=49171630",
+    "https://openai.com/index/building-abundant-intelligence",
+    "https://openai.com/index/chatgpt-for-academic-researchers",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+  ]
+}

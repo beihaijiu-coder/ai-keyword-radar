@@ -1006,5 +1006,37 @@
   "ai meeting": {
     "interest": 33,
     "checked_at": "2026-08-04T00:12:40.616037+00:00"
+  },
+  "bending spoons": {
+    "interest": 8,
+    "checked_at": "2026-08-05T00:10:19.807149+00:00"
+  },
+  "advanced ai": {
+    "interest": 36,
+    "checked_at": "2026-08-05T00:10:29.817617+00:00"
+  },
+  "ai workflows": {
+    "interest": 22,
+    "checked_at": "2026-08-05T00:10:49.806800+00:00"
+  },
+  "responsive voice": {
+    "interest": 0,
+    "checked_at": "2026-08-05T00:10:59.894144+00:00"
+  },
+  "responsive voice ai": {
+    "interest": 1,
+    "checked_at": "2026-08-05T00:11:09.812704+00:00"
+  },
+  "us model": {
+    "interest": 38,
+    "checked_at": "2026-08-05T00:11:19.818731+00:00"
+  },
+  "us model makers": {
+    "interest": 1,
+    "checked_at": "2026-08-05T00:11:29.822926+00:00"
+  },
+  "model makers": {
+    "interest": 2,
+    "checked_at": "2026-08-05T00:11:39.817499+00:00"
   }
 }

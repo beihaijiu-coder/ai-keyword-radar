@@ -1,0 +1,20 @@
+{
+  "term": "responsive voice",
+  "slug": "responsive-voice",
+  "first_seen": "2026-08-05",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 100,
+  "source_diversity_score": 67,
+  "opportunity_score": 89,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+  ]
+}
