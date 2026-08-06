@@ -1,0 +1,21 @@
+{
+  "term": "Jeff Dean",
+  "slug": "jeff-dean",
+  "first_seen": "2026-08-06",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html"
+  ]
+}

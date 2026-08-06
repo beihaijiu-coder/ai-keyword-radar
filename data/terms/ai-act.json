@@ -1,0 +1,21 @@
+{
+  "term": "AI Act",
+  "slug": "ai-act",
+  "first_seen": "2026-08-06",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 67,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://auditbadger.com/",
+    "https://scanara.io",
+    "https://openai.com/index/advancing-responsible-ai-across-europe"
+  ]
+}

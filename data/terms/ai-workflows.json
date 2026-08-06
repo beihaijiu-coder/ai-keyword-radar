@@ -1,5 +1,5 @@
 {
-  "term": "AI workflows",
+  "term": "AI Workflows",
   "slug": "ai-workflows",
   "first_seen": "2026-08-05",
   "sources": [
@@ -14,8 +14,8 @@
   "opportunity_score": 81,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.cnx-software.com/2026/08/05/ctrlvibe-ai-console-keypad-an-openai-codex-micro-alternative-for-ai-workflows/",
     "https://arxiv.org/abs/2605.02162",
-    "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
     "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
   ]
 }

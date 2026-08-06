@@ -1,19 +1,21 @@
 {
-  "term": "Its AI",
+  "term": "its AI",
   "slug": "its-ai",
   "first_seen": "2026-06-23",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695",
-    "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/"
+    "https://nodes-web.com/",
+    "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
+    "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "https://www.twz.com/air/x-62a-toting-infrared-search-and-track-pod-used-its-ai-brain-to-autonomously-intercept-an-enemy-t-38"
   ]
 }
