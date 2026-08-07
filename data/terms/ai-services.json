@@ -1,0 +1,19 @@
+{
+  "term": "AI Services",
+  "slug": "ai-services",
+  "first_seen": "2026-08-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 70,
+  "source_diversity_score": 33,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://finance.yahoo.com/technology/ai/articles/deepseek-plans-significant-price-increase-025333567.html",
+    "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services"
+  ]
+}

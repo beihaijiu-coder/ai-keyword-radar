@@ -1,0 +1,20 @@
+{
+  "term": "Shifts AI",
+  "slug": "shifts-ai",
+  "first_seen": "2026-08-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
+    "https://giftarticle.ft.com/giftarticle/actions/redeem/1313659c-650d-45f9-9f81-f9f18a7f8b69",
+    "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai"
+  ]
+}

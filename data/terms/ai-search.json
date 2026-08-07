@@ -1,5 +1,5 @@
 {
-  "term": "AI Search",
+  "term": "AI search",
   "slug": "ai-search",
   "first_seen": "2026-06-27",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://bloomiro.com",
-    "https://github.com/skyphusion-labs/search-mcp",
-    "https://somantra.ai/aeo-research/australia/insurance/may-2026"
+    "https://old.reddit.com/r/IndieDev/comments/1vfwuf5/a_player_found_out_the_actual_name_of_my_games/",
+    "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "https://blog.cloudflare.com/ai-search-easier/"
   ]
 }

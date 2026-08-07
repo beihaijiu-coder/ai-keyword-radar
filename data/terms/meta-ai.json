@@ -1,0 +1,20 @@
+{
+  "term": "Meta AI",
+  "slug": "meta-ai",
+  "first_seen": "2026-08-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://x.com/i/trending/2085408100161663358",
+    "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
+    "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/"
+  ]
+}

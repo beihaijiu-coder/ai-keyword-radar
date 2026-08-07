@@ -3,20 +3,18 @@
   "slug": "google-ai",
   "first_seen": "2026-07-24",
   "sources": [
-    "hackernews",
-    "rss"
+    "hackernews"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 1,
-  "velocity_score": 75,
+  "mention_count_history": 0,
+  "velocity_score": 90,
   "search_gap_score": 42,
-  "source_diversity_score": 67,
-  "opportunity_score": 60,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "source_diversity_score": 33,
+  "opportunity_score": 59,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49086282",
-    "https://etymologue.com/",
-    "https://www.youtube.com/watch?v=LBQfNbPCxQw",
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/"
+    "https://old.reddit.com/r/IndieDev/comments/1vfwuf5/a_player_found_out_the_actual_name_of_my_games/",
+    "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html"
   ]
 }

@@ -5,17 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 38,
   "source_diversity_score": 33,
   "opportunity_score": 62,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://epoch.ai/MirrorCode",
-    "https://www.nature.com/articles/d44151-026-00129-2",
-    "https://www.jvt.me/posts/2026/08/02/ai-maintainer/",
-    "https://www.youtube.com/watch?v=K99LtENdQjA"
+    "https://www.theregister.com/offbeat/2025/09/18/ai-can-now-design-more-deadly-virus-genomes/1489318",
+    "https://www.physicsbase.ai/",
+    "https://geosona.com/demake/",
+    "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640"
   ]
 }

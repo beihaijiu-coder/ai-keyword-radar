@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 49,
   "source_diversity_score": 33,
-  "opportunity_score": 62,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=48961844",
-    "https://news.ycombinator.com/item?id=48956370",
-    "https://isvisible.ai"
+    "https://xcancel.com/antibot/captcha",
+    "https://www.youtube.com/watch?v=LRWiu1gaQmI",
+    "https://www.reddit.com/r/pcgaming/comments/1q7bcti/dumb_question_but_if_ai_is_advancing_so_rapidly/",
+    "https://news.ycombinator.com/item?id=49191535"
   ]
 }
