@@ -1,0 +1,20 @@
+{
+  "term": "AI creates",
+  "slug": "ai-creates",
+  "first_seen": "2026-08-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 84,
+  "source_diversity_score": 33,
+  "opportunity_score": 76,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
+    "https://www.newsweek.com/ai-creates-bacteria-killing-viruses-extreme-caution-warns-genome-pioneer-2131591",
+    "https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838"
+  ]
+}

@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
-    "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
-    "https://www.techradar.com/pro/security/a-potentially-dangerous-macos-security-flaw-went-unreported-due-to-apple-being-deluged-by-ai-slop-bug-reports"
+    "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
+    "https://thenarwhal.ca/wildfire-misinformation-2026/",
+    "https://hirenewtalent.ai/",
+    "https://82mhz.net/posts/2026/08/are-we-becoming-too-paranoid-about-ai-slop/",
+    "https://uncoverroads.com/"
   ]
 }

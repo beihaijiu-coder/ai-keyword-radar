@@ -1,21 +1,20 @@
 {
-  "term": "AI can",
+  "term": "AI Can",
   "slug": "ai-can",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 38,
   "source_diversity_score": 33,
-  "opportunity_score": 62,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 58,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
     "https://www.theregister.com/offbeat/2025/09/18/ai-can-now-design-more-deadly-virus-genomes/1489318",
-    "https://www.physicsbase.ai/",
-    "https://geosona.com/demake/",
-    "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640"
+    "https://www.physicsbase.ai/"
   ]
 }

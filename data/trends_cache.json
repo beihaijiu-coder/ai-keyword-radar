@@ -1046,5 +1046,37 @@
   "ai services": {
     "interest": 30,
     "checked_at": "2026-08-07T01:44:24.251518+00:00"
+  },
+  "eu ai": {
+    "interest": 24,
+    "checked_at": "2026-08-07T23:39:14.394554+00:00"
+  },
+  "eu ai act": {
+    "interest": 20,
+    "checked_at": "2026-08-07T23:39:24.240631+00:00"
+  },
+  "ai act": {
+    "interest": 30,
+    "checked_at": "2026-08-07T23:39:34.215763+00:00"
+  },
+  "model kimi": {
+    "interest": 21,
+    "checked_at": "2026-08-07T23:40:14.057444+00:00"
+  },
+  "model kimi k3": {
+    "interest": 15,
+    "checked_at": "2026-08-07T23:40:24.057454+00:00"
+  },
+  "model kimi k3 breaks": {
+    "interest": 1,
+    "checked_at": "2026-08-07T23:40:34.041496+00:00"
+  },
+  "ai creates": {
+    "interest": 16,
+    "checked_at": "2026-08-07T23:40:44.250885+00:00"
+  },
+  "ai power": {
+    "interest": 32,
+    "checked_at": "2026-08-07T23:40:54.076855+00:00"
   }
 }

@@ -1,31 +1,9 @@
 {
-  "updated_at": "2026-08-07T01:42:38.169577+00:00",
+  "updated_at": "2026-08-07T23:39:06.508547+00:00",
   "terms": [
     {
-      "term": "HN AI",
-      "slug": "hn-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 100,
-      "source_diversity_score": 33,
-      "opportunity_score": 87,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://useknowable.ai/",
-        "https://cochat.ai/",
-        "https://news.ycombinator.com/item?id=49197894",
-        "https://apps.apple.com/us/app/ai-agents-101/id6792491701",
-        "https://portfoliovideo.com"
-      ]
-    },
-    {
-      "term": "Show HN AI",
-      "slug": "show-hn-ai",
+      "term": "Hi HN",
+      "slug": "hi-hn",
       "first_seen": "2026-06-09",
       "sources": [
         "hackernews"
@@ -38,36 +16,96 @@
       "opportunity_score": 86,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://useknowable.ai/",
-        "https://cochat.ai/",
-        "https://apps.apple.com/us/app/ai-agents-101/id6792491701",
-        "https://portfoliovideo.com"
+        "https://tape-music-hub.gordo.design/",
+        "https://capytoolkit.com/",
+        "https://www.youtube.com/watch?v=6gfn03LKRus",
+        "https://github.com/TheJoin95/mnemosyne/blob/main/README.md"
       ]
     },
     {
-      "term": "Hey HN",
-      "slug": "hey-hn",
-      "first_seen": "2026-06-11",
+      "term": "Model Kimi K3 Breaks",
+      "slug": "model-kimi-k3-breaks",
+      "first_seen": "2026-08-07",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 100,
+      "search_gap_score": 99,
       "source_diversity_score": 33,
-      "opportunity_score": 83,
+      "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://usehope.app",
-        "https://news.ycombinator.com/item?id=49195510",
-        "https://alexanderwanyoike.github.io/jolt/"
+        "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+        "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
       ]
     },
     {
-      "term": "coding agent",
-      "slug": "coding-agent",
-      "first_seen": "2026-06-06",
+      "term": "Model Kimi K3",
+      "slug": "model-kimi-k3",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 85,
+      "source_diversity_score": 33,
+      "opportunity_score": 77,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+        "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
+      ]
+    },
+    {
+      "term": "AI creates",
+      "slug": "ai-creates",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 84,
+      "source_diversity_score": 33,
+      "opportunity_score": 76,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
+        "https://www.newsweek.com/ai-creates-bacteria-killing-viruses-extreme-caution-warns-genome-pioneer-2131591",
+        "https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838"
+      ]
+    },
+    {
+      "term": "EU AI Act",
+      "slug": "eu-ai-act",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 80,
+      "source_diversity_score": 67,
+      "opportunity_score": 75,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
+        "https://scanara.io/en/",
+        "https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/",
+        "https://openai.com/index/advancing-responsible-ai-across-europe"
+      ]
+    },
+    {
+      "term": "EU AI",
+      "slug": "eu-ai",
+      "first_seen": "2026-08-07",
       "sources": [
         "hackernews",
         "rss"
@@ -80,16 +118,55 @@
       "opportunity_score": 74,
       "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-        "https://juju-chu.com/",
-        "https://twitter.com/CommandCodeAI/status/2085039006203711649",
-        "https://openai.com/index/running-codex-safely"
+        "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
+        "https://scanara.io/en/",
+        "https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/",
+        "https://openai.com/index/advancing-responsible-ai-across-europe"
       ]
     },
     {
-      "term": "AI era",
-      "slug": "ai-era",
-      "first_seen": "2026-06-12",
+      "term": "Model Kimi",
+      "slug": "model-kimi",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 79,
+      "source_diversity_score": 33,
+      "opportunity_score": 74,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+        "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
+      ]
+    },
+    {
+      "term": "Local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 73,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://local-ai-models.ai/",
+        "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
+        "https://whatsmylocal.ai/"
+      ]
+    },
+    {
+      "term": "AI Act",
+      "slug": "ai-act",
+      "first_seen": "2026-08-06",
       "sources": [
         "hackernews",
         "rss"
@@ -102,172 +179,54 @@
       "opportunity_score": 71,
       "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
-        "https://github.com/jajego/interlock",
-        "https://books.kodel.com.br/pt-br/livros/software-development-ia-era/",
-        "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+        "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
+        "https://scanara.io/en/",
+        "https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/",
+        "https://openai.com/index/advancing-responsible-ai-across-europe"
       ]
     },
     {
-      "term": "AI Services",
-      "slug": "ai-services",
-      "first_seen": "2026-08-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 70,
-      "source_diversity_score": 33,
-      "opportunity_score": 71,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://finance.yahoo.com/technology/ai/articles/deepseek-plans-significant-price-increase-025333567.html",
-        "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services"
-      ]
-    },
-    {
-      "term": "its AI",
+      "term": "Its AI",
       "slug": "its-ai",
       "first_seen": "2026-06-23",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 9,
+      "mention_count_recent": 6,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 59,
       "source_diversity_score": 33,
       "opportunity_score": 70,
-      "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+        "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
         "https://finance.yahoo.com/technology/ai/articles/deepseek-plans-significant-price-increase-025333567.html",
         "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
-        "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai",
-        "https://vinyl.suno.com/",
-        "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training"
+        "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai"
       ]
     },
     {
-      "term": "AI search",
-      "slug": "ai-search",
-      "first_seen": "2026-06-27",
+      "term": "AI slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 64,
-      "source_diversity_score": 33,
-      "opportunity_score": 68,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://old.reddit.com/r/IndieDev/comments/1vfwuf5/a_player_found_out_the_actual_name_of_my_games/",
-        "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-        "https://blog.cloudflare.com/ai-search-easier/"
-      ]
-    },
-    {
-      "term": "If AI",
-      "slug": "if-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 5,
       "mention_count_history": 0,
       "velocity_score": 100,
-      "search_gap_score": 49,
+      "search_gap_score": 58,
       "source_diversity_score": 33,
-      "opportunity_score": 66,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://xcancel.com/antibot/captcha",
-        "https://www.youtube.com/watch?v=LRWiu1gaQmI",
-        "https://www.reddit.com/r/pcgaming/comments/1q7bcti/dumb_question_but_if_ai_is_advancing_so_rapidly/",
-        "https://news.ycombinator.com/item?id=49191535"
-      ]
-    },
-    {
-      "term": "Claude Code",
-      "slug": "claude-code",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 59,
-      "source_diversity_score": 33,
-      "opportunity_score": 66,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://github.com/Aident-AI/aident-skill",
-        "https://news.ycombinator.com/item?id=49190381",
-        "https://heyski.io/"
-      ]
-    },
-    {
-      "term": "says AI",
-      "slug": "says-ai",
-      "first_seen": "2026-07-10",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 56,
-      "source_diversity_score": 33,
-      "opportunity_score": 65,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-        "https://runtimewire.com/article/meta-ai-test-breach-irregular-internet-access-error",
-        "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po"
-      ]
-    },
-    {
-      "term": "Google Shifts AI",
-      "slug": "google-shifts-ai",
-      "first_seen": "2026-08-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
-      "example_links": [
-        "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
-        "https://giftarticle.ft.com/giftarticle/actions/redeem/1313659c-650d-45f9-9f81-f9f18a7f8b69",
-        "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai"
-      ]
-    },
-    {
-      "term": "Shifts AI",
-      "slug": "shifts-ai",
-      "first_seen": "2026-08-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
-      "example_links": [
-        "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
-        "https://giftarticle.ft.com/giftarticle/actions/redeem/1313659c-650d-45f9-9f81-f9f18a7f8b69",
-        "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai"
+        "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
+        "https://thenarwhal.ca/wildfire-misinformation-2026/",
+        "https://hirenewtalent.ai/",
+        "https://82mhz.net/posts/2026/08/are-we-becoming-too-paranoid-about-ai-slop/",
+        "https://uncoverroads.com/"
       ]
     },
     {
@@ -280,113 +239,14 @@
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 50,
+      "search_gap_score": 68,
       "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
         "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
         "https://giftarticle.ft.com/giftarticle/actions/redeem/1313659c-650d-45f9-9f81-f9f18a7f8b69",
         "https://www.youtube.com/watch?v=_V_ed5fuexA"
-      ]
-    },
-    {
-      "term": "DeepSeek Plans",
-      "slug": "deepseek-plans",
-      "first_seen": "2026-08-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
-      "example_links": [
-        "https://finance.yahoo.com/technology/ai/articles/deepseek-plans-significant-price-increase-025333567.html",
-        "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services"
-      ]
-    },
-    {
-      "term": "Price Increase",
-      "slug": "price-increase",
-      "first_seen": "2026-08-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
-      "example_links": [
-        "https://finance.yahoo.com/technology/ai/articles/deepseek-plans-significant-price-increase-025333567.html",
-        "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services"
-      ]
-    },
-    {
-      "term": "Meta AI",
-      "slug": "meta-ai",
-      "first_seen": "2026-08-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
-      "example_links": [
-        "https://x.com/i/trending/2085408100161663358",
-        "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
-        "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/"
-      ]
-    },
-    {
-      "term": "AI can",
-      "slug": "ai-can",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 38,
-      "source_diversity_score": 33,
-      "opportunity_score": 62,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://www.theregister.com/offbeat/2025/09/18/ai-can-now-design-more-deadly-virus-genomes/1489318",
-        "https://www.physicsbase.ai/",
-        "https://geosona.com/demake/",
-        "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/5283640"
-      ]
-    },
-    {
-      "term": "Why AI",
-      "slug": "why-ai",
-      "first_seen": "2026-06-14",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 42,
-      "source_diversity_score": 33,
-      "opportunity_score": 59,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china",
-        "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
-        "https://betocmn.com/blog/why-ai-agents-are-not-more-popular-outside-the-tech-industry/"
       ]
     },
     {
@@ -396,17 +256,119 @@
       "sources": [
         "hackernews"
       ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 42,
+      "source_diversity_score": 33,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.alyph.ai/",
+        "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
+        "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+        "https://old.reddit.com/r/IndieDev/comments/1vfwuf5/a_player_found_out_the_actual_name_of_my_games/",
+        "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+      ]
+    },
+    {
+      "term": "model I",
+      "slug": "model-i",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "hackernews"
+      ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 42,
+      "search_gap_score": 50,
       "source_diversity_score": 33,
-      "opportunity_score": 59,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+      "example_links": [
+        "https://www.martini.film/p/35b02ee5-2488-4dc6-a9d9-c403211cfede/flux-3-15ryn2n",
+        "https://news.ycombinator.com/item?id=49201952",
+        "https://github.com/TheJoin95/mnemosyne/blob/main/README.md"
+      ]
+    },
+    {
+      "term": "If AI",
+      "slug": "if-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 49,
+      "source_diversity_score": 33,
+      "opportunity_score": 62,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://old.reddit.com/r/IndieDev/comments/1vfwuf5/a_player_found_out_the_actual_name_of_my_games/",
-        "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-        "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html"
+        "https://news.bloomberglaw.com/daily-labor-report/if-ai-is-really-taking-jobs-your-hr-people-may-be-first-to-go",
+        "https://xcancel.com/antibot/captcha",
+        "https://www.youtube.com/watch?v=LRWiu1gaQmI"
+      ]
+    },
+    {
+      "term": "AI chat",
+      "slug": "ai-chat",
+      "first_seen": "2026-06-13",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 49,
+      "source_diversity_score": 33,
+      "opportunity_score": 62,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://emergencemachine.com/building-an-ai-chat-for-my-blog/",
+        "https://github.com/TheJoin95/mnemosyne/blob/main/README.md",
+        "https://github.com/TheJoin95/mnemosyne"
+      ]
+    },
+    {
+      "term": "AI has",
+      "slug": "ai-has",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 46,
+      "source_diversity_score": 33,
+      "opportunity_score": 61,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://twitter.com/aisystemprompt/status/2085464156229247245",
+        "https://mergeoa.com",
+        "https://www.youtube.com/watch?v=7kWkUoR2bg0"
+      ]
+    },
+    {
+      "term": "AI Can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 38,
+      "source_diversity_score": 33,
+      "opportunity_score": 58,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+        "https://www.theregister.com/offbeat/2025/09/18/ai-can-now-design-more-deadly-virus-genomes/1489318",
+        "https://www.physicsbase.ai/"
       ]
     }
   ]

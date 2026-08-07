@@ -1,22 +1,22 @@
 {
-  "term": "its AI",
+  "term": "Its AI",
   "slug": "its-ai",
   "first_seen": "2026-06-23",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 9,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
     "https://finance.yahoo.com/technology/ai/articles/deepseek-plans-significant-price-increase-025333567.html",
     "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
-    "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai",
-    "https://vinyl.suno.com/",
-    "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training"
+    "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai"
   ]
 }

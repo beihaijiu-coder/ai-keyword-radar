@@ -1,0 +1,19 @@
+{
+  "term": "Model Kimi",
+  "slug": "model-kimi",
+  "first_seen": "2026-08-07",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 79,
+  "source_diversity_score": 33,
+  "opportunity_score": 74,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+    "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
+  ]
+}

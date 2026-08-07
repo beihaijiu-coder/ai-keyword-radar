@@ -8,10 +8,10 @@
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 50,
+  "search_gap_score": 68,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
     "https://giftarticle.ft.com/giftarticle/actions/redeem/1313659c-650d-45f9-9f81-f9f18a7f8b69",
