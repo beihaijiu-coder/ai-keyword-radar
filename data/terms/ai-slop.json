@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv",
+    "https://www.youtube.com/watch?v=ORgKY9AlybA",
+    "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
     "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
-    "https://thenarwhal.ca/wildfire-misinformation-2026/",
-    "https://hirenewtalent.ai/",
-    "https://82mhz.net/posts/2026/08/are-we-becoming-too-paranoid-about-ai-slop/",
-    "https://uncoverroads.com/"
+    "https://thenarwhal.ca/wildfire-misinformation-2026/"
   ]
 }
