@@ -1,20 +1,20 @@
 {
-  "term": "Hey HN",
-  "slug": "hey-hn",
-  "first_seen": "2026-06-11",
+  "term": "coding tools",
+  "slug": "coding-tools",
+  "first_seen": "2026-08-10",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 100,
+  "search_gap_score": 89,
   "source_diversity_score": 33,
-  "opportunity_score": 83,
+  "opportunity_score": 78,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49248980",
-    "https://cactuscompute.com/needle",
-    "https://www.whodunnitai.com/"
+    "https://devtoolsreview.com/pricing/ai-coding-tools-pricing-comparison/",
+    "https://github.com/celerp/celerp",
+    "https://foundera.app/"
   ]
 }

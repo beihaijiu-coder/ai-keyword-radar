@@ -1,0 +1,23 @@
+{
+  "term": "Muse Glimmer",
+  "slug": "muse-glimmer",
+  "first_seen": "2026-08-10",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 6,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 95,
+  "source_diversity_score": 67,
+  "opportunity_score": 91,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
+    "https://artificialanalysis.ai/models/muse-glimmer",
+    "https://ainexusdaily.vercel.app",
+    "https://developer.meta.com/ai/models/muse-glimmer/",
+    "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+  ]
+}

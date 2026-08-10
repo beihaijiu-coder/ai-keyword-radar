@@ -1,0 +1,20 @@
+{
+  "term": "Wall Street",
+  "slug": "wall-street",
+  "first_seen": "2026-08-10",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 43,
+  "source_diversity_score": 33,
+  "opportunity_score": 60,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348",
+    "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+    "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says"
+  ]
+}

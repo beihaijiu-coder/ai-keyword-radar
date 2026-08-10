@@ -1,5 +1,5 @@
 {
-  "term": "AI CAN",
+  "term": "AI Can",
   "slug": "ai-can",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 58,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49244537",
     "https://www.youtube.com/watch?v=aVKROmuXSN0",
-    "https://argonix.io/",
-    "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/"
+    "https://argonix.io/"
   ]
 }

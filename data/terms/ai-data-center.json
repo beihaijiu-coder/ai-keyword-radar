@@ -1,5 +1,5 @@
 {
-  "term": "AI Data Center",
+  "term": "AI data center",
   "slug": "ai-data-center",
   "first_seen": "2026-07-21",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 64,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://aidatacenterimpact.com/",
-    "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-    "https://www.investors.com/news/turbine-generator-ai-data-center-power-threat/"
+    "https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html",
+    "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+    "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/"
   ]
 }
