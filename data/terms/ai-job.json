@@ -1,0 +1,20 @@
+{
+  "term": "AI Job",
+  "slug": "ai-job",
+  "first_seen": "2026-08-11",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 60,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62",
+    "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+    "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure"
+  ]
+}

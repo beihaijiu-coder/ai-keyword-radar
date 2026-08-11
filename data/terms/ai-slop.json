@@ -1,5 +1,5 @@
 {
-  "term": "AI slop",
+  "term": "AI Slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
@@ -13,9 +13,9 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv",
-    "https://www.youtube.com/watch?v=ORgKY9AlybA",
-    "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/"
+    "https://tryalchemize.com/",
+    "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
+    "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+    "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
   ]
 }

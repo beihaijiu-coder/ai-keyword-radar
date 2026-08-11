@@ -1098,5 +1098,13 @@
   "coding tools": {
     "interest": 11,
     "checked_at": "2026-08-10T23:41:21.790163+00:00"
+  },
+  "ai job": {
+    "interest": 40,
+    "checked_at": "2026-08-11T23:50:16.231627+00:00"
+  },
+  "ai factory": {
+    "interest": 26,
+    "checked_at": "2026-08-11T23:50:55.906503+00:00"
   }
 }

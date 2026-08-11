@@ -1,5 +1,5 @@
 {
-  "term": "AI gateway",
+  "term": "AI Gateway",
   "slug": "ai-gateway",
   "first_seen": "2026-07-17",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.edgee.ai/blog/posts/edgee-on-premise-gateway",
-    "https://news.ycombinator.com/item?id=48946631",
-    "https://github.com/glama-ai/lightport"
+    "https://news.ycombinator.com/item?id=49259812",
+    "https://portail-vaked-dev.pages.dev/showcase",
+    "https://blog.cloudflare.com/workers-ai-gateway-unification/"
   ]
 }
