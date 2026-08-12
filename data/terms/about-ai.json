@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 75,
   "source_diversity_score": 33,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.americanson.ai/p/concern-about-ai-spikes-following",
-    "https://startupwiki.substack.com/p/the-last-2-weeks-can-predict-the",
-    "https://futuresearch.ai/",
-    "https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606",
-    "https://cailinpitt.com/blog/2026/8/01/everyone-is-so-annoying-about-ai"
+    "https://cdn.sanity.io/files/w77i7m8x/production/0de35a24de4d425390546ebd521107d5444985e9.pdf",
+    "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
+    "https://noisydeadlines.net/a-few-strong-opinions-about-ai",
+    "https://corvi.careers/reports/ai-job-trends/"
   ]
 }
