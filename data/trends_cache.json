@@ -1110,5 +1110,13 @@
   "ai music": {
     "interest": 51,
     "checked_at": "2026-08-12T23:50:09.515221+00:00"
+  },
+  "put ai": {
+    "interest": 30,
+    "checked_at": "2026-08-13T23:49:41.660653+00:00"
+  },
+  "multiple ai": {
+    "interest": 30,
+    "checked_at": "2026-08-13T23:49:51.537413+00:00"
   }
 }

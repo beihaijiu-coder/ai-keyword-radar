@@ -1,21 +1,22 @@
 {
-  "term": "AI Slop",
+  "term": "AI slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://tryalchemize.com/",
-    "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
-    "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
-    "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/"
+    "https://play-kitchen.netlify.app/",
+    "https://codysumter.substack.com/p/this-is-medical-advice",
+    "https://news.ycombinator.com/item?id=49290499",
+    "https://news.ycombinator.com/item?id=49287430",
+    "https://diffusion.alexvd.dev/"
   ]
 }

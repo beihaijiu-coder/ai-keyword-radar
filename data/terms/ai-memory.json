@@ -1,5 +1,5 @@
 {
-  "term": "AI Memory",
+  "term": "AI memory",
   "slug": "ai-memory",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/",
-    "https://www.indiehackers.com/post/the-ai-memory-problem-nobody-is-incentivized-to-solve-9c294bdcaa",
-    "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/"
+    "https://github.com/Anchorstate-Lab/GMR",
+    "https://www.reddit.com/r/staynimble/s/XKEYgCpwln",
+    "https://agentmemoryleaderboard.ai/leaderboard/academic/textual"
   ]
 }
