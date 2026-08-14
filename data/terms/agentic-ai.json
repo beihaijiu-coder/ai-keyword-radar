@@ -14,8 +14,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/insightitsGit/prism-eval",
-    "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
+    "https://github.com/insightitsGit/PrismManifest",
+    "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
     "https://openai.com/index/how-enterprises-put-ai-to-work",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]

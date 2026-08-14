@@ -6,17 +6,16 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 95,
   "source_diversity_score": 67,
-  "opportunity_score": 91,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 87,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
-    "https://artificialanalysis.ai/models/muse-glimmer",
-    "https://ainexusdaily.vercel.app",
+    "https://kgptalkie.com/tutorials/generative-ai/qwen-3-8-27b-vs-nemotron-3-5-vs-muse-glimmer",
+    "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
     "https://huggingface.co/blog/muse-glimmer"
   ]
 }

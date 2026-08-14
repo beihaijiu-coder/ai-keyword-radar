@@ -1,21 +1,20 @@
 {
-  "term": "about AI",
+  "term": "About AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 75,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
-    "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "https://www.reddit.com/r/staynimble/s/XKEYgCpwln",
-    "https://cdn.sanity.io/files/w77i7m8x/production/0de35a24de4d425390546ebd521107d5444985e9.pdf"
+    "https://www.drjoshcsimmons.com/writing/ed-zitron-ai-predictions",
+    "https://pssah4.github.io/vault-operator/guides/capabilities",
+    "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/"
   ]
 }

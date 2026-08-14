@@ -1118,5 +1118,13 @@
   "multiple ai": {
     "interest": 30,
     "checked_at": "2026-08-13T23:49:51.537413+00:00"
+  },
+  "own ai model": {
+    "interest": 3,
+    "checked_at": "2026-08-14T23:28:05.098142+00:00"
+  },
+  "its own ai model": {
+    "interest": 1,
+    "checked_at": "2026-08-14T23:28:25.067606+00:00"
   }
 }
