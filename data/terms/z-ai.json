@@ -1,5 +1,5 @@
 {
-  "term": "Z ai",
+  "term": "Z AI",
   "slug": "z-ai",
   "first_seen": "2026-06-30",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 71,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/ZAI-GLM-5-3/glm-5.3",
     "https://cvd.z.ai",
-    "https://twitter.com/natolambert/status/2088272938361606397",
-    "https://cvd.z.ai/"
+    "https://twitter.com/natolambert/status/2088272938361606397"
   ]
 }

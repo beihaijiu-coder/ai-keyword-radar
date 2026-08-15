@@ -1126,5 +1126,29 @@
   "its own ai model": {
     "interest": 1,
     "checked_at": "2026-08-14T23:28:25.067606+00:00"
+  },
+  "alibaba ai": {
+    "interest": 15,
+    "checked_at": "2026-08-15T23:25:56.317097+00:00"
+  },
+  "alibaba ai models": {
+    "interest": 0,
+    "checked_at": "2026-08-15T23:26:06.237321+00:00"
+  },
+  "alibaba ai models hit": {
+    "interest": 0,
+    "checked_at": "2026-08-15T23:26:16.196033+00:00"
+  },
+  "ai models hit": {
+    "interest": 0,
+    "checked_at": "2026-08-15T23:26:26.282341+00:00"
+  },
+  "ai models hit b": {
+    "interest": 1,
+    "checked_at": "2026-08-15T23:26:36.333509+00:00"
+  },
+  "passing meta": {
+    "interest": 1,
+    "checked_at": "2026-08-15T23:26:46.346008+00:00"
   }
 }

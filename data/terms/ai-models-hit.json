@@ -1,7 +1,7 @@
 {
-  "term": "HN AI",
-  "slug": "hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "AI Models Hit",
+  "slug": "ai-models-hit",
+  "first_seen": "2026-08-15",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://aifcc.franzai.com/",
-    "https://chatpanel.net/",
-    "https://github.com/Neeeophytee/ai-watermarks-reality-check"
+    "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+    "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google"
   ]
 }
