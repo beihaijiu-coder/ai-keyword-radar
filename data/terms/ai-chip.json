@@ -1,5 +1,5 @@
 {
-  "term": "AI chip",
+  "term": "AI Chip",
   "slug": "ai-chip",
   "first_seen": "2026-06-22",
   "sources": [
@@ -14,9 +14,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://thedailycompute.beehiiv.com/p/google-reportedly-working-on-ultra-efficient-ai-chip-for-gemini",
-    "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
-    "https://twitter.com/joefioti/status/2077430481809989662",
+    "https://www.kyivpost.com/post/82225",
+    "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
     "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
   ]
 }

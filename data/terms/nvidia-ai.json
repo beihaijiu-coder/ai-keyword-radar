@@ -1,20 +1,19 @@
 {
-  "term": "AI Bubble",
-  "slug": "ai-bubble",
-  "first_seen": "2026-07-02",
+  "term": "Nvidia AI",
+  "slug": "nvidia-ai",
+  "first_seen": "2026-08-16",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 50,
+  "search_gap_score": 57,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
+  "opportunity_score": 65,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=nx5FiWfD5U4",
-    "https://www.youtube.com/watch?v=szK9LIGvW1o",
-    "https://www.youtube.com/watch?v=wrFH8PvDPFE"
+    "https://www.kyivpost.com/post/82225",
+    "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976"
   ]
 }

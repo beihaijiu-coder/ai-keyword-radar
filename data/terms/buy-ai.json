@@ -1,0 +1,21 @@
+{
+  "term": "Buy AI",
+  "slug": "buy-ai",
+  "first_seen": "2026-08-16",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 57,
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "https://news.ycombinator.com/item?id=49318304",
+    "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m"
+  ]
+}

@@ -1,20 +1,19 @@
 {
-  "term": "Show HN AI",
-  "slug": "show-hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "Nvidia AI Chip",
+  "slug": "nvidia-ai-chip",
+  "first_seen": "2026-08-16",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 93,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 80,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://hyp-e.com/",
-    "https://aifcc.franzai.com/",
-    "https://chatpanel.net/"
+    "https://www.kyivpost.com/post/82225",
+    "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976"
   ]
 }
