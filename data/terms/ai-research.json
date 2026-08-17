@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 72,
   "source_diversity_score": 33,
   "opportunity_score": 75,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.goodfire.com/get-silico",
-    "https://twitter.com/GoodfireAI/status/2084671608028057737",
-    "https://arxiv.org/abs/2607.27191",
-    "https://news.ycombinator.com/item?id=49162887"
+    "https://gene-inspector.pro/",
+    "https://news.ycombinator.com/item?id=49336147",
+    "https://news.ycombinator.com/item?id=49330503",
+    "https://www.primeintellect.ai/blog/measuring-autonomous-research",
+    "https://news.ycombinator.com/item?id=49329291"
   ]
 }

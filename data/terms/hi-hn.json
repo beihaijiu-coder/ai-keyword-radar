@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 99,
   "source_diversity_score": 33,
   "opportunity_score": 86,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/VelornLabs/velorn",
-    "https://fn2.ai/claude",
-    "https://getmocktail.com/",
-    "https://github.com/moasq/agentic-ship",
-    "https://burla.dev/"
+    "https://gene-inspector.pro/",
+    "https://github.com/inkeep/visimer",
+    "https://openwebsearch.ai",
+    "https://1667.ai/"
   ]
 }

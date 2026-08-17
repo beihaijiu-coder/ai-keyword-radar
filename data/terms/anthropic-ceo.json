@@ -1,0 +1,19 @@
+{
+  "term": "Anthropic CEO",
+  "slug": "anthropic-ceo",
+  "first_seen": "2026-08-17",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 86,
+  "source_diversity_score": 33,
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8"
+  ]
+}

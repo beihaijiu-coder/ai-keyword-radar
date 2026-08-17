@@ -1,21 +1,19 @@
 {
-  "term": "AI has",
+  "term": "AI Has",
   "slug": "ai-has",
   "first_seen": "2026-06-09",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 46,
   "source_diversity_score": 33,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 61,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://hedgehogreview.com/web-features/thr/posts/platos-warning-has-been-vindicated",
-    "https://twitter.com/aisystemprompt/status/2085464156229247245",
-    "https://mergeoa.com",
-    "https://www.youtube.com/watch?v=7kWkUoR2bg0"
+    "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+    "https://news.ycombinator.com/item?id=49330503"
   ]
 }

@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376",
     "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
-    "https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop",
-    "https://news.ycombinator.com/item?id=49320280",
-    "https://www.nature.com/articles/d41586-026-02503-7",
-    "https://news.ycombinator.com/item?id=49314731"
+    "https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop"
   ]
 }

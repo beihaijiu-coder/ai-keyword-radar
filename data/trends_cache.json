@@ -1166,5 +1166,45 @@
   "nvidia ai chip": {
     "interest": 7,
     "checked_at": "2026-08-16T23:26:44.084861+00:00"
+  },
+  "which model": {
+    "interest": 71,
+    "checked_at": "2026-08-17T23:28:16.012779+00:00"
+  },
+  "ai market": {
+    "interest": 43,
+    "checked_at": "2026-08-17T23:28:25.941144+00:00"
+  },
+  "ai stock": {
+    "interest": 60,
+    "checked_at": "2026-08-17T23:28:36.031573+00:00"
+  },
+  "ai stock research": {
+    "interest": 6,
+    "checked_at": "2026-08-17T23:28:46.089552+00:00"
+  },
+  "ai stock research assistant": {
+    "interest": 0,
+    "checked_at": "2026-08-17T23:28:56.006753+00:00"
+  },
+  "stock research assistant streamlit": {
+    "interest": 0,
+    "checked_at": "2026-08-17T23:29:36.044931+00:00"
+  },
+  "research assistant": {
+    "interest": 46,
+    "checked_at": "2026-08-17T23:29:45.925018+00:00"
+  },
+  "research assistant streamlit": {
+    "interest": 0,
+    "checked_at": "2026-08-17T23:29:55.905120+00:00"
+  },
+  "assistant streamlit": {
+    "interest": 0,
+    "checked_at": "2026-08-17T23:30:05.896403+00:00"
+  },
+  "anthropic ceo": {
+    "interest": 14,
+    "checked_at": "2026-08-17T23:30:15.975119+00:00"
   }
 }

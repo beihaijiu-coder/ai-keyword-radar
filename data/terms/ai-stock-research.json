@@ -1,20 +1,18 @@
 {
-  "term": "HN AI",
-  "slug": "hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "AI Stock Research",
+  "slug": "ai-stock-research",
+  "first_seen": "2026-08-17",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 100,
+  "search_gap_score": 94,
   "source_diversity_score": 33,
-  "opportunity_score": 83,
+  "opportunity_score": 80,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://watermark.keito.me/",
-    "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
-    "https://hyp-e.com/"
+    "https://ai-stock-research-kiaan.streamlit.app"
   ]
 }
