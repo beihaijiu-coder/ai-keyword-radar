@@ -1,21 +1,22 @@
 {
-  "term": "About AI",
+  "term": "about AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 75,
-  "source_diversity_score": 33,
-  "opportunity_score": 77,
+  "source_diversity_score": 67,
+  "opportunity_score": 83,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49346264",
+    "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
     "https://mathoverflow.net/questions/514380/about-ai-and-how-we-publish",
-    "https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work",
-    "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
-    "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us"
+    "https://openai.com/index/partnering-with-codeai"
   ]
 }

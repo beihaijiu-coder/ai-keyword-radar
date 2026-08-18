@@ -1,0 +1,21 @@
+{
+  "term": "Spirit Airlines",
+  "slug": "spirit-airlines",
+  "first_seen": "2026-08-18",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://247wallst.com/investing/2026/08/18/google-just-bought-100-million-emails-from-a-dead-airline-for-10-million/",
+    "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
+    "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+    "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/"
+  ]
+}

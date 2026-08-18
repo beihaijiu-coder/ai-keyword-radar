@@ -1,20 +1,20 @@
 {
-  "term": "AI research",
-  "slug": "ai-research",
-  "first_seen": "2026-06-16",
+  "term": "AI automation",
+  "slug": "ai-automation",
+  "first_seen": "2026-08-18",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 72,
+  "search_gap_score": 71,
   "source_diversity_score": 33,
   "opportunity_score": 71,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://alfredvc.no/blog/chess-as-autocomplete",
-    "https://gene-inspector.pro/",
-    "https://news.ycombinator.com/item?id=49336147"
+    "https://news.ycombinator.com/item?id=49354254",
+    "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "https://urnicus.com/blog/the-quiet-cost/"
   ]
 }

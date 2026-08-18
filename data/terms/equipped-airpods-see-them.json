@@ -1,20 +1,19 @@
 {
-  "term": "Show HN AI",
-  "slug": "show-hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "Equipped AirPods See Them",
+  "slug": "equipped-airpods-see-them",
+  "first_seen": "2026-08-18",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://rosebud.ai/prompt-atlas",
-    "https://matchafilterremover.site/",
-    "https://aiomniu.top/services/resume-builder"
+    "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+    "https://twitter.com/aaronp613/status/2089522745184760112"
   ]
 }
