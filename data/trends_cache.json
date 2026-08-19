@@ -1230,5 +1230,9 @@
   "equipped airpods see them": {
     "interest": 0,
     "checked_at": "2026-08-18T23:28:42.656537+00:00"
+  },
+  "keep drafting parallel": {
+    "interest": 1,
+    "checked_at": "2026-08-19T23:28:31.841430+00:00"
   }
 }

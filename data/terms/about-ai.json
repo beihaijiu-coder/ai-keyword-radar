@@ -6,17 +6,16 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 75,
   "source_diversity_score": 67,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49346264",
+    "https://pingularity.dev/",
     "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-    "https://mathoverflow.net/questions/514380/about-ai-and-how-we-publish",
     "https://openai.com/index/partnering-with-codeai"
   ]
 }

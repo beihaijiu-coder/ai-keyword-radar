@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 42,
   "source_diversity_score": 33,
-  "opportunity_score": 59,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china",
-    "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
-    "https://betocmn.com/blog/why-ai-agents-are-not-more-popular-outside-the-tech-industry/"
+    "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+    "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss",
+    "https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/",
+    "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+    "https://caines.ca/posts/2026-08-15-return-of-the-spec/"
   ]
 }

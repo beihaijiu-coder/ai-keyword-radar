@@ -1,5 +1,5 @@
 {
-  "term": "agents need",
+  "term": "Agents Need",
   "slug": "agents-need",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 75,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://signatrust.net",
-    "https://github.com/HelixDB/helix-db/tree/main",
-    "https://www.artie.com"
+    "https://github.com/onecli/onecli",
+    "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
+    "https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6/"
   ]
 }
