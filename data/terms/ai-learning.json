@@ -1,7 +1,7 @@
 {
-  "term": "own AI",
-  "slug": "own-ai",
-  "first_seen": "2026-07-06",
+  "term": "AI Learning",
+  "slug": "ai-learning",
+  "first_seen": "2026-08-20",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,6 @@
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49378903",
-    "https://news.ycombinator.com/item?id=49378057",
-    "https://epho.io"
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618"
   ]
 }

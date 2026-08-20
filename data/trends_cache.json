@@ -1234,5 +1234,29 @@
   "keep drafting parallel": {
     "interest": 1,
     "checked_at": "2026-08-19T23:28:31.841430+00:00"
+  },
+  "generative ai learning": {
+    "interest": 6,
+    "checked_at": "2026-08-20T23:31:19.972422+00:00"
+  },
+  "generative ai learning penalty": {
+    "interest": 0,
+    "checked_at": "2026-08-20T23:31:29.788392+00:00"
+  },
+  "ai learning": {
+    "interest": 34,
+    "checked_at": "2026-08-20T23:31:50.130731+00:00"
+  },
+  "ai learning penalty": {
+    "interest": 1,
+    "checked_at": "2026-08-20T23:32:00.058900+00:00"
+  },
+  "ai learning penalty evidence": {
+    "interest": 1,
+    "checked_at": "2026-08-20T23:32:09.835523+00:00"
+  },
+  "chinese secondary education": {
+    "interest": 1,
+    "checked_at": "2026-08-20T23:32:19.885121+00:00"
   }
 }

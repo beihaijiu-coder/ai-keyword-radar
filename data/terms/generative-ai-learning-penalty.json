@@ -1,20 +1,18 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "Generative AI Learning Penalty",
+  "slug": "generative-ai-learning-penalty",
+  "first_seen": "2026-08-20",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/runvendo/vendo",
-    "https://intelix.dev",
-    "https://github.com/onecli/onecli"
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618"
   ]
 }

@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/ecrasevvv/c-fm/tree/master",
-    "https://arxiv.org/abs/2607.20349",
-    "https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf"
+    "https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+    "https://martinanderson.ai/blog/entanglement-in-ai-generation-veronica-carlson-hair.html",
+    "https://graphics.social/@metin/117123760167000114"
   ]
 }
