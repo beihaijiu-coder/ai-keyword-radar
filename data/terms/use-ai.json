@@ -1,0 +1,23 @@
+{
+  "term": "use AI",
+  "slug": "use-ai",
+  "first_seen": "2026-08-21",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
+  "velocity_score": 100,
+  "search_gap_score": 28,
+  "source_diversity_score": 67,
+  "opportunity_score": 65,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=49389408",
+    "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
+    "https://salable.substack.com/p/system-prompts-are-an-archive-of",
+    "https://openai.com/index/chatgpt-for-teens",
+    "https://openai.com/index/scientific-computing-agentic-ai"
+  ]
+}

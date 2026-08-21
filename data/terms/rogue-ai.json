@@ -1,0 +1,19 @@
+{
+  "term": "rogue AI",
+  "slug": "rogue-ai",
+  "first_seen": "2026-08-21",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 79,
+  "source_diversity_score": 33,
+  "opportunity_score": 74,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "term": "open source AI",
+  "term": "Open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://app.scarf.sh/ai-leaderboard",
-    "https://jcode.sh/",
-    "https://huggingface.co/blog/jedisct1/lawyers-and-local-ai"
+    "https://github.com/Cubinghackerz/ai.diy",
+    "https://github.com/opencyvis/opencyvis-phone",
+    "https://github.com/kenm47/oavl"
   ]
 }

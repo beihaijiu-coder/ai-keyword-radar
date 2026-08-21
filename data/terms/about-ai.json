@@ -1,5 +1,5 @@
 {
-  "term": "about AI",
+  "term": "About AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
@@ -14,8 +14,8 @@
   "opportunity_score": 79,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://pingularity.dev/",
-    "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+    "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+    "https://blog.oxplot.com/the-sloppiest-thing-about-ai/",
     "https://openai.com/index/partnering-with-codeai"
   ]
 }

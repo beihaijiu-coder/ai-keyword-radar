@@ -1,5 +1,5 @@
 {
-  "term": "local AI",
+  "term": "Local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://qvac.tether.io/",
-    "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
-    "https://www.salestrics.com/"
+    "https://github.com/fluryjanis/Mind-Shield",
+    "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
+    "https://www.basecompute.co/local"
   ]
 }

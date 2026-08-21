@@ -1258,5 +1258,13 @@
   "chinese secondary education": {
     "interest": 1,
     "checked_at": "2026-08-20T23:32:19.885121+00:00"
+  },
+  "use ai": {
+    "interest": 72,
+    "checked_at": "2026-08-21T23:29:30.951280+00:00"
+  },
+  "rogue ai": {
+    "interest": 21,
+    "checked_at": "2026-08-21T23:29:40.906013+00:00"
   }
 }
