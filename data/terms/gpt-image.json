@@ -1,19 +1,20 @@
 {
-  "term": "Their AI",
-  "slug": "their-ai",
-  "first_seen": "2026-06-07",
+  "term": "GPT Image",
+  "slug": "gpt-image",
+  "first_seen": "2026-08-22",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 60,
+  "search_gap_score": 52,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
+  "opportunity_score": 63,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-    "https://news.ycombinator.com/item?id=49391286"
+    "https://trymangoai.com",
+    "https://wondering.app/canvas",
+    "https://flaq.ai/models/alibaba/qwen-image-3-0-pro/"
   ]
 }
