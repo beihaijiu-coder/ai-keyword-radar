@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49405405",
+    "https://meetless.ai",
     "https://github.com/pawaca/dsh-edge",
     "https://docs.antigma.ai/",
-    "https://news.ycombinator.com/item?id=49398366",
-    "https://github.com/proliferate-ai/proliferate"
+    "https://news.ycombinator.com/item?id=49398366"
   ]
 }

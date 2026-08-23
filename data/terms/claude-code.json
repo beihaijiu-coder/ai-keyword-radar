@@ -5,14 +5,15 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49405405",
     "https://github.com/dat999zx/knowl",
     "https://app.flightledger.net",
     "https://ozbrain.com",
