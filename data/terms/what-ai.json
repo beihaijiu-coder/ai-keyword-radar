@@ -1,5 +1,5 @@
 {
-  "term": "What AI",
+  "term": "what AI",
   "slug": "what-ai",
   "first_seen": "2026-06-19",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-    "https://blog.zksecurity.xyz/posts/bron-bugs/",
-    "https://github.com/haror1/answerwatch"
+    "https://news.ycombinator.com/item?id=49423377",
+    "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
+    "https://news.ycombinator.com/item?id=49398366"
   ]
 }

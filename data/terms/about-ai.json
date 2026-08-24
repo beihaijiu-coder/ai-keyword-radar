@@ -1,5 +1,5 @@
 {
-  "term": "About AI",
+  "term": "about AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
@@ -14,6 +14,7 @@
   "opportunity_score": 79,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
     "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
     "https://openai.com/index/partnering-with-codeai"
   ]

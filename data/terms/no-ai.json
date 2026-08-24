@@ -1,22 +1,20 @@
 {
-  "term": "No AI",
+  "term": "no AI",
   "slug": "no-ai",
   "first_seen": "2026-06-09",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 66,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49186339",
-    "https://www.barchart.com/story/news/3665107/nvidias-jensen-huang-says-theres-no-ai-bubble-because-ai-is-incredibly-profitable-and-hes-happy-to-pay-hundreds-of-millions-of-dollars-for-ai",
-    "https://petapixel.com/2026/08/05/duckduckgos-smart-glasses-have-no-camera-no-ai-and-no-electronics/",
-    "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
-    "https://www.postsfromtemplates.com/"
+    "https://winnowapp.app/",
+    "https://news.ycombinator.com/item?id=49413996",
+    "https://www.youtube.com/watch?v=UOP_2zz30qo"
   ]
 }

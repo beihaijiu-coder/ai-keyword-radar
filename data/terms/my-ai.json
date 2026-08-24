@@ -1,21 +1,20 @@
 {
-  "term": "My AI",
+  "term": "my AI",
   "slug": "my-ai",
   "first_seen": "2026-06-12",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 61,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
-    "https://news.ycombinator.com/item?id=49348614",
-    "https://rebeccadai.substack.com/p/little-guys-who-gossip-what-happens",
-    "https://github.com/mukundzha/avouch"
+    "https://news.ycombinator.com/item?id=49413996",
+    "https://github.com/kidus-tiliksew/conveyor",
+    "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/"
   ]
 }

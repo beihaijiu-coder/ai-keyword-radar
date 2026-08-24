@@ -14,9 +14,9 @@
   "opportunity_score": 62,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://github.com/heinevwinston-bot/PageLens",
     "https://news.ycombinator.com/item?id=49407193",
     "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-    "https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html",
     "https://openai.com/index/boston-childrens-hospital"
   ]
 }
