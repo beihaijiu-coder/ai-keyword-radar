@@ -1,22 +1,21 @@
 {
-  "term": "coding agent",
+  "term": "Coding Agent",
   "slug": "coding-agent",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://zipbox.ai",
-    "https://news.ycombinator.com/item?id=49405405",
-    "https://meetless.ai",
-    "https://github.com/pawaca/dsh-edge",
-    "https://docs.antigma.ai/"
+    "https://thinkrail.ai/blog/introducing-thinkrail/",
+    "https://techstrong.ai/articles/jetbrains-releases-junie-local-bringing-its-coding-agent-fully-on-device-to-macs/",
+    "https://thegit.ai/",
+    "https://zipbox.ai"
   ]
 }

@@ -3,18 +3,19 @@
   "slug": "ai-inference",
   "first_seen": "2026-06-27",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
   "search_gap_score": 73,
-  "source_diversity_score": 33,
-  "opportunity_score": 72,
+  "source_diversity_score": 67,
+  "opportunity_score": 79,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/timtoole02/Camelid",
-    "https://news.ycombinator.com/item?id=49022097",
-    "https://news.ycombinator.com/item?id=49019271"
+    "https://openai.com/index/jalapeno-first-results/",
+    "https://github.com/Layr-Labs/d-inference/issues/705",
+    "https://openai.com/index/jalapeno-first-results"
   ]
 }
