@@ -1,21 +1,20 @@
 {
-  "term": "Coding Agent",
+  "term": "coding agent",
   "slug": "coding-agent",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://thinkrail.ai/blog/introducing-thinkrail/",
-    "https://techstrong.ai/articles/jetbrains-releases-junie-local-bringing-its-coding-agent-fully-on-device-to-macs/",
-    "https://thegit.ai/",
-    "https://zipbox.ai"
+    "https://64labs.ca/articles/ai-isnt-just-writing-blog-posts-its-making-the-blog-platform-optional",
+    "https://github.com/apvcode/Termux-Dev",
+    "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/"
   ]
 }

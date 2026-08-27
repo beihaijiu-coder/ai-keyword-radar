@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 33,
   "opportunity_score": 76,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/swimmingbrain/texbrain",
-    "https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/",
     "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
+    "https://ringlochid.me/imagesage/index.html",
+    "https://kylemcgough.com/blogs/patience-is-required-for-local-ai",
+    "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
+    "https://github.com/swimmingbrain/texbrain"
   ]
 }

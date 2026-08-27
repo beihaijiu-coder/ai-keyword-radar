@@ -1,0 +1,22 @@
+{
+  "term": "AI coding",
+  "slug": "ai-coding",
+  "first_seen": "2026-08-27",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 70,
+  "source_diversity_score": 67,
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://github.com/apvcode/Termux-Dev",
+    "https://github.com/fireinbelly/biomass-conversion-index-monitoring-system",
+    "https://allende.nz/notes/fourteen-months-micromanaging-ai-coding-agents/",
+    "https://openai.com/index/scientific-computing-agentic-ai"
+  ]
+}

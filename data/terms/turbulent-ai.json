@@ -1,23 +1,21 @@
 {
-  "term": "AI era",
-  "slug": "ai-era",
-  "first_seen": "2026-06-12",
+  "term": "turbulent AI",
+  "slug": "turbulent-ai",
+  "first_seen": "2026-08-27",
   "sources": [
-    "hackernews",
-    "rss"
+    "hackernews"
   ],
-  "mention_count_recent": 8,
-  "mention_count_history": 1,
+  "mention_count_recent": 5,
+  "mention_count_history": 0,
   "velocity_score": 100,
-  "search_gap_score": 70,
-  "source_diversity_score": 67,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "search_gap_score": 98,
+  "source_diversity_score": 33,
+  "opportunity_score": 86,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
     "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
     "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
     "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-    "https://news.ycombinator.com/item?id=49450183",
     "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
   ]
 }

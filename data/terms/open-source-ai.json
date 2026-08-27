@@ -1,5 +1,5 @@
 {
-  "term": "Open source AI",
+  "term": "open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/Cubinghackerz/ai.diy",
-    "https://github.com/opencyvis/opencyvis-phone",
-    "https://github.com/kenm47/oavl"
+    "https://github.com/SenteLabsAI/OpenExecutive",
+    "https://sevren.ai/news.html",
+    "https://hermes-agent.nousresearch.com"
   ]
 }
