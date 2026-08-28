@@ -5,16 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
-    "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
-    "https://news.ycombinator.com/item?id=49424263"
+    "https://neilalexander.dev/2026/06/30/flooding-contributions",
+    "https://news.ycombinator.com/item?id=49469914",
+    "https://www.theregister.com/networks/2026/08/27/you-could-own-aislop-if-applicant-for-new-global-top-level-domains-get-their-way/5292831"
   ]
 }

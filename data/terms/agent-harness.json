@@ -1,0 +1,20 @@
+{
+  "term": "agent harness",
+  "slug": "agent-harness",
+  "first_seen": "2026-08-28",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 84,
+  "source_diversity_score": 33,
+  "opportunity_score": 76,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.reddit.com/r/AI_Agents/comments/1vzyu7i/i_built_a_minimalist_agent_harness_that_runs_in/",
+    "https://github.com/langchain-ai/deepagents",
+    "https://www.taskshell.app/"
+  ]
+}

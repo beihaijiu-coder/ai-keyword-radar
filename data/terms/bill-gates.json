@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 14,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 33,
   "opportunity_score": 76,
-  "trend_note": "Recent mentions: 14; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
     "https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai",
-    "https://www.telegraph.co.uk/business/2026/08/26/bill-gates-ban-ai-from-taking-jobs-from-humans/",
-    "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs"
   ]
 }

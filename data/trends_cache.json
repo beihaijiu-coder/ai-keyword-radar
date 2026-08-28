@@ -1310,5 +1310,21 @@
   "ai coding": {
     "interest": 30,
     "checked_at": "2026-08-27T04:28:03.334448+00:00"
+  },
+  "ai coding agents": {
+    "interest": 2,
+    "checked_at": "2026-08-28T06:50:38.206879+00:00"
+  },
+  "ai engineer": {
+    "interest": 43,
+    "checked_at": "2026-08-28T06:50:48.041886+00:00"
+  },
+  "agent harness": {
+    "interest": 16,
+    "checked_at": "2026-08-28T06:50:58.008533+00:00"
+  },
+  "ai but": {
+    "interest": 58,
+    "checked_at": "2026-08-28T06:51:08.040662+00:00"
   }
 }
