@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/Isa1asN/beckon",
     "https://harden.run/blog/aif-research-and-evidence",
-    "https://github.com/Ut8v/apronagents",
-    "https://news.ycombinator.com/item?id=49461055",
-    "https://64labs.ca/articles/ai-isnt-just-writing-blog-posts-its-making-the-blog-platform-optional",
-    "https://github.com/apvcode/Termux-Dev"
+    "https://github.com/Ut8v/apronagents"
   ]
 }
