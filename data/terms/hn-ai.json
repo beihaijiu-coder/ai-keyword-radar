@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 100,
   "source_diversity_score": 33,
   "opportunity_score": 87,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://www.makralabs.org/about",
+    "https://seiseiai.io/",
+    "https://github.com/rysh-ai/rysh-cli-code",
     "https://github.com/sinceaihq/ai-shipcheck",
-    "https://news.ycombinator.com/item?id=49481969",
-    "https://ziva.sh/full-game-tester",
-    "https://news.ycombinator.com/item?id=49468363"
+    "https://news.ycombinator.com/item?id=49481969"
   ]
 }
