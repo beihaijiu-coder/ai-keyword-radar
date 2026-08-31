@@ -5,17 +5,15 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 70,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://cepr.org/publications/dp21577",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
-    "https://www.risklytics.ai/",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084"
+    "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+    "https://lwn.net/Articles/1091231/"
   ]
 }

@@ -1,23 +1,23 @@
 {
-  "term": "AI Agent",
+  "term": "AI agent",
   "slug": "ai-agent",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 8,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent",
-    "https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/",
-    "https://github.com/Framework-Drift/governed-pass",
-    "https://www.syntasso.io/post/ai-agent-guardrails-don-t-work-safer-platforms-do",
-    "https://talos-agent.ch/"
+    "https://news.ycombinator.com/item?id=49501178",
+    "https://runplane.ai",
+    "https://github.com/Clawdlinux/agentgate",
+    "https://news.ycombinator.com/item?id=49496248",
+    "https://news.ycombinator.com/item?id=49495392"
   ]
 }

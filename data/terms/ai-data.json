@@ -1,5 +1,5 @@
 {
-  "term": "AI data",
+  "term": "AI Data",
   "slug": "ai-data",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "https://getbruin.com/startups/",
-    "https://arxiv.org/abs/2608.22153"
+    "https://www.commondreams.org/news/data-center-poll-collapse",
+    "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+    "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html"
   ]
 }

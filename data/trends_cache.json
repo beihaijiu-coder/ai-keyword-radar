@@ -1330,5 +1330,17 @@
   "ai writes": {
     "interest": 13,
     "checked_at": "2026-08-30T01:11:24.472586+00:00"
+  },
+  "headless browser": {
+    "interest": 0,
+    "checked_at": "2026-08-31T01:18:42.955284+00:00"
+  },
+  "ai agents mcp": {
+    "interest": 1,
+    "checked_at": "2026-08-31T01:18:52.783233+00:00"
+  },
+  "agents mcp": {
+    "interest": 3,
+    "checked_at": "2026-08-31T01:19:02.682162+00:00"
   }
 }

@@ -1,20 +1,20 @@
 {
-  "term": "agent skills",
-  "slug": "agent-skills",
-  "first_seen": "2026-06-11",
+  "term": "AI agents MCP",
+  "slug": "ai-agents-mcp",
+  "first_seen": "2026-08-31",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 89,
+  "search_gap_score": 99,
   "source_diversity_score": 33,
-  "opportunity_score": 78,
+  "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49501178",
     "https://github.com/snyk/agent-scan/",
-    "https://plicara.ai/research/agent-skill-programming-languages/"
+    "https://www.gronox.kr/",
+    "https://github.com/Octonove/crbro-memory"
   ]
 }
