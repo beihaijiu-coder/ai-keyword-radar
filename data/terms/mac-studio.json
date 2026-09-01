@@ -1,7 +1,7 @@
 {
-  "term": "my AI",
-  "slug": "my-ai",
-  "first_seen": "2026-06-12",
+  "term": "Mac Studio",
+  "slug": "mac-studio",
+  "first_seen": "2026-09-01",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/felixpg13-glitch/spendshield",
-    "https://jtemporal.com/i-built-my-ai-squad-in-grok-bot/",
-    "https://seenshot.app/"
+    "https://polyform.ai/news/mac-studio-ai-development-server/",
+    "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
   ]
 }

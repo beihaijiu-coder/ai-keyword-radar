@@ -1342,5 +1342,17 @@
   "agents mcp": {
     "interest": 3,
     "checked_at": "2026-08-31T01:19:02.682162+00:00"
+  },
+  "coding agents": {
+    "interest": 9,
+    "checked_at": "2026-09-01T01:45:05.430725+00:00"
+  },
+  "ai data stack": {
+    "interest": 1,
+    "checked_at": "2026-09-01T01:45:15.427809+00:00"
+  },
+  "mac studio": {
+    "interest": 39,
+    "checked_at": "2026-09-01T01:45:25.337891+00:00"
   }
 }

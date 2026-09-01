@@ -1,0 +1,22 @@
+{
+  "term": "coding agents",
+  "slug": "coding-agents",
+  "first_seen": "2026-09-01",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 91,
+  "source_diversity_score": 67,
+  "opportunity_score": 80,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=49515320",
+    "https://news.ycombinator.com/item?id=49509142",
+    "https://forgeeks.net/ai-agents-abandoned-package-references/",
+    "https://openai.com/index/scientific-computing-agentic-ai"
+  ]
+}

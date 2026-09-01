@@ -14,10 +14,10 @@
   "opportunity_score": 81,
   "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49515320",
+    "https://news.ycombinator.com/item?id=49509142",
+    "https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes",
     "https://forgeeks.net/ai-agents-abandoned-package-references/",
-    "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
-    "https://www.natashatherobot.com/p/flow-ai-coding",
-    "https://www.opencntx.dev/",
-    "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/"
+    "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html"
   ]
 }

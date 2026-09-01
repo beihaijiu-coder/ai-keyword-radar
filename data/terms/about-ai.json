@@ -6,18 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 75,
   "source_diversity_score": 67,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
-    "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
-    "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-    "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-    "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs"
+    "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+    "https://news.ycombinator.com/item?id=49505508",
+    "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+    "https://openai.com/index/partnering-with-codeai"
   ]
 }

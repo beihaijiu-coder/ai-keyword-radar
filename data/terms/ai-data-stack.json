@@ -1,7 +1,7 @@
 {
-  "term": "Show HN AI",
-  "slug": "show-hn-ai",
-  "first_seen": "2026-06-09",
+  "term": "AI Data Stack",
+  "slug": "ai-data-stack",
+  "first_seen": "2026-09-01",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,6 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49510283",
-    "https://tattooideas.app/",
-    "https://magicshot.ai"
+    "https://www.iandmacomber.com/blog/post-ai-data-stack/"
   ]
 }
