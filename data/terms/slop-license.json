@@ -1,7 +1,7 @@
 {
-  "term": "Hey HN",
-  "slug": "hey-hn",
-  "first_seen": "2026-06-11",
+  "term": "Slop License",
+  "slug": "slop-license",
+  "first_seen": "2026-09-02",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.supafork.com",
-    "https://finance.bots.rxlab.app/",
-    "https://www.seatlr.com/"
+    "https://gist.githubusercontent.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6/raw/21b7ff6761d73af4b3a4f03d8149d570679dad70/LICENSE",
+    "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6"
   ]
 }

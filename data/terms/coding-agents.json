@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 91,
   "source_diversity_score": 67,
-  "opportunity_score": 80,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 90,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://github.com/kosmrljt/dev-sandbox",
+    "https://www.supafork.com",
+    "https://github.com/naw103/foremerge",
     "https://news.ycombinator.com/item?id=49515320",
-    "https://news.ycombinator.com/item?id=49509142",
-    "https://forgeeks.net/ai-agents-abandoned-package-references/",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

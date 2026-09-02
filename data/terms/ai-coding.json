@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 67,
   "opportunity_score": 81,
-  "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/mattpocock/skills",
+    "https://github.com/kosmrljt/dev-sandbox",
+    "https://github.com/naw103/foremerge",
     "https://news.ycombinator.com/item?id=49515320",
-    "https://news.ycombinator.com/item?id=49509142",
-    "https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes",
-    "https://forgeeks.net/ai-agents-abandoned-package-references/",
-    "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html"
+    "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

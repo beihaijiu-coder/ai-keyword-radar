@@ -1,0 +1,20 @@
+{
+  "term": "AI chatbot",
+  "slug": "ai-chatbot",
+  "first_seen": "2026-09-02",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 58,
+  "source_diversity_score": 33,
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://quickchat.ai/post/notion-ai-chatbot-help-center",
+    "https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html",
+    "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models"
+  ]
+}

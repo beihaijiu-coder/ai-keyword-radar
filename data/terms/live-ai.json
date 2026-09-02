@@ -1,20 +1,20 @@
 {
-  "term": "no AI",
-  "slug": "no-ai",
-  "first_seen": "2026-06-09",
+  "term": "live AI",
+  "slug": "live-ai",
+  "first_seen": "2026-09-02",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 66,
+  "search_gap_score": 67,
   "source_diversity_score": 33,
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/glitcher255/Kaden-Terminal",
-    "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-    "https://www.timebender.io/"
+    "https://fal.live/",
+    "https://twitter.com/rehan_shei/status/2093528415576211819",
+    "https://fal.live"
   ]
 }

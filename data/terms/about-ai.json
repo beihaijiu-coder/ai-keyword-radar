@@ -1,5 +1,5 @@
 {
-  "term": "about AI",
+  "term": "About AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
-    "https://news.ycombinator.com/item?id=49505508",
-    "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+    "https://www.thefp.com/p/tyler-cowen-artificial-intelligence-takeover-hugging-face",
+    "https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html",
+    "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
     "https://openai.com/index/partnering-with-codeai"
   ]
 }

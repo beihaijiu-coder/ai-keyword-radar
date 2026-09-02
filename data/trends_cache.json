@@ -1354,5 +1354,25 @@
   "mac studio": {
     "interest": 39,
     "checked_at": "2026-09-01T01:45:25.337891+00:00"
+  },
+  "vibecoded ai": {
+    "interest": 1,
+    "checked_at": "2026-09-02T00:56:54.190071+00:00"
+  },
+  "ai chatbot": {
+    "interest": 42,
+    "checked_at": "2026-09-02T00:57:04.007021+00:00"
+  },
+  "over ai": {
+    "interest": 59,
+    "checked_at": "2026-09-02T00:57:14.099067+00:00"
+  },
+  "live ai": {
+    "interest": 33,
+    "checked_at": "2026-09-02T00:57:24.090924+00:00"
+  },
+  "slop license": {
+    "interest": 0,
+    "checked_at": "2026-09-02T00:57:34.017292+00:00"
   }
 }
