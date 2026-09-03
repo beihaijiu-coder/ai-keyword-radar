@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://twitter.com/unclebobmartin/status/2094742094187307295",
-    "https://news.ycombinator.com/item?id=49519104",
-    "https://arxiv.org/list/math/new",
-    "https://github.com/fayerman-source/deslop/"
+    "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+    "https://sites.google.com/view/sources-aislop",
+    "https://amatria.in/blog/aislop",
+    "https://news.ycombinator.com/item?id=49537104",
+    "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/"
   ]
 }

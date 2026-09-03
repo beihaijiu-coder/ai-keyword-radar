@@ -1,20 +1,21 @@
 {
-  "term": "no AI",
+  "term": "No AI",
   "slug": "no-ai",
   "first_seen": "2026-06-09",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/",
+    "https://news.ycombinator.com/item?id=49537104",
     "https://github.com/glitcher255/Kaden-Terminal",
-    "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-    "https://www.timebender.io/"
+    "https://wadler.blogspot.com/2026/08/there-is-no-ai.html"
   ]
 }

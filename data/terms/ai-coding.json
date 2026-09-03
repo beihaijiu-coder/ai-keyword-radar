@@ -14,10 +14,10 @@
   "opportunity_score": 81,
   "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://blog.kulman.sk/pi-is-now-my-ai-harness/",
+    "https://slashdot.org/poll/3284/how-much-of-your-coding-is-done-by-ai-coding-agents-these-days",
     "https://github.com/mattpocock/skills",
     "https://github.com/kosmrljt/dev-sandbox",
-    "https://github.com/naw103/foremerge",
-    "https://news.ycombinator.com/item?id=49515320",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

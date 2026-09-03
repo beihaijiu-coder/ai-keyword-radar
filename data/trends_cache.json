@@ -1374,5 +1374,13 @@
   "slop license": {
     "interest": 0,
     "checked_at": "2026-09-02T00:57:34.017292+00:00"
+  },
+  "muse spark": {
+    "interest": 5,
+    "checked_at": "2026-09-03T01:02:14.021062+00:00"
+  },
+  "ai detection": {
+    "interest": 23,
+    "checked_at": "2026-09-03T01:02:24.147419+00:00"
   }
 }

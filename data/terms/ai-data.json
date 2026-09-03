@@ -1,5 +1,5 @@
 {
-  "term": "AI Data",
+  "term": "AI data",
   "slug": "ai-data",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.commondreams.org/news/data-center-poll-collapse",
-    "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
-    "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html"
+    "https://aidatacenterguide.com",
+    "https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/",
+    "https://beinsure.com/news/ai-data-center-investment-will-top-1trn/"
   ]
 }
