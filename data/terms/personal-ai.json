@@ -1,0 +1,20 @@
+{
+  "term": "personal AI",
+  "slug": "personal-ai",
+  "first_seen": "2026-09-04",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 74,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+    "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "https://brain-tube.com/"
+  ]
+}

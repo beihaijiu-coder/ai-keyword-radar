@@ -1,20 +1,20 @@
 {
-  "term": "coding agent",
-  "slug": "coding-agent",
-  "first_seen": "2026-06-06",
+  "term": "Most AI",
+  "slug": "most-ai",
+  "first_seen": "2026-09-04",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 76,
+  "search_gap_score": 51,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
+  "opportunity_score": 63,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
-    "https://context.apimatic.io/",
-    "https://jern.ai"
+    "https://news.ycombinator.com/item?id=49557020",
+    "https://github.com/fosrl/pangolin",
+    "https://profound.academy"
   ]
 }

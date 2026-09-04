@@ -1382,5 +1382,13 @@
   "ai detection": {
     "interest": 23,
     "checked_at": "2026-09-03T01:02:24.147419+00:00"
+  },
+  "personal ai": {
+    "interest": 26,
+    "checked_at": "2026-09-04T00:53:31.281174+00:00"
+  },
+  "most ai": {
+    "interest": 49,
+    "checked_at": "2026-09-04T00:53:41.317441+00:00"
   }
 }
