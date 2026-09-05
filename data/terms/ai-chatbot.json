@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://tesoro.help/",
+    "https://techambient.github.io/HybridAI/",
     "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
     "https://quickchat.ai/post/instagram-ai-chatbot-answer-dms",
-    "https://quickchat.ai/post/roleplay-ai-chatbot",
-    "https://techambient.github.io/HybridAI/v2.html",
-    "https://techambient.github.io/HybridAI/"
+    "https://quickchat.ai/post/roleplay-ai-chatbot"
   ]
 }

@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 8,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 67,
   "opportunity_score": 81,
-  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/JosPMSilva/ADDOM",
-    "https://github.com/aiengram/engram",
-    "https://context.apimatic.io/",
-    "https://deanhume.com/why-short-ai-coding-prompts-can-cost-you-more-time/",
-    "https://vericommand.net/benchmark"
+    "https://github.com/aws-bench/aws-bench",
+    "https://arxiv.org/abs/2607.21832",
+    "https://news.ycombinator.com/item?id=49564889",
+    "https://bitbin.de/qualitative-benchmarks/",
+    "https://github.com/lovaxi/Rubato_Device"
   ]
 }

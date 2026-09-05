@@ -1,5 +1,5 @@
 {
-  "term": "AI Training",
+  "term": "AI training",
   "slug": "ai-training",
   "first_seen": "2026-07-11",
   "sources": [
@@ -7,15 +7,15 @@
     "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 1,
-  "velocity_score": 75,
+  "mention_count_history": 0,
+  "velocity_score": 90,
   "search_gap_score": 69,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/",
-    "https://www.mercor.com/blog/mercor-to-acquire-deeptune/",
-    "https://openai.com/index/mrc-supercomputer-networking"
+    "https://github.com/boquila/montgomery",
+    "https://id43labs.com/",
+    "https://openai.com/index/daybreak-for-frontline-defenders"
   ]
 }

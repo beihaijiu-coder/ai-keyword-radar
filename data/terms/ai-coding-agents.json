@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 98,
   "source_diversity_score": 67,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 93,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://github.com/aws-bench/aws-bench",
+    "https://news.ycombinator.com/item?id=49564889",
     "https://github.com/aiengram/engram",
     "https://context.apimatic.io/",
-    "https://memhub.simplex.lat",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }
