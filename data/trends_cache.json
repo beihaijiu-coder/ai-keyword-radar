@@ -1390,5 +1390,21 @@
   "most ai": {
     "interest": 49,
     "checked_at": "2026-09-04T00:53:41.317441+00:00"
+  },
+  "ai ruining": {
+    "interest": 2,
+    "checked_at": "2026-09-06T00:46:20.136764+00:00"
+  },
+  "ai ruining my": {
+    "interest": 1,
+    "checked_at": "2026-09-06T00:46:30.297150+00:00"
+  },
+  "ai ruining my brain": {
+    "interest": 0,
+    "checked_at": "2026-09-06T00:46:40.093406+00:00"
+  },
+  "ai jobs boom": {
+    "interest": 1,
+    "checked_at": "2026-09-06T00:46:50.089334+00:00"
   }
 }

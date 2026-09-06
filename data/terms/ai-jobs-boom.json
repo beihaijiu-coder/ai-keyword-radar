@@ -1,17 +1,17 @@
 {
-  "term": "AI jobs",
-  "slug": "ai-jobs",
-  "first_seen": "2026-07-07",
+  "term": "AI jobs boom",
+  "slug": "ai-jobs-boom",
+  "first_seen": "2026-09-06",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 53,
+  "search_gap_score": 99,
   "source_diversity_score": 33,
-  "opportunity_score": 64,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
     "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
     "https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"

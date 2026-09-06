@@ -14,10 +14,10 @@
   "opportunity_score": 93,
   "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://github.com/okf-memory/okf-agent-memory",
+    "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
     "https://github.com/aws-bench/aws-bench",
     "https://news.ycombinator.com/item?id=49564889",
-    "https://github.com/aiengram/engram",
-    "https://context.apimatic.io/",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }
