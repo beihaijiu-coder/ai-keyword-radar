@@ -1406,5 +1406,13 @@
   "ai jobs boom": {
     "interest": 1,
     "checked_at": "2026-09-06T00:46:50.089334+00:00"
+  },
+  "personal ai router": {
+    "interest": 0,
+    "checked_at": "2026-09-07T00:49:13.991066+00:00"
+  },
+  "ai router": {
+    "interest": 18,
+    "checked_at": "2026-09-07T00:49:23.841754+00:00"
   }
 }
