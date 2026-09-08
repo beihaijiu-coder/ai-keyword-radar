@@ -14,10 +14,10 @@
   "opportunity_score": 81,
   "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/",
-    "https://github.com/thecolourfoundation/rune",
-    "https://github.com/Basiliskin/nimvarya",
-    "https://github.com/okf-memory/okf-agent-memory",
-    "https://github.com/lovaxi/Rubato_Device"
+    "https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md",
+    "https://github.com/oooscoos/Benzi",
+    "https://codexbar.app/",
+    "https://news.ycombinator.com/item?id=49595961",
+    "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/"
   ]
 }

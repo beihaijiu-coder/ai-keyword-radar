@@ -14,10 +14,10 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+    "https://news.ycombinator.com/item?id=49599559",
+    "https://news.ycombinator.com/item?id=49596904",
     "https://doi.org/10.1038/s41591-026-04694-y",
-    "https://github.com/siropkin/chrome-bridge",
-    "https://github.com/kalpovskii/quiz-ui",
-    "https://twitter.com/artficialisabel/status/2095678312773554533",
-    "https://github.com/openamer/openamer"
+    "https://github.com/siropkin/chrome-bridge"
   ]
 }

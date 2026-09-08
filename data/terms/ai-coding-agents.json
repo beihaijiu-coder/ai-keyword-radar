@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 98,
   "source_diversity_score": 67,
   "opportunity_score": 93,
-  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://github.com/oooscoos/Benzi",
+    "https://news.ycombinator.com/item?id=49595961",
     "https://github.com/thecolourfoundation/rune",
     "https://github.com/Basiliskin/nimvarya",
-    "https://github.com/okf-memory/okf-agent-memory",
-    "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-    "https://github.com/aws-bench/aws-bench"
+    "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

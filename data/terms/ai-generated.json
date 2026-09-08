@@ -1,5 +1,5 @@
 {
-  "term": "ai generated",
+  "term": "AI generated",
   "slug": "ai-generated",
   "first_seen": "2026-07-25",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 65,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49571091",
-    "https://www.youtube.com/watch?v=T2Xzd7KHSis",
-    "https://www.youtube.com/watch?v=kVXp6UNVPTo"
+    "https://www.openrelay.app/",
+    "https://news.ycombinator.com/item?id=49598847",
+    "https://twitter.com/washingtonpost/status/2096304873557877132"
   ]
 }

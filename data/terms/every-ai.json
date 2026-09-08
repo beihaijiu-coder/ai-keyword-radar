@@ -1,20 +1,21 @@
 {
-  "term": "every AI",
+  "term": "Every AI",
   "slug": "every-ai",
   "first_seen": "2026-06-21",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 69,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 74,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://tokenmaxxer.xyz",
-    "https://verginglabs.com/",
-    "https://news.ycombinator.com/item?id=49148320"
+    "https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim",
+    "https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md",
+    "https://codexbar.app/",
+    "https://news.ycombinator.com/item?id=49594258"
   ]
 }

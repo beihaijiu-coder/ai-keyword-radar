@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/nafeeur/MaskShift",
-    "https://mu.vizuara.ai/",
-    "https://github.com/lovaxi/Rubato_Device"
+    "https://github.com/oooscoos/Benzi",
+    "https://github.com/sorantis/portal-ai-plugins/tree/add-shunt-claude/plugins/shunt",
+    "https://news.ycombinator.com/item?id=49598498",
+    "https://github.com/gadievron/raptor",
+    "https://news.ycombinator.com/item?id=49595961"
   ]
 }

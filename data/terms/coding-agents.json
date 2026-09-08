@@ -14,10 +14,10 @@
   "opportunity_score": 90,
   "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
+    "https://github.com/oooscoos/Benzi",
+    "https://news.ycombinator.com/item?id=49595961",
+    "https://github.com/redhat-et/ripwire",
     "https://github.com/thecolourfoundation/rune",
-    "https://github.com/Basiliskin/nimvarya",
-    "https://github.com/okf-memory/okf-agent-memory",
-    "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-    "https://github.com/aws-bench/aws-bench"
+    "https://github.com/Basiliskin/nimvarya"
   ]
 }
