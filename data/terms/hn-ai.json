@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 87,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://ocam.fablesecurity.com/7a573656-3fac-485c-aaa4-a1f56452539f?id=22f5effc-8f44-4d91-b2d2-0151466f8d9a",
-    "https://github.com/aiusageball/ai-usage-ball",
-    "https://rizin.app/"
+    "https://augmentorlabs.com/manifest",
+    "https://apps.apple.com/us/app/moon-mood-tracker-journal/id6773049470",
+    "https://github.com/jamison/ilc/blob/main/HUMANS.md",
+    "https://iindex.co/",
+    "https://www.youtube.com/watch?v=tSSPdkp0QVI"
   ]
 }

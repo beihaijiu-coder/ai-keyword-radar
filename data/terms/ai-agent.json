@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 9,
+  "mention_count_recent": 14,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 14; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
-    "https://news.ycombinator.com/item?id=49599559",
-    "https://news.ycombinator.com/item?id=49596904",
-    "https://doi.org/10.1038/s41591-026-04694-y",
-    "https://github.com/siropkin/chrome-bridge"
+    "https://github.com/IdoGol24/weir",
+    "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
+    "https://ai.meta.com/muse/",
+    "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+    "https://twitter.com/muse/status/2097399178376671666"
   ]
 }

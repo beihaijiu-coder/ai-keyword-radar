@@ -1414,5 +1414,17 @@
   "ai router": {
     "interest": 18,
     "checked_at": "2026-09-07T00:49:23.841754+00:00"
+  },
+  "personal ai agent": {
+    "interest": 4,
+    "checked_at": "2026-09-09T01:08:25.758493+00:00"
+  },
+  "ai fair": {
+    "interest": 31,
+    "checked_at": "2026-09-09T01:08:35.611541+00:00"
+  },
+  "ai fair use": {
+    "interest": 2,
+    "checked_at": "2026-09-09T01:08:45.417352+00:00"
   }
 }

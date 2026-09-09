@@ -1,17 +1,17 @@
 {
-  "term": "personal AI",
-  "slug": "personal-ai",
-  "first_seen": "2026-09-04",
+  "term": "personal AI agent",
+  "slug": "personal-ai-agent",
+  "first_seen": "2026-09-09",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
-  "search_gap_score": 74,
+  "search_gap_score": 96,
   "source_diversity_score": 33,
-  "opportunity_score": 76,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 85,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
     "https://ai.meta.com/muse/",
     "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
