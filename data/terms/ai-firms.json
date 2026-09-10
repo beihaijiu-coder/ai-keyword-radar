@@ -1,0 +1,20 @@
+{
+  "term": "AI firms",
+  "slug": "ai-firms",
+  "first_seen": "2026-09-10",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 80,
+  "source_diversity_score": 33,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
+    "https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology"
+  ]
+}

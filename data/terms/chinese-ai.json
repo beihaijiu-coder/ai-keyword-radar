@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 74,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 76,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
-    "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-    "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/"
+    "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/",
+    "https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology",
+    "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF"
   ]
 }

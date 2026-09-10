@@ -6,17 +6,16 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 38,
   "source_diversity_score": 67,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 65,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://mushrooms.viasocket.com",
     "https://news.ycombinator.com/item?id=49617135",
-    "https://ratioshift.com/2026/07/what-ai-cant-fake-how-junior-engineers-can-stand-out-in-the-age-of-ai/",
-    "https://news.ycombinator.com/item?id=49613990",
     "https://openai.com/index/the-work-now-within-reach"
   ]
 }
