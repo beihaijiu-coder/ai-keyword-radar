@@ -1,20 +1,20 @@
 {
-  "term": "Open source AI",
-  "slug": "open-source-ai",
-  "first_seen": "2026-06-11",
+  "term": "AI gets",
+  "slug": "ai-gets",
+  "first_seen": "2026-09-11",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 76,
+  "search_gap_score": 72,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
+  "opportunity_score": 71,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://talleyrand.app/",
-    "https://voxdev.org/topic/technology-innovation/will-open-source-ai-keep-long",
-    "https://www.together.ai/blog/the-open-source-ai-stack"
+    "https://papiers.ai/",
+    "https://twitter.com/sighjith/status/2098147463114932696",
+    "https://www.ibtimes.co.uk/meta-muse-ai-branding-clash-rock-band-1818743"
   ]
 }

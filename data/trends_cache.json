@@ -1450,5 +1450,25 @@
   "ai made": {
     "interest": 48,
     "checked_at": "2026-09-10T00:57:57.305845+00:00"
+  },
+  "ai policy window": {
+    "interest": 1,
+    "checked_at": "2026-09-11T00:53:53.989462+00:00"
+  },
+  "ai policy": {
+    "interest": 42,
+    "checked_at": "2026-09-11T00:54:04.010334+00:00"
+  },
+  "ai gets": {
+    "interest": 28,
+    "checked_at": "2026-09-11T00:54:24.046573+00:00"
+  },
+  "our ai": {
+    "interest": 49,
+    "checked_at": "2026-09-11T00:54:43.876883+00:00"
+  },
+  "jacob coxon": {
+    "interest": 15,
+    "checked_at": "2026-09-11T00:54:54.185251+00:00"
   }
 }

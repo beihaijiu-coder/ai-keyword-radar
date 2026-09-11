@@ -1,0 +1,20 @@
+{
+  "term": "our AI",
+  "slug": "our-ai",
+  "first_seen": "2026-09-11",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 51,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://builders.ramp.com/post/how-we-built-oca-our-ai-on-call-assistant",
+    "https://www.swiftcruit.ai/tools/assessment-question-generator",
+    "https://news.ycombinator.com/item?id=49641616"
+  ]
+}

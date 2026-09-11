@@ -1,0 +1,20 @@
+{
+  "term": "Jacob Coxon",
+  "slug": "jacob-coxon",
+  "first_seen": "2026-09-11",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 85,
+  "source_diversity_score": 33,
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://apnews.com/article/anthropic-ai-safety-jacob-coxon-2ed549e07f2f941600a135070487d83d",
+    "https://news.ycombinator.com/item?id=49637237",
+    "https://twitter.com/ParkerThayer/status/2097759699626328575"
+  ]
+}

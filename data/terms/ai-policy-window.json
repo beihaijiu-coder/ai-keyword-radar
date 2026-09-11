@@ -1,20 +1,20 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "AI policy window",
+  "slug": "ai-policy-window",
+  "first_seen": "2026-09-11",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
   "search_gap_score": 99,
-  "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "source_diversity_score": 67,
+  "opportunity_score": 89,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://nola.sh/",
-    "https://github.com/sealandseacat/dbmask",
-    "https://github.com/Kidus-M/MaruCheck"
+    "https://openai.com/index/ai-policy-window/",
+    "https://openai.com/index/ai-policy-window"
   ]
 }

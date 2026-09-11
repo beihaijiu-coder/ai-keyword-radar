@@ -1,7 +1,7 @@
 {
-  "term": "AI era",
-  "slug": "ai-era",
-  "first_seen": "2026-06-12",
+  "term": "AI policy",
+  "slug": "ai-policy",
+  "first_seen": "2026-09-11",
   "sources": [
     "hackernews",
     "rss"
@@ -9,14 +9,13 @@
   "mention_count_recent": 3,
   "mention_count_history": 1,
   "velocity_score": 75,
-  "search_gap_score": 70,
+  "search_gap_score": 58,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
+  "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://natively.io",
-    "https://www.sendroq.com/",
-    "https://news.ycombinator.com/item?id=49646640",
-    "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+    "https://openai.com/index/ai-policy-window/",
+    "https://openai.com/index/ai-policy-window",
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
   ]
 }
