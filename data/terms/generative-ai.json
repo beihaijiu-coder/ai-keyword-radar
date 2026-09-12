@@ -3,17 +3,19 @@
   "slug": "generative-ai",
   "first_seen": "2026-06-18",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
   "search_gap_score": 70,
-  "source_diversity_score": 33,
-  "opportunity_score": 71,
+  "source_diversity_score": 67,
+  "opportunity_score": 77,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-    "https://lwn.net/Articles/1091231/"
+    "https://eng.snu.ac.kr/en/communication/promotion/news?md=v&bbsidx=8355",
+    "https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/",
+    "https://openai.com/index/teen-development-research-grants"
   ]
 }

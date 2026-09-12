@@ -1470,5 +1470,9 @@
   "jacob coxon": {
     "interest": 15,
     "checked_at": "2026-09-11T00:54:54.185251+00:00"
+  },
+  "other agents": {
+    "interest": 30,
+    "checked_at": "2026-09-12T00:59:28.168467+00:00"
   }
 }

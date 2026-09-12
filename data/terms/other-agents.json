@@ -1,20 +1,20 @@
 {
-  "term": "AI Slop",
-  "slug": "ai-slop",
-  "first_seen": "2026-06-07",
+  "term": "other agents",
+  "slug": "other-agents",
+  "first_seen": "2026-09-12",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 58,
+  "search_gap_score": 70,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 71,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
-    "https://twitter.com/julihespenheide/status/2098070502157791452",
-    "https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read"
+    "https://provetogether.ai/",
+    "https://github.com/pixel-point/toolcraft",
+    "https://clawfight.ai/agents.md"
   ]
 }
