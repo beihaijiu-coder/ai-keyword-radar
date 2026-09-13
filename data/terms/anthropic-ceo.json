@@ -5,15 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 86,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8"
+    "https://www.euronews.com/my-europe/2026/09/12/anthropic-ceo-dario-amodei-calls-on-ai-companies-to-slow-down-ai-development-amid-superint",
+    "https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html",
+    "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
+    "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing"
   ]
 }

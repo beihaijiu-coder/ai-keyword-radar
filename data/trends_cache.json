@@ -1474,5 +1474,25 @@
   "other agents": {
     "interest": 30,
     "checked_at": "2026-09-12T00:59:28.168467+00:00"
+  },
+  "ai agents lying": {
+    "interest": 0,
+    "checked_at": "2026-09-13T00:46:06.381141+00:00"
+  },
+  "ai agents lying cheating": {
+    "interest": 1,
+    "checked_at": "2026-09-13T00:46:16.381731+00:00"
+  },
+  "agents lying": {
+    "interest": 1,
+    "checked_at": "2026-09-13T00:46:26.468120+00:00"
+  },
+  "agents lying cheating": {
+    "interest": 1,
+    "checked_at": "2026-09-13T00:46:36.392566+00:00"
+  },
+  "global ai": {
+    "interest": 39,
+    "checked_at": "2026-09-13T00:46:46.450809+00:00"
   }
 }

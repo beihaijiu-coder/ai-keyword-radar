@@ -1,0 +1,19 @@
+{
+  "term": "agents lying cheating",
+  "slug": "agents-lying-cheating",
+  "first_seen": "2026-09-13",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 99,
+  "source_diversity_score": 33,
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
+    "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+  ]
+}
