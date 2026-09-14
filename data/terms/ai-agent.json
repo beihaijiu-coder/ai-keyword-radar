@@ -14,10 +14,10 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated",
-    "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-    "https://news.ycombinator.com/item?id=49670455",
-    "https://github.com/google/artemis",
-    "https://github.com/XNet-NGO/aiope"
+    "https://effect.website/",
+    "https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e",
+    "https://pypi.org/project/pyshackle/",
+    "https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/",
+    "https://github.com/Hardik94/vix-gateway/releases/tag/v2.3.1"
   ]
 }

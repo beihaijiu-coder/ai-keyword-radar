@@ -1,0 +1,21 @@
+{
+  "term": "Dario Amodei",
+  "slug": "dario-amodei",
+  "first_seen": "2026-09-14",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 85,
+  "source_diversity_score": 33,
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+    "https://news.ycombinator.com/item?id=49686489",
+    "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837",
+    "https://www.bbc.com/news/articles/c14dpgm0rg4o"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "term": "Sam Altman",
+  "slug": "sam-altman",
+  "first_seen": "2026-09-14",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 49,
+  "source_diversity_score": 33,
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425",
+    "https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/",
+    "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+    "https://twitter.com/kuberwastaken/status/2098812781223174325"
+  ]
+}

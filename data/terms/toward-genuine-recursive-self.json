@@ -1,7 +1,7 @@
 {
-  "term": "AI agents lying",
-  "slug": "ai-agents-lying",
-  "first_seen": "2026-09-13",
+  "term": "Toward Genuine Recursive Self",
+  "slug": "toward-genuine-recursive-self",
+  "first_seen": "2026-09-14",
   "sources": [
     "hackernews"
   ],
@@ -13,8 +13,7 @@
   "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49685036",
-    "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating"
+    "https://arxiv.org/abs/2609.11873",
+    "https://academy.dair.ai/papers/the-last-ai-built-by-humans-toward-genuine-recursive-self-improvement-2609.11873"
   ]
 }

@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 33,
   "opportunity_score": 74,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+    "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
     "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-    "https://twitter.com/kuberwastaken/status/2098812781223174325",
-    "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
-    "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/"
+    "https://twitter.com/kuberwastaken/status/2098812781223174325"
   ]
 }

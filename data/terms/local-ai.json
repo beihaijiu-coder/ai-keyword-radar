@@ -1,5 +1,5 @@
 {
-  "term": "local AI",
+  "term": "Local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
@@ -14,8 +14,9 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/cthackers/inpaint",
-    "https://github.com/markdr-hue/open-fabrica",
+    "https://www.llm-hub.app",
+    "https://github.com/Hardik94/vix-gateway/releases/tag/v2.3.1",
+    "https://github.com/just-not-google/BiNeuron",
     "https://huggingface.co/blog/webgpu-kernels"
   ]
 }

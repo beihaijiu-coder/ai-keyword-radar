@@ -1494,5 +1494,25 @@
   "global ai": {
     "interest": 39,
     "checked_at": "2026-09-13T00:46:46.450809+00:00"
+  },
+  "ai slowdown": {
+    "interest": 9,
+    "checked_at": "2026-09-14T00:52:42.301082+00:00"
+  },
+  "sam altman": {
+    "interest": 51,
+    "checked_at": "2026-09-14T00:52:52.379943+00:00"
+  },
+  "dario amodei": {
+    "interest": 15,
+    "checked_at": "2026-09-14T00:53:02.250477+00:00"
+  },
+  "toward genuine recursive self": {
+    "interest": 0,
+    "checked_at": "2026-09-14T00:53:12.277800+00:00"
+  },
+  "slow ai": {
+    "interest": 24,
+    "checked_at": "2026-09-14T00:53:22.271093+00:00"
   }
 }

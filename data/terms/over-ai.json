@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 41,
   "source_diversity_score": 33,
-  "opportunity_score": 59,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-    "https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
-    "https://news.ycombinator.com/item?id=49527773"
+    "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
+    "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+    "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns",
+    "https://www.bbc.co.uk/news/articles/cq635037g18o"
   ]
 }
