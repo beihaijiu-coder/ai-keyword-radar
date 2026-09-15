@@ -1514,5 +1514,21 @@
   "slow ai": {
     "interest": 24,
     "checked_at": "2026-09-14T00:53:22.271093+00:00"
+  },
+  "ai risk": {
+    "interest": 25,
+    "checked_at": "2026-09-15T01:19:40.330906+00:00"
+  },
+  "ai ceos": {
+    "interest": 14,
+    "checked_at": "2026-09-15T01:19:50.286149+00:00"
+  },
+  "personal statement": {
+    "interest": 25,
+    "checked_at": "2026-09-15T01:20:00.221210+00:00"
+  },
+  "donald trump": {
+    "interest": 50,
+    "checked_at": "2026-09-15T01:20:10.289009+00:00"
   }
 }

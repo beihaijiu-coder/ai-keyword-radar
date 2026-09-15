@@ -1,20 +1,20 @@
 {
-  "term": "against AI",
-  "slug": "against-ai",
-  "first_seen": "2026-07-13",
+  "term": "Donald Trump",
+  "slug": "donald-trump",
+  "first_seen": "2026-09-15",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 64,
+  "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
+  "opportunity_score": 63,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.rnz.co.nz/news/world/1380559/donald-trump-claims-sick-conspiracy-against-ai-helping-china-rejects-calls-for-regulation",
-    "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-    "https://www.forbes.com/sites/siladityaray/2026/09/14/china-pushes-back-against-ai-slowdown-talks-alleging-fearmongering/"
+    "https://economist.com/by-invitation/2026/09/14/an-ai-deal-with-china-could-get-donald-trump-his-nobel-prize",
+    "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed"
   ]
 }

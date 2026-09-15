@@ -1,5 +1,5 @@
 {
-  "term": "Most AI",
+  "term": "most AI",
   "slug": "most-ai",
   "first_seen": "2026-09-04",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 63,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49557020",
-    "https://github.com/fosrl/pangolin",
-    "https://profound.academy"
+    "https://loopprep.dev/",
+    "https://news.ycombinator.com/item?id=49689696",
+    "https://news.ycombinator.com/item?id=49689454"
   ]
 }
