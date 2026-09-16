@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 9,
+  "mention_count_recent": 16,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 16; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html",
-    "https://nowdex.app/",
-    "https://progantt.com",
-    "https://www.drjoshcsimmons.com/writing/your-ai-agent-has-a-cache-invalidation-problem",
-    "https://triangllabs.ai/otis"
+    "https://1f3d9.com/window/map",
+    "https://noma.security/noma-labs/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+    "https://stevechikwiri.substack.com/p/changing-mind-frames-from-building",
+    "https://hotline.ryan-g.ai/",
+    "https://dev.yuv.run/writing/rules-that-survive/"
   ]
 }

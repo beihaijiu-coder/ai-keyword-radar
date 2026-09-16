@@ -6,16 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
+  "velocity_score": 100,
   "search_gap_score": 69,
   "source_diversity_score": 67,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/boquila/montgomery",
-    "https://id43labs.com/",
+    "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
+    "https://read.misalignedmag.com/arguments-for-rigorous-ai-training-data-transparency-4d9a2a667188",
+    "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "https://pazvanti.github.io/Chronicle/",
     "https://openai.com/index/daybreak-for-frontline-defenders"
   ]
 }
