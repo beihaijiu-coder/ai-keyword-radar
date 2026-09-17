@@ -1,21 +1,20 @@
 {
-  "term": "AI Slop",
+  "term": "AI slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
-    "https://news.ycombinator.com/item?id=49669620",
-    "https://twitter.com/julihespenheide/status/2098070502157791452",
-    "https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read"
+    "https://seasonmap.app",
+    "https://elephant.wuemeli.com/@wuemeli/117280311233495501",
+    "https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report"
   ]
 }

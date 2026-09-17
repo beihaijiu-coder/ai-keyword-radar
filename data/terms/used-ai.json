@@ -7,15 +7,16 @@
     "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_history": 1,
+  "velocity_score": 75,
   "search_gap_score": 59,
   "source_diversity_score": 67,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://raia.fun/blog/ep-001-bayesian-special-relativity",
-    "https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032",
+    "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+    "https://seasonmap.app",
+    "https://github.com/EI3LH/Gescom-MiniDisc-Runner",
     "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
   ]
 }

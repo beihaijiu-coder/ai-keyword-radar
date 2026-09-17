@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 42,
   "source_diversity_score": 33,
-  "opportunity_score": 59,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://backprompter.com/",
-    "https://news.ycombinator.com/item?id=49461055",
-    "https://news.ycombinator.com/item?id=49455449"
+    "https://vending-machine-lab.pages.dev/",
+    "https://www.xda-developers.com/linux-development-is-really-benefiting-from-ai-but-not-from-its-coding/",
+    "https://sunred.app/",
+    "https://news.ycombinator.com/item?id=49719966"
   ]
 }

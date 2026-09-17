@@ -1,0 +1,20 @@
+{
+  "term": "Typesafe ai",
+  "slug": "typesafe-ai",
+  "first_seen": "2026-09-17",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 90,
+  "source_diversity_score": 33,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",
+    "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+    "https://typesafe.ai/"
+  ]
+}
