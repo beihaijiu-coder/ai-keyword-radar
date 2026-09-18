@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 56,
   "source_diversity_score": 33,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49513028",
-    "https://news.ycombinator.com/item?id=49509142",
-    "https://1endpoint.dev"
+    "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+    "https://radio.plasma.ai/",
+    "https://news.ycombinator.com/item?id=49743049",
+    "https://nexus-arc.pryx.dev/"
   ]
 }

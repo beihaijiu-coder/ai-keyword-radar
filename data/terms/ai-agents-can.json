@@ -1,0 +1,19 @@
+{
+  "term": "AI agents can",
+  "slug": "ai-agents-can",
+  "first_seen": "2026-09-18",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 79,
+  "source_diversity_score": 33,
+  "opportunity_score": 74,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+    "https://nexus-arc.pryx.dev/"
+  ]
+}

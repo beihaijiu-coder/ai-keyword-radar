@@ -1538,5 +1538,25 @@
   "typesafe ai": {
     "interest": 10,
     "checked_at": "2026-09-17T01:14:53.318632+00:00"
+  },
+  "ai agents can": {
+    "interest": 21,
+    "checked_at": "2026-09-18T01:10:19.077546+00:00"
+  },
+  "union alpha": {
+    "interest": 8,
+    "checked_at": "2026-09-18T01:10:39.178527+00:00"
+  },
+  "ai doom": {
+    "interest": 10,
+    "checked_at": "2026-09-18T01:10:49.250857+00:00"
+  },
+  "github copilot runtime": {
+    "interest": 1,
+    "checked_at": "2026-09-18T01:10:59.107906+00:00"
+  },
+  "copilot runtime": {
+    "interest": 0,
+    "checked_at": "2026-09-18T01:11:09.077606+00:00"
   }
 }

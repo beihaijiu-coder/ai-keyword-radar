@@ -1,0 +1,20 @@
+{
+  "term": "AI Doom",
+  "slug": "ai-doom",
+  "first_seen": "2026-09-18",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 90,
+  "source_diversity_score": 33,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://twitter.com/esrtweet/status/2100530353270100334",
+    "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+    "https://yinwei.substack.com/p/my-chinese-internet-is-talking-about"
+  ]
+}
