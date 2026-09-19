@@ -13,8 +13,8 @@
   "opportunity_score": 76,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.reddit.com/r/AI_Agents/comments/1vzyu7i/i_built_a_minimalist_agent_harness_that_runs_in/",
-    "https://github.com/langchain-ai/deepagents",
-    "https://www.taskshell.app/"
+    "https://academy.dair.ai/papers/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness-2609.20519",
+    "https://github.com/fabledruns/forcefield",
+    "https://www.usenotch.ai/blog/cutting-our-agent-s-harness-cost-10x-without-breaking-the-product"
   ]
 }

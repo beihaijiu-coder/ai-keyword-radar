@@ -1,0 +1,20 @@
+{
+  "term": "AI drug program",
+  "slug": "ai-drug-program",
+  "first_seen": "2026-09-19",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 100,
+  "source_diversity_score": 33,
+  "opportunity_score": 87,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html",
+    "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+    "https://www.msn.com/en-us/news/other/exclusive-anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program/ar-AA2cumFO"
+  ]
+}

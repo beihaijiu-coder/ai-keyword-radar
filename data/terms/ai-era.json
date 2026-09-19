@@ -1,5 +1,5 @@
 {
-  "term": "AI era",
+  "term": "AI Era",
   "slug": "ai-era",
   "first_seen": "2026-06-12",
   "sources": [
@@ -7,16 +7,15 @@
     "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 1,
-  "velocity_score": 75,
+  "mention_count_history": 0,
+  "velocity_score": 90,
   "search_gap_score": 70,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://natively.io",
-    "https://www.sendroq.com/",
-    "https://news.ycombinator.com/item?id=49646640",
-    "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+    "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
+    "https://medium.com/@Koukyosyumei/think-like-an-attacker-ci-cd-security-in-the-ai-era-39f717f5e9cd",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
   ]
 }

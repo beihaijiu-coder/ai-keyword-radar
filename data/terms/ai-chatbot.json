@@ -1,20 +1,21 @@
 {
-  "term": "AI Chatbot",
+  "term": "AI chatbot",
   "slug": "ai-chatbot",
   "first_seen": "2026-09-02",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://tesoro.help/",
-    "https://techambient.github.io/HybridAI/",
-    "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php"
+    "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+    "https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say",
+    "https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/",
+    "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health"
   ]
 }
