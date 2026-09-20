@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 90,
   "source_diversity_score": 33,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/",
-    "https://semanticspace.dev/",
-    "https://docs.typesafe.ai/introduction/machine-learning-primer",
-    "https://github.com/TitovDigital/kbai-skill",
-    "https://typesafe.ai/"
+    "https://fly.rahmanyoonus.com",
+    "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/"
   ]
 }

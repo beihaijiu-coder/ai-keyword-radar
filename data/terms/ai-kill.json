@@ -1,21 +1,22 @@
 {
-  "term": "AI Kill",
+  "term": "AI kill",
   "slug": "ai-kill",
   "first_seen": "2026-07-25",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
-  "search_gap_score": 50,
+  "search_gap_score": 67,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
-    "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
-    "https://lieu.house.gov/sites/evo-subsites/lieu-evo.house.gov/files/evo-media-document/ai-kill-switch-act.pdf"
+    "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+    "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california"
   ]
 }

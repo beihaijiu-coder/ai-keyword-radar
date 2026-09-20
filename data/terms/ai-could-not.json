@@ -1,19 +1,18 @@
 {
-  "term": "vibe coding",
-  "slug": "vibe-coding",
-  "first_seen": "2026-07-04",
+  "term": "AI could not",
+  "slug": "ai-could-not",
+  "first_seen": "2026-09-20",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 71,
+  "search_gap_score": 61,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
+  "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://ai-eng-design-production.up.railway.app/login",
-    "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/"
+    "https://www.youtube.com/watch?v=Nbwv5wHQoj0"
   ]
 }

@@ -1578,5 +1578,53 @@
   "ai drug program": {
     "interest": 0,
     "checked_at": "2026-09-19T01:05:31.164987+00:00"
+  },
+  "ai kill": {
+    "interest": 33,
+    "checked_at": "2026-09-20T00:54:45.431043+00:00"
+  },
+  "ai force": {
+    "interest": 20,
+    "checked_at": "2026-09-20T00:54:55.248567+00:00"
+  },
+  "gemini ai": {
+    "interest": 66,
+    "checked_at": "2026-09-20T00:55:05.119923+00:00"
+  },
+  "last imo problem ai": {
+    "interest": 0,
+    "checked_at": "2026-09-20T00:55:15.072474+00:00"
+  },
+  "imo problem ai": {
+    "interest": 0,
+    "checked_at": "2026-09-20T00:55:25.032327+00:00"
+  },
+  "imo problem ai could": {
+    "interest": 0,
+    "checked_at": "2026-09-20T00:55:35.054635+00:00"
+  },
+  "problem ai": {
+    "interest": 48,
+    "checked_at": "2026-09-20T00:55:45.131664+00:00"
+  },
+  "problem ai could": {
+    "interest": 3,
+    "checked_at": "2026-09-20T00:55:55.258865+00:00"
+  },
+  "problem ai could not": {
+    "interest": 1,
+    "checked_at": "2026-09-20T00:56:05.248976+00:00"
+  },
+  "ai could not": {
+    "interest": 39,
+    "checked_at": "2026-09-20T00:56:15.100580+00:00"
+  },
+  "ai could not solve": {
+    "interest": 1,
+    "checked_at": "2026-09-20T00:56:25.110203+00:00"
+  },
+  "us military": {
+    "interest": 27,
+    "checked_at": "2026-09-20T00:56:35.107146+00:00"
   }
 }
