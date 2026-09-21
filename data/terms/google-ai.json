@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 42,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 59,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
     "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
-    "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
-    "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-    "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-    "https://john.hartnup.uk/fiction/crab/"
+    "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf"
   ]
 }

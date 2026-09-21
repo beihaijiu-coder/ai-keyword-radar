@@ -1,0 +1,20 @@
+{
+  "term": "Does AI",
+  "slug": "does-ai",
+  "first_seen": "2026-09-21",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 34,
+  "source_diversity_score": 33,
+  "opportunity_score": 56,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://www.scanora.ai",
+    "https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/",
+    "https://www.nber.org/papers/w35720"
+  ]
+}

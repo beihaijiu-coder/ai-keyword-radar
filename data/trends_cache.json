@@ -1626,5 +1626,13 @@
   "us military": {
     "interest": 27,
     "checked_at": "2026-09-20T00:56:35.107146+00:00"
+  },
+  "does ai": {
+    "interest": 66,
+    "checked_at": "2026-09-21T00:57:42.856913+00:00"
+  },
+  "ai czar": {
+    "interest": 1,
+    "checked_at": "2026-09-21T00:57:52.511622+00:00"
   }
 }
