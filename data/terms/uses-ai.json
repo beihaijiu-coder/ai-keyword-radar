@@ -1,22 +1,20 @@
 {
-  "term": "uses AI",
+  "term": "Uses AI",
   "slug": "uses-ai",
   "first_seen": "2026-08-23",
   "sources": [
-    "hackernews",
-    "rss"
+    "hackernews"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 1,
-  "velocity_score": 75,
+  "mention_count_history": 0,
+  "velocity_score": 90,
   "search_gap_score": 46,
-  "source_diversity_score": 67,
-  "opportunity_score": 62,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "source_diversity_score": 33,
+  "opportunity_score": 61,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://github.com/heinevwinston-bot/PageLens",
-    "https://news.ycombinator.com/item?id=49407193",
-    "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-    "https://openai.com/index/boston-childrens-hospital"
+    "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+    "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
+    "https://www.youtube.com/watch?v=M0cWcAIeOyU"
   ]
 }

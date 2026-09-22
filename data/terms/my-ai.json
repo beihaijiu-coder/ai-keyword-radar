@@ -1,5 +1,5 @@
 {
-  "term": "my AI",
+  "term": "My AI",
   "slug": "my-ai",
   "first_seen": "2026-06-12",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/felixpg13-glitch/spendshield",
-    "https://jtemporal.com/i-built-my-ai-squad-in-grok-bot/",
-    "https://seenshot.app/"
+    "https://markphelps.me/posts/giving-ai-agents-access-to-rss-reader/",
+    "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+    "https://www.oreilly.com/radar/my-ai-kept-pushing-me-to-ship-so-i-asked-it-why/"
   ]
 }

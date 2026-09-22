@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
-  "mention_count_history": 0,
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 38,
   "source_diversity_score": 67,
   "opportunity_score": 69,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://thecarrierwave.substack.com/p/how-ai-can-be-used-for-cognitive",
-    "https://news.ycombinator.com/item?id=49696660",
-    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "https://news.ycombinator.com/item?id=49689905",
+    "https://news.ycombinator.com/item?id=49793381",
+    "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+    "https://news.ycombinator.com/item?id=49785441",
+    "https://news.ycombinator.com/item?id=49776698",
     "https://openai.com/index/the-work-now-within-reach"
   ]
 }
