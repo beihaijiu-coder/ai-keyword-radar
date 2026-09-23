@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 74,
   "source_diversity_score": 33,
-  "opportunity_score": 76,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://ai.meta.com/muse/",
-    "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
-    "https://twitter.com/muse/status/2097399178376671666",
-    "https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai",
-    "https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent"
+    "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
+    "https://www.coveragecat.com/",
+    "https://arxiv.org/abs/2609.24927"
   ]
 }

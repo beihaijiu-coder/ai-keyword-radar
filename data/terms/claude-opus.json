@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 86,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.ai-toolbox.co",
-    "https://www.aipricing.guru/news/anthropic-claude-opus-5-pricing-impact-july-2026/",
-    "http://artificialanalysis.ai/models/claude-opus-5"
+    "https://www.aipricing.guru/blog/claude-opus-5-5-vs-gpt-6-sol-pricing-2026/",
+    "https://artificialanalysis.ai/models/claude-opus-5-5-high",
+    "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "https://www.coderabbit.ai/blog/opus-5-5-model-review",
+    "https://artificialanalysis.ai/models/claude-opus-5-5"
   ]
 }

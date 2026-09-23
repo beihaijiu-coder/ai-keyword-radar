@@ -1,5 +1,5 @@
 {
-  "term": "Let AI",
+  "term": "let AI",
   "slug": "let-ai",
   "first_seen": "2026-06-23",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://trypolygraph.com/",
-    "https://rephrasethis.co",
-    "https://github.com/varbhat/desktopmcp"
+    "https://news.ycombinator.com/item?id=49802417",
+    "https://github.com/CodeGameDev29/KFAutonomousAccounting",
+    "https://developers.google.com/workspace/guides/universal-search-mcp"
   ]
 }

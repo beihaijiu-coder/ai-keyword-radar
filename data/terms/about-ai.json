@@ -1,5 +1,5 @@
 {
-  "term": "about AI",
+  "term": "About AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
@@ -14,9 +14,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk",
     "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-    "https://philippdubach.com/posts/maybe-meta-is-right-about-ai/",
-    "https://www.lesswrong.com/posts/dww6cpbo2XoKbsxyw/where-do-chatbots-come-from-what-i-wish-everyone-knew-about",
     "https://openai.com/index/partnering-with-codeai"
   ]
 }
