@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/godot-pty/gpty",
-    "https://agora.datateologica.com/world",
-    "https://codingsahayi.github.io/"
+    "https://news.ycombinator.com/item?id=49815684",
+    "https://github.com/kapitan00000978-sketch/Universal-Agent-HP",
+    "https://github.com/zariffromlatif/life-forge",
+    "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
+    "https://autonomouscompany.substack.com/p/the-company-could-run-itself-it-still"
   ]
 }

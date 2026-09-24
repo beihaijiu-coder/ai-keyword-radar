@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 7,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 67,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://saliency.dev/s-roll",
-    "https://yourownai.net/",
-    "https://computearena.ai",
-    "https://huggingface.co/blog/webgpu-kernels"
+    "https://varkos.party/",
+    "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+    "https://local-ai-signal.vercel.app/",
+    "https://news.ycombinator.com/item?id=49815684",
+    "https://www.promptquorum.com/mcp-stats"
   ]
 }

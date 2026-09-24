@@ -7,15 +7,15 @@
     "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_history": 1,
+  "velocity_score": 75,
   "search_gap_score": 72,
   "source_diversity_score": 67,
-  "opportunity_score": 78,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://agentsdock.net/",
-    "https://news.ycombinator.com/item?id=49669620",
+    "https://arxiv.org/abs/2609.26457",
+    "https://foundinghires.tech/atlas.html",
     "https://openai.com/index/research-acceleration-view-inside-openai"
   ]
 }
