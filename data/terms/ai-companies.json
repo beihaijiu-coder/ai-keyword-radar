@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 62,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
-    "https://www.youtube.com/watch?v=4qV5WWgFTS8",
-    "https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html"
+    "https://twitter.com/Paul__Walsh/status/2102801667657748720",
+    "https://www.drjoshcsimmons.com/writing/ai-companies-dont-bribe-reporters",
+    "https://blastradius.dpdns.org/",
+    "https://news.ycombinator.com/item?id=49824887",
+    "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic"
   ]
 }

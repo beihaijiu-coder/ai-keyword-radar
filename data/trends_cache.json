@@ -1662,5 +1662,13 @@
   "ai optimization": {
     "interest": 15,
     "checked_at": "2026-09-23T01:22:24.669728+00:00"
+  },
+  "ai agent read": {
+    "interest": 0,
+    "checked_at": "2026-09-25T01:20:35.652055+00:00"
+  },
+  "agent read": {
+    "interest": 7,
+    "checked_at": "2026-09-25T01:20:55.575124+00:00"
   }
 }

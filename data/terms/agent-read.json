@@ -1,0 +1,20 @@
+{
+  "term": "agent read",
+  "slug": "agent-read",
+  "first_seen": "2026-09-25",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 93,
+  "source_diversity_score": 33,
+  "opportunity_score": 80,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://sitemcp.dev",
+    "https://daringfireball.net/linked/2026/09/22/aten-muse",
+    "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202"
+  ]
+}
