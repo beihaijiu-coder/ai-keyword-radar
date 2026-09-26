@@ -1670,5 +1670,17 @@
   "agent read": {
     "interest": 7,
     "checked_at": "2026-09-25T01:20:55.575124+00:00"
+  },
+  "pope ai": {
+    "interest": 8,
+    "checked_at": "2026-09-26T01:23:10.450338+00:00"
+  },
+  "peter thiel": {
+    "interest": 38,
+    "checked_at": "2026-09-26T01:23:20.424863+00:00"
+  },
+  "live avatar": {
+    "interest": 16,
+    "checked_at": "2026-09-26T01:23:30.345352+00:00"
   }
 }

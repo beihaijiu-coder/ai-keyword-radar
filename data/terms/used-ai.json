@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 67,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
-    "https://seasonmap.app",
-    "https://github.com/EI3LH/Gescom-MiniDisc-Runner",
+    "https://community.obsidian.md/plugins/modelica-studio",
+    "https://apps.microsoft.com/detail/xp9cjlhwvxs49p?hl=en-US&gl=US",
+    "https://www.msn.com/en-ca/money/general/stanford-used-ai-to-replace-hispanic-student-with-black-woman-in-photo/ar-AA2cVAhf",
+    "https://koi.rest",
     "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
   ]
 }
