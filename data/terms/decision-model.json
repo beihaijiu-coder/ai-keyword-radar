@@ -1,20 +1,20 @@
 {
-  "term": "where AI",
-  "slug": "where-ai",
-  "first_seen": "2026-06-16",
+  "term": "decision model",
+  "slug": "decision-model",
+  "first_seen": "2026-09-27",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 69,
+  "search_gap_score": 74,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
+  "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://tokken.win/",
-    "https://play.zoagames.com/arena/",
-    "https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html"
+    "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "https://github.com/lateos-ai/reflex",
+    "https://www.youtube.com/watch?v=1HMOA3BawXg"
   ]
 }

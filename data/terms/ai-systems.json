@@ -1,0 +1,22 @@
+{
+  "term": "AI systems",
+  "slug": "ai-systems",
+  "first_seen": "2026-09-27",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 86,
+  "source_diversity_score": 67,
+  "opportunity_score": 78,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.focalprompt.com/",
+    "https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/",
+    "https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+  ]
+}
