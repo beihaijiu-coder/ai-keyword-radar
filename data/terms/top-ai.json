@@ -1,20 +1,18 @@
 {
-  "term": "AI slop",
-  "slug": "ai-slop",
-  "first_seen": "2026-06-07",
+  "term": "Top AI",
+  "slug": "top-ai",
+  "first_seen": "2026-09-28",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 58,
+  "search_gap_score": 78,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
+  "opportunity_score": 74,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49872106",
-    "https://news.ycombinator.com/item?id=49862641",
-    "https://news.ycombinator.com/item?id=49856000"
+    "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
   ]
 }

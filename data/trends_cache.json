@@ -1690,5 +1690,21 @@
   "decision model": {
     "interest": 26,
     "checked_at": "2026-09-27T01:16:23.813615+00:00"
+  },
+  "top ai": {
+    "interest": 22,
+    "checked_at": "2026-09-28T01:30:13.104070+00:00"
+  },
+  "top ai companies": {
+    "interest": 7,
+    "checked_at": "2026-09-28T01:30:22.935240+00:00"
+  },
+  "top ai companies probing": {
+    "interest": 0,
+    "checked_at": "2026-09-28T01:30:32.963504+00:00"
+  },
+  "ai companies probing": {
+    "interest": 1,
+    "checked_at": "2026-09-28T01:30:42.968613+00:00"
   }
 }

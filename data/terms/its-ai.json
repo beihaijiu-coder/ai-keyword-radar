@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 59,
   "source_diversity_score": 33,
-  "opportunity_score": 70,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-    "https://www.bbc.co.uk/news/articles/c235dmndylzo",
-    "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "https://time.com/article/2026/08/18/openai-slowing-training/",
-    "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data"
+    "https://www.xda-developers.com/despite-canning-the-copilot-brand-most-people-love-its-ai-assistant-says-microsoft/",
+    "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
+    "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html"
   ]
 }
