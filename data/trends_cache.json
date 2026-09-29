@@ -1706,5 +1706,61 @@
   "ai companies probing": {
     "interest": 1,
     "checked_at": "2026-09-28T01:30:42.968613+00:00"
+  },
+  "top ai talent": {
+    "interest": 1,
+    "checked_at": "2026-09-29T02:32:23.447905+00:00"
+  },
+  "ai talent": {
+    "interest": 3,
+    "checked_at": "2026-09-29T02:32:33.253893+00:00"
+  },
+  "what if automating ai": {
+    "interest": 1,
+    "checked_at": "2026-09-29T02:32:43.165478+00:00"
+  },
+  "if automating ai": {
+    "interest": 1,
+    "checked_at": "2026-09-29T02:32:53.263937+00:00"
+  },
+  "if automating ai r": {
+    "interest": 0,
+    "checked_at": "2026-09-29T02:33:03.155279+00:00"
+  },
+  "automating ai": {
+    "interest": 5,
+    "checked_at": "2026-09-29T02:33:13.236760+00:00"
+  },
+  "automating ai r": {
+    "interest": 0,
+    "checked_at": "2026-09-29T02:33:23.667610+00:00"
+  },
+  "automating ai r d": {
+    "interest": 1,
+    "checked_at": "2026-09-29T02:33:33.191571+00:00"
+  },
+  "ai r": {
+    "interest": 25,
+    "checked_at": "2026-09-29T02:33:43.160472+00:00"
+  },
+  "ai r d": {
+    "interest": 1,
+    "checked_at": "2026-09-29T02:33:53.179154+00:00"
+  },
+  "ai r d triggers": {
+    "interest": 0,
+    "checked_at": "2026-09-29T02:34:03.176491+00:00"
+  },
+  "fei li world labs": {
+    "interest": 2,
+    "checked_at": "2026-09-29T02:34:13.183028+00:00"
+  },
+  "stop ai": {
+    "interest": 28,
+    "checked_at": "2026-09-29T02:34:23.247876+00:00"
+  },
+  "stop ai agents": {
+    "interest": 1,
+    "checked_at": "2026-09-29T02:34:33.232872+00:00"
   }
 }

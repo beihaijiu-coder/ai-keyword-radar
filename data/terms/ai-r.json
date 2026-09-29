@@ -1,0 +1,20 @@
+{
+  "term": "AI R",
+  "slug": "ai-r",
+  "first_seen": "2026-09-29",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 75,
+  "source_diversity_score": 33,
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf",
+    "https://www.thefai.org/posts/what-if-automating-ai-r-and-d-triggers-an-intelligence-explosion",
+    "https://casp.ac/reports/intelligence-explosion"
+  ]
+}

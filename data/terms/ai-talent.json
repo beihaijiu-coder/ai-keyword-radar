@@ -1,17 +1,17 @@
 {
-  "term": "top AI",
-  "slug": "top-ai",
-  "first_seen": "2026-09-28",
+  "term": "AI talent",
+  "slug": "ai-talent",
+  "first_seen": "2026-09-29",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 78,
+  "search_gap_score": 97,
   "source_diversity_score": 33,
-  "opportunity_score": 74,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
     "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
     "https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg",

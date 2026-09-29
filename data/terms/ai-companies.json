@@ -1,5 +1,5 @@
 {
-  "term": "AI companies",
+  "term": "AI Companies",
   "slug": "ai-companies",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,10 @@
   "opportunity_score": 71,
   "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://sarahconstantin.substack.com/p/ai-companies-are-not-necessarily",
+    "https://econjared.substack.com/p/ai-companies-are-in-a-race-against",
+    "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
     "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-    "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
-    "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
+    "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/"
   ]
 }
