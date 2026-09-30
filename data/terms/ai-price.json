@@ -1,20 +1,20 @@
 {
-  "term": "AI assistant",
-  "slug": "ai-assistant",
-  "first_seen": "2026-06-16",
+  "term": "AI price",
+  "slug": "ai-price",
+  "first_seen": "2026-09-30",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 62,
+  "search_gap_score": 61,
   "source_diversity_score": 33,
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.phntmcore.com/",
-    "https://www.youtube.com/watch?v=QkzRPeZxmtE",
-    "https://wajo.ai/"
+    "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+    "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
+    "https://sancho.bearblog.dev/ai-price-wars/"
   ]
 }

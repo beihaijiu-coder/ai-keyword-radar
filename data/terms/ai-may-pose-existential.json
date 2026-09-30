@@ -1,7 +1,7 @@
 {
-  "term": "top AI talent",
-  "slug": "top-ai-talent",
-  "first_seen": "2026-09-29",
+  "term": "AI may pose existential",
+  "slug": "ai-may-pose-existential",
+  "first_seen": "2026-09-30",
   "sources": [
     "hackernews"
   ],
@@ -13,7 +13,7 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
-    "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent"
+    "https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/",
+    "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html"
   ]
 }

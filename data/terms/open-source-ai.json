@@ -1,5 +1,5 @@
 {
-  "term": "Open source AI",
+  "term": "Open Source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/orgs/openapi/discussions/categories/open-source-ai",
-    "https://github.com/capek-dev/prokop",
-    "https://thezakulo.com/weekly/2026-w38/"
+    "https://twitter.com/0x0SojalSec/status/2074622871771717837",
+    "https://github.com/lemma-work/lemma-platform",
+    "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
   ]
 }

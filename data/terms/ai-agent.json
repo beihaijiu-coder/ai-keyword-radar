@@ -14,10 +14,10 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 19; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=49900500",
+    "https://github.com/mobium-app/ai_astro_public",
+    "https://www.humanbound.ai/blog/attack-your-own-ai-agent-in-under-10-minutes-then-secure-it-before-deploying",
     "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
-    "https://github.com/rohanprichard/talktome",
-    "https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/",
-    "https://github.com/Cardinal44/corral",
-    "https://blog.greenpants.net/ai-accountability/"
+    "https://github.com/batrapulkit/squidbrake"
   ]
 }

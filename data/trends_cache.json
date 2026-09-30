@@ -1762,5 +1762,49 @@
   "stop ai agents": {
     "interest": 1,
     "checked_at": "2026-09-29T02:34:33.232872+00:00"
+  },
+  "generalist computer use agents": {
+    "interest": 1,
+    "checked_at": "2026-09-30T01:56:36.712318+00:00"
+  },
+  "computer use agents": {
+    "interest": 1,
+    "checked_at": "2026-09-30T01:56:46.537639+00:00"
+  },
+  "ai price": {
+    "interest": 39,
+    "checked_at": "2026-09-30T01:56:56.380351+00:00"
+  },
+  "anthropic warns ai": {
+    "interest": 0,
+    "checked_at": "2026-09-30T01:57:06.463757+00:00"
+  },
+  "anthropic warns ai may": {
+    "interest": 1,
+    "checked_at": "2026-09-30T01:57:16.404821+00:00"
+  },
+  "warns ai": {
+    "interest": 3,
+    "checked_at": "2026-09-30T01:57:26.388909+00:00"
+  },
+  "warns ai may": {
+    "interest": 1,
+    "checked_at": "2026-09-30T01:57:36.521920+00:00"
+  },
+  "warns ai may pose": {
+    "interest": 0,
+    "checked_at": "2026-09-30T01:57:46.315543+00:00"
+  },
+  "ai may": {
+    "interest": 44,
+    "checked_at": "2026-09-30T01:57:56.329377+00:00"
+  },
+  "ai may pose": {
+    "interest": 0,
+    "checked_at": "2026-09-30T01:58:06.282915+00:00"
+  },
+  "ai may pose existential": {
+    "interest": 1,
+    "checked_at": "2026-09-30T01:58:16.369102+00:00"
   }
 }
