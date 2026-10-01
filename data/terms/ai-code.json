@@ -1,5 +1,5 @@
 {
-  "term": "AI code",
+  "term": "AI Code",
   "slug": "ai-code",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://freenode.net/article/from-blanket-bans-to-agents-md-open-source-tries-to-govern-ai-code",
-    "https://ilands.ai/content/359388815393034240",
-    "https://dsifry.github.io/harnesseval/"
+    "https://lolblob.substack.com/p/ai-code-mirroring-monomorphic-typescript",
+    "https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12",
+    "https://www.codecrab.ai/"
   ]
 }

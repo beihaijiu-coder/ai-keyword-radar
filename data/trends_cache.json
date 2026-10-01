@@ -1806,5 +1806,17 @@
   "ai may pose existential": {
     "interest": 1,
     "checked_at": "2026-09-30T01:58:16.369102+00:00"
+  },
+  "framework desktop": {
+    "interest": 8,
+    "checked_at": "2026-10-01T01:57:09.213961+00:00"
+  },
+  "language model": {
+    "interest": 33,
+    "checked_at": "2026-10-01T01:57:19.054076+00:00"
+  },
+  "ai ceo": {
+    "interest": 43,
+    "checked_at": "2026-10-01T01:57:29.111673+00:00"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "term": "AI chatbot",
+  "term": "AI Chatbot",
   "slug": "ai-chatbot",
   "first_seen": "2026-09-02",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 66,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-    "https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say",
-    "https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/"
+    "https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies",
+    "https://news.ycombinator.com/item?id=49908422",
+    "https://lifehacker.com/tech/what-is-america-dot-gov"
   ]
 }

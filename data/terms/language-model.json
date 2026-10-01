@@ -1,19 +1,19 @@
 {
-  "term": "AI tool",
-  "slug": "ai-tool",
-  "first_seen": "2026-06-16",
+  "term": "language model",
+  "slug": "language-model",
+  "first_seen": "2026-10-01",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 65,
+  "search_gap_score": 67,
   "source_diversity_score": 33,
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.bbc.com/news/articles/cmrergq3j7lgo",
-    "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court"
+    "https://github.com/commonsense-ai/coop",
+    "https://inspect.aisi.org.uk/"
   ]
 }
