@@ -1,5 +1,5 @@
 {
-  "term": "Coding Agent",
+  "term": "coding agent",
   "slug": "coding-agent",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/NeuroGrid-AI-exchange/neurogrid-tui",
-    "https://blog.softwarewrighter.com/2026/09/16/ai-tools-coding-agent-in-mlpl/",
-    "https://github.com/Ag3497120/cleanroom"
+    "https://news.ycombinator.com/item?id=49921982",
+    "https://docs.polytoken.dev/introduction/",
+    "https://github.com/rehan-remade/universal-modder"
   ]
 }

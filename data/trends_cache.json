@@ -1818,5 +1818,21 @@
   "ai ceo": {
     "interest": 43,
     "checked_at": "2026-10-01T01:57:29.111673+00:00"
+  },
+  "robot prison has triggered": {
+    "interest": 0,
+    "checked_at": "2026-10-02T02:05:53.926024+00:00"
+  },
+  "dumbest debate": {
+    "interest": 1,
+    "checked_at": "2026-10-02T02:06:03.808054+00:00"
+  },
+  "ai pascal": {
+    "interest": 1,
+    "checked_at": "2026-10-02T02:06:13.928827+00:00"
+  },
+  "ai pascal wager": {
+    "interest": 1,
+    "checked_at": "2026-10-02T02:06:23.707091+00:00"
   }
 }
