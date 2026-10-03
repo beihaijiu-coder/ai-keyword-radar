@@ -1,5 +1,5 @@
 {
-  "term": "personal AI",
+  "term": "Personal AI",
   "slug": "personal-ai",
   "first_seen": "2026-09-04",
   "sources": [
@@ -13,7 +13,8 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
-    "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark"
+    "https://contextiq.trango-compute.com",
+    "https://news.ycombinator.com/item?id=49933750",
+    "https://genaipod.substack.com/p/personal-finance"
   ]
 }
