@@ -1,5 +1,5 @@
 {
-  "term": "AI app",
+  "term": "AI App",
   "slug": "ai-app",
   "first_seen": "2026-08-25",
   "sources": [
@@ -13,8 +13,7 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
-    "https://news.ycombinator.com/item?id=49786609",
-    "https://storeready.thecompound.tech"
+    "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
+    "https://twitter.com/koopuluri/status/2106244337814364332"
   ]
 }

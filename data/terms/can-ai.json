@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 39,
   "source_diversity_score": 33,
-  "opportunity_score": 62,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 58,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face",
     "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-    "https://gamowlabs.com/labbench-benchmarking-ai-wet-lab-decisions.html",
-    "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
-    "https://news.ycombinator.com/item?id=49901168"
+    "https://news.ycombinator.com/item?id=49937551"
   ]
 }
