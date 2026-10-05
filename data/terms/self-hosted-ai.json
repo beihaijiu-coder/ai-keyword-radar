@@ -1,20 +1,20 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "self hosted AI",
+  "slug": "self-hosted-ai",
+  "first_seen": "2026-10-05",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 100,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://counter.maricakes.de/",
-    "https://skins.dev/",
-    "https://aquarium.money/twenty"
+    "https://github.com/bluebear-io/baloo-bear",
+    "https://github.com/DanielKim03/mentaagent",
+    "https://github.com/chetto1983/Aura"
   ]
 }

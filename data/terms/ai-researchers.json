@@ -1,0 +1,20 @@
+{
+  "term": "AI researchers",
+  "slug": "ai-researchers",
+  "first_seen": "2026-10-05",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 88,
+  "source_diversity_score": 33,
+  "opportunity_score": 78,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://www.turingtree.com/top-50",
+    "https://news.ycombinator.com/item?id=49953734",
+    "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/"
+  ]
+}

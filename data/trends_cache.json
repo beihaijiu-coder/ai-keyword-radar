@@ -1842,5 +1842,17 @@
   "ai chips": {
     "interest": 26,
     "checked_at": "2026-10-04T02:29:45.339107+00:00"
+  },
+  "military ai": {
+    "interest": 44,
+    "checked_at": "2026-10-05T01:46:47.304761+00:00"
+  },
+  "self hosted ai": {
+    "interest": 0,
+    "checked_at": "2026-10-05T01:47:16.981323+00:00"
+  },
+  "ai researchers": {
+    "interest": 12,
+    "checked_at": "2026-10-05T01:47:27.139195+00:00"
   }
 }

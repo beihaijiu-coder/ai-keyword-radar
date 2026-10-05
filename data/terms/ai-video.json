@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 33,
   "opportunity_score": 72,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://videoall.ai/telegram-ai-video-generator",
+    "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
     "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
     "https://www.youtube.com/watch?v=nzCtuKSt3gA",
-    "https://www.youtube.com/watch?v=57O-FVEywj0",
-    "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-    "https://hotellobbygenerator.net/"
+    "https://www.youtube.com/watch?v=57O-FVEywj0"
   ]
 }

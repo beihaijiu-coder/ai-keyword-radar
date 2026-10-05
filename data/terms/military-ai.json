@@ -1,0 +1,20 @@
+{
+  "term": "Military AI",
+  "slug": "military-ai",
+  "first_seen": "2026-10-05",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 56,
+  "source_diversity_score": 33,
+  "opportunity_score": 65,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/",
+    "https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/",
+    "https://www.lemonde.fr/en/international/article/2026/10/01/military-ai-france-challenges-us-dominance-over-nato-s-classified-networks_6758154_4.html"
+  ]
+}
