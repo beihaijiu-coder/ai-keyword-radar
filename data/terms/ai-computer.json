@@ -1,0 +1,20 @@
+{
+  "term": "AI computer",
+  "slug": "ai-computer",
+  "first_seen": "2026-10-06",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 43,
+  "source_diversity_score": 33,
+  "opportunity_score": 60,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://x.com/gfaang97609",
+    "https://twitter.com/zainmfj/status/2107146556176798081",
+    "https://ghost.ai/"
+  ]
+}

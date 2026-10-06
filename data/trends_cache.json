@@ -1854,5 +1854,13 @@
   "ai researchers": {
     "interest": 12,
     "checked_at": "2026-10-05T01:47:27.139195+00:00"
+  },
+  "personal ai computer": {
+    "interest": 2,
+    "checked_at": "2026-10-06T02:50:26.954807+00:00"
+  },
+  "ai computer": {
+    "interest": 57,
+    "checked_at": "2026-10-06T02:50:36.333871+00:00"
   }
 }

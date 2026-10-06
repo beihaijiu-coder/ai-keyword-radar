@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 67,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+    "https://getdevboard.app/",
     "https://news.ycombinator.com/item?id=49955704",
     "https://skins.dev/",
-    "https://github.com/abdoufermat5/herbarium",
-    "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    "https://github.com/abdoufermat5/herbarium"
   ]
 }
