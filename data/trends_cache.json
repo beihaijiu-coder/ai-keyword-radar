@@ -1862,5 +1862,13 @@
   "ai computer": {
     "interest": 57,
     "checked_at": "2026-10-06T02:50:36.333871+00:00"
+  },
+  "mistral large": {
+    "interest": 4,
+    "checked_at": "2026-10-07T02:11:57.005241+00:00"
+  },
+  "ai apps": {
+    "interest": 47,
+    "checked_at": "2026-10-07T02:12:06.817059+00:00"
   }
 }

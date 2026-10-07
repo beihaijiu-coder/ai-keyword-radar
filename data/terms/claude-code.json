@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://innerloop.works/breadcrumb",
-    "https://medium.com/quantumblack/what-changes-when-your-design-system-can-talk-to-an-ai-0a856b3c40d9",
-    "https://news.ycombinator.com/item?id=49916751",
-    "https://github.com/sshah03/perspica"
+    "https://github.com/saadnvd1/agent-os",
+    "https://github.com/allchemylabs/aether-wcag-scanner",
+    "https://github.com/ajithraghavan/make-it-click",
+    "https://trytofu.ai",
+    "https://github.com/altrace-dev-role/rashomon"
   ]
 }
