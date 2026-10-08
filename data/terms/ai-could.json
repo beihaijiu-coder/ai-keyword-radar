@@ -7,15 +7,16 @@
     "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_history": 1,
+  "velocity_score": 75,
   "search_gap_score": 91,
   "source_diversity_score": 67,
-  "opportunity_score": 86,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 80,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
-    "https://news.ycombinator.com/item?id=48587869",
-    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+    "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
+    "https://nabraj.com/blog/ai-good-for-opensource",
+    "https://news.ycombinator.com/item?id=49990079",
+    "https://openai.com/index/introducing-intelligence-age"
   ]
 }

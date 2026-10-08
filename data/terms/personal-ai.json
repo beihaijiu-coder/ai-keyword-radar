@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 74,
   "source_diversity_score": 33,
-  "opportunity_score": 76,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://hark.com",
-    "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-    "https://news.ycombinator.com/item?id=49974436",
-    "https://x.com/gfaang97609",
-    "https://apps.apple.com/us/app/halo-personal-ai/id6783715054"
+    "https://github.com/dj2313/jarvis_assistant",
+    "https://hdtp.io/",
+    "https://news.ycombinator.com/item?id=49991528"
   ]
 }

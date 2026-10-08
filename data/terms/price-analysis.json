@@ -13,8 +13,7 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://artificialanalysis.ai/models/gpt-6-sol",
-    "https://artificialanalysis.ai/models/gpt-6-luna",
-    "https://artificialanalysis.ai/models/claude-opus-5-5-high"
+    "https://artificialanalysis.ai/models/claude-haiku-5-5",
+    "https://artificialanalysis.ai/models/mistral-large-4"
   ]
 }
