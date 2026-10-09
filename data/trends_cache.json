@@ -1870,5 +1870,13 @@
   "ai apps": {
     "interest": 47,
     "checked_at": "2026-10-07T02:12:06.817059+00:00"
+  },
+  "ai math": {
+    "interest": 35,
+    "checked_at": "2026-10-09T02:52:49.814684+00:00"
+  },
+  "gemini agent": {
+    "interest": 18,
+    "checked_at": "2026-10-09T02:52:59.976687+00:00"
   }
 }

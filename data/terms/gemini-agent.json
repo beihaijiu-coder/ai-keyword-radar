@@ -1,20 +1,19 @@
 {
-  "term": "Hi HN",
-  "slug": "hi-hn",
-  "first_seen": "2026-06-09",
+  "term": "Gemini Agent",
+  "slug": "gemini-agent",
+  "first_seen": "2026-10-09",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 99,
+  "search_gap_score": 82,
   "source_diversity_score": 33,
-  "opportunity_score": 82,
+  "opportunity_score": 75,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://candlefeed.ai/data/order-book/",
-    "https://privatrak.com",
-    "https://github.com/insanai/sibuna"
+    "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+    "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
   ]
 }

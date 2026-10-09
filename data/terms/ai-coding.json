@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 9,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://stayleet.com/",
-    "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-    "https://www.tryfridaywork.com",
-    "https://openai.com/index/scientific-computing-agentic-ai"
+    "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+    "https://github.com/0xfirattamur/xcrashlytics",
+    "https://github.com/master5d/viberuler",
+    "https://medium.com/@giovambattista.fazioli/ai-codings-fermi-paradox-where-are-the-apps-that-last-c10b22fad263",
+    "https://github.com/fitzyracing1/fakegreen"
   ]
 }

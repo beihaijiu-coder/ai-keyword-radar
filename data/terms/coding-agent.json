@@ -1,20 +1,21 @@
 {
-  "term": "coding agent",
+  "term": "Coding Agent",
   "slug": "coding-agent",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/allchemylabs/aether-wcag-scanner",
-    "https://orbtile.com/?s=hn",
-    "https://news.ycombinator.com/item?id=49975157"
+    "https://www.rswebsols.com/news/strategies-for-pricing-an-ai-coding-agent-subscription-to-ensure-profitability/",
+    "https://www.wiyomi.com/",
+    "https://github.com/abird-ai/agentc",
+    "https://github.com/altrace-dev-role/rashomon"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "term": "AI development",
+  "term": "AI Development",
   "slug": "ai-development",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,7 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://blog.saikat.us/p/what-we-should-do-during-a-pause",
-    "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-    "https://www.anthropic.com/institute/measuring-pace-of-ai-development"
+    "https://news.ycombinator.com/item?id=50007606",
+    "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/"
   ]
 }
