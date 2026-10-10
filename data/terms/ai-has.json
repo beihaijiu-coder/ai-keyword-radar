@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 46,
   "source_diversity_score": 33,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 61,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=49626831",
-    "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-    "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-    "https://news.ycombinator.com/item?id=49623048",
-    "https://mhacevedo.com/posts/the-discovery-problem"
+    "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+    "https://news.ycombinator.com/item?id=50020727",
+    "https://boakandbailey.com/2026/09/ai-has-made-it-easier-than-ever-to-make-apps-nobody-asked-for/"
   ]
 }

@@ -1,20 +1,20 @@
 {
-  "term": "Can AI",
-  "slug": "can-ai",
-  "first_seen": "2026-07-04",
+  "term": "I use AI",
+  "slug": "i-use-ai",
+  "first_seen": "2026-10-10",
   "sources": [
     "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
-  "search_gap_score": 39,
+  "search_gap_score": 45,
   "source_diversity_score": 33,
-  "opportunity_score": 58,
+  "opportunity_score": 61,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://epoch.ai/publications/innovationeval",
-    "https://arxiv.org/abs/2610.08927",
-    "https://rudolphina.univie.ac.at/en/can-ai-replace-mathematicians-university-vienna"
+    "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+    "https://www.youtube.com/watch?v=kzcI5F4tGiU",
+    "https://news.ycombinator.com/item?id=50009712"
   ]
 }

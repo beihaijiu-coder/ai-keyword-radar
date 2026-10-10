@@ -1878,5 +1878,13 @@
   "gemini agent": {
     "interest": 18,
     "checked_at": "2026-10-09T02:52:59.976687+00:00"
+  },
+  "anthropic ai model": {
+    "interest": 1,
+    "checked_at": "2026-10-10T02:13:15.737343+00:00"
+  },
+  "i use ai": {
+    "interest": 55,
+    "checked_at": "2026-10-10T02:13:25.925489+00:00"
   }
 }
