@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T01:45:22.432286+00:00",
+  "updated_at": "2026-10-12T02:12:49.574844+00:00",
   "terms": [
     {
       "term": "AI coding agents",
@@ -9,19 +9,18 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 5,
+      "mention_count_recent": 4,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 98,
       "source_diversity_score": 67,
       "opportunity_score": 93,
-      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
         "https://github.com/gonzaroman/IHMT-MEMORY",
         "https://www.ascendaflow.com/waterline",
-        "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "https://higherlevel.to/",
-        "https://www.youtube.com/watch?v=92dMxu3wcGI"
+        "https://openai.com/index/scientific-computing-agentic-ai"
       ]
     },
     {
@@ -39,31 +38,11 @@
       "opportunity_score": 86,
       "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://atlasruna.com/",
+        "https://github.com/IliaMManolov/safari-animated-webp-extension",
         "https://celeryman.fun/",
         "https://github.com/insanai/sibuna",
-        "https://www.veludocs.com/agent-friendly-documentation/",
-        "https://higherlevel.to/",
-        "https://circleit.ai"
-      ]
-    },
-    {
-      "term": "Anthropic AI Model",
-      "slug": "anthropic-ai-model",
-      "first_seen": "2026-10-10",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 86,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
-        "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-        "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+        "https://www.veludocs.com/agent-friendly-documentation/"
       ]
     },
     {
@@ -74,19 +53,42 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 5,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 75,
       "source_diversity_score": 67,
       "opportunity_score": 83,
-      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
         "https://www.youtube.com/watch?v=5GISvEfdbm4",
         "https://frontierroles.com/mcp/",
         "https://deadsimpletech.com/blog/llms-arent-inevitable",
-        "https://www.patreon.com/FluffyQuack/posts/rant-about-two-168230683",
-        "https://openai.com/index/partnering-with-codeai"
+        "https://www.patreon.com/FluffyQuack/posts/rant-about-two-168230683"
+      ]
+    },
+    {
+      "term": "AI Era",
+      "slug": "ai-era",
+      "first_seen": "2026-06-12",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 67,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=50049047",
+        "https://www.shpyrd.io",
+        "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
+        "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+        "https://blog.stophe.com/side-projects-in-the-ai-era-the-ponzi-potato-story"
       ]
     },
     {
@@ -97,19 +99,18 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 6,
+      "mention_count_recent": 4,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 70,
       "source_diversity_score": 67,
       "opportunity_score": 81,
-      "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
         "https://github.com/gonzaroman/IHMT-MEMORY",
         "https://www.ascendaflow.com/waterline",
-        "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "https://github.com/aaronbronow/agent-history",
-        "https://higherlevel.to/"
+        "https://openai.com/index/scientific-computing-agentic-ai"
       ]
     },
     {
@@ -120,39 +121,61 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 12,
+      "mention_count_recent": 13,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 67,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/zalaso/sharebox",
-        "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-        "https://blog.gitguardian.com/ai-agent-security-six-controls/",
-        "https://github.com/tessaryai/tessary",
-        "https://maplehill.openwants.com/"
+        "https://github.com/plimsollmark/plimsoll",
+        "https://botmail.pro/",
+        "https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory",
+        "https://github.com/vscarpenter/gsd-task-manager",
+        "https://www.bbc.com/news/articles/cqkg50j1yd5lo"
       ]
     },
     {
-      "term": "coding agent",
-      "slug": "coding-agent",
-      "first_seen": "2026-06-06",
+      "term": "local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://heypippa.app/en/",
+        "https://news.ycombinator.com/item?id=50039529",
+        "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
+        "https://huggingface.co/blog/webgpu-kernels"
+      ]
+    },
+    {
+      "term": "AI risk",
+      "slug": "ai-risk",
+      "first_seen": "2026-09-15",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 76,
+      "search_gap_score": 75,
       "source_diversity_score": 33,
       "opportunity_score": 73,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/academa-labs/manimgx",
-        "https://virgil-ai.cloud/try",
-        "https://circleit.ai"
+        "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+        "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
+        "https://www.youtube.com/watch?v=5GISvEfdbm4"
       ]
     },
     {
@@ -176,86 +199,64 @@
       ]
     },
     {
-      "term": "AI Chips",
-      "slug": "ai-chips",
-      "first_seen": "2026-10-04",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 74,
-      "source_diversity_score": 33,
-      "opportunity_score": 72,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://www.youtube.com/watch?v=es4FfRU8saQ",
-        "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
-        "https://www.wheresyoured.at/wherere-all-the-ai-chips/"
-      ]
-    },
-    {
       "term": "Anthropic AI",
       "slug": "anthropic-ai",
       "first_seen": "2026-07-31",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 6,
+      "mention_count_recent": 5,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 60,
       "source_diversity_score": 33,
       "opportunity_score": 71,
-      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
         "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
         "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-        "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-        "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-        "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+        "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
       ]
     },
     {
-      "term": "AI assistant",
-      "slug": "ai-assistant",
-      "first_seen": "2026-06-16",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 62,
-      "source_diversity_score": 33,
-      "opportunity_score": 71,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231",
-        "https://play.google.com/store/apps/details?id=com.pocketai.localmind&hl=en_US",
-        "https://www.reddit.com/r/mcp/comments/1x1j0xx/mcp_server_that_books_hotels_in_dachgermany/",
-        "https://github.com/AbhishekBarali/SpeakoFlow"
-      ]
-    },
-    {
-      "term": "own AI",
-      "slug": "own-ai",
-      "first_seen": "2026-07-06",
+      "term": "vibe coding",
+      "slug": "vibe-coding",
+      "first_seen": "2026-07-04",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 66,
+      "search_gap_score": 71,
       "source_diversity_score": 33,
-      "opportunity_score": 69,
+      "opportunity_score": 71,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://maplehill.openwants.com/",
-        "https://kairos-experiment.com/",
-        "https://github.com/pablocaeg/sloptotal"
+        "https://github.com/IliaMManolov/safari-animated-webp-extension",
+        "https://www.nature.com/articles/d41586-026-03044-9",
+        "https://news.ycombinator.com/item?id=50036146"
+      ]
+    },
+    {
+      "term": "every AI",
+      "slug": "every-ai",
+      "first_seen": "2026-06-21",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 69,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://botmail.pro/",
+        "https://everyainame.com/",
+        "https://news.ycombinator.com/item?id=50031447"
       ]
     },
     {
@@ -273,8 +274,9 @@
       "opportunity_score": 67,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-        "https://ai-cybernetics.grok.me/"
+        "https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html",
+        "https://twitter.com/firesidealpha/status/2108930562794864912",
+        "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
       ]
     },
     {
@@ -284,14 +286,15 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 3,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
-      "velocity_score": 90,
+      "velocity_score": 100,
       "search_gap_score": 49,
       "source_diversity_score": 33,
-      "opportunity_score": 62,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "opportunity_score": 66,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
+        "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c",
         "https://news.ycombinator.com/item?id=50036432",
         "https://news.ycombinator.com/item?id=50029896",
         "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi"

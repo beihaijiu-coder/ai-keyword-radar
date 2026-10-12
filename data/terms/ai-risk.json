@@ -1,5 +1,5 @@
 {
-  "term": "AI Risk",
+  "term": "AI risk",
   "slug": "ai-risk",
   "first_seen": "2026-09-15",
   "sources": [
@@ -13,7 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk",
-    "https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html"
+    "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+    "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
+    "https://www.youtube.com/watch?v=5GISvEfdbm4"
   ]
 }
