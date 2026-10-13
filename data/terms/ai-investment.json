@@ -1,0 +1,20 @@
+{
+  "term": "AI investment",
+  "slug": "ai-investment",
+  "first_seen": "2026-10-13",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 80,
+  "source_diversity_score": 33,
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://thenextweb.com/news/imf-ai-investment-global-growth-asia",
+    "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/oct/12/aiuseuv2.pdf",
+    "https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/"
+  ]
+}

@@ -6,17 +6,16 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 70,
   "source_diversity_score": 67,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "https://github.com/gonzaroman/IHMT-MEMORY",
-    "https://www.ascendaflow.com/waterline",
+    "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }
