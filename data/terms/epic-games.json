@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 41,
   "source_diversity_score": 33,
   "opportunity_score": 63,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
+    "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
     "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
     "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
-    "https://www.avclub.com/epic-games-disney-ai-delay",
-    "https://twitter.com/TimSweeneyEpic/status/2109705826688549304"
+    "https://www.avclub.com/epic-games-disney-ai-delay"
   ]
 }

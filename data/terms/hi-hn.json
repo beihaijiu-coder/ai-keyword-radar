@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 99,
   "source_diversity_score": 33,
   "opportunity_score": 86,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://atlasruna.com/",
-    "https://github.com/IliaMManolov/safari-animated-webp-extension",
-    "https://celeryman.fun/",
-    "https://github.com/insanai/sibuna",
-    "https://www.veludocs.com/agent-friendly-documentation/"
+    "https://pulseos.finance",
+    "https://news.ycombinator.com/item?id=50074607",
+    "https://ourmana.app/",
+    "https://gotemail.net/",
+    "https://proofsource.co/"
   ]
 }

@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 42,
   "source_diversity_score": 33,
-  "opportunity_score": 59,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://decodingvibes.com/blog/3-hypothetical-paintings-and-why-ai-generated-art-can-feel-soulless/",
-    "https://www.openculture.com/2026/08/why-ai-companies-are-buying-and-then-destroying-old-books.html",
-    "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html"
+    "https://energyathaas.wordpress.com/2026/10/05/buying-time-burning-gas/",
+    "https://ivankahl.com/blog/why-ai-slop-is-a-human-problem/",
+    "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+    "https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "term": "Character ai",
+  "slug": "character-ai",
+  "first_seen": "2026-10-14",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 8,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 64,
+  "source_diversity_score": 33,
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+    "https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown",
+    "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
+    "https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/"
+  ]
+}

@@ -1898,5 +1898,25 @@
   "down ai": {
     "interest": 39,
     "checked_at": "2026-10-13T03:27:35.068561+00:00"
+  },
+  "character ai": {
+    "interest": 36,
+    "checked_at": "2026-10-14T01:45:01.606620+00:00"
+  },
+  "character ai files": {
+    "interest": 1,
+    "checked_at": "2026-10-14T01:45:11.470050+00:00"
+  },
+  "ai files": {
+    "interest": 49,
+    "checked_at": "2026-10-14T01:45:21.451722+00:00"
+  },
+  "agents could": {
+    "interest": 20,
+    "checked_at": "2026-10-14T01:45:31.588992+00:00"
+  },
+  "model architecture": {
+    "interest": 19,
+    "checked_at": "2026-10-14T01:45:41.432054+00:00"
   }
 }
