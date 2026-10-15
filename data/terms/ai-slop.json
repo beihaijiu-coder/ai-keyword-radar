@@ -1,5 +1,5 @@
 {
-  "term": "AI slop",
+  "term": "AI Slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
@@ -13,9 +13,9 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://somethingbig.ai/gauntlet-loop",
-    "https://danunparsed.com/p/giving-code-reviewers-credit",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-    "https://www.unite.ai/fighting-ai-slop-in-science-papers/"
+    "https://checkobot.ai",
+    "https://100toolkit.com/blog/where-ai-slop-comes-from/",
+    "https://retrogamecoders.com/ai-slop/",
+    "https://github.com/your-moon/tern"
   ]
 }

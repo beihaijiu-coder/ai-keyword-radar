@@ -1,5 +1,5 @@
 {
-  "term": "AI coding",
+  "term": "AI Coding",
   "slug": "ai-coding",
   "first_seen": "2026-08-27",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 71,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/waywardgeek/ensemble",
+    "https://news.ycombinator.com/item?id=50081857",
     "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
-    "https://github.com/HarjjotSinghh/helicon",
-    "https://github.com/LargeModGames/spotatui",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

@@ -1,0 +1,216 @@
+{
+  "updated_at": "2026-10-15T01:21:04.742348+00:00",
+  "terms": [
+    {
+      "term": "about AI",
+      "slug": "about-ai",
+      "first_seen": "2026-06-08",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 75,
+      "source_diversity_score": 67,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/",
+        "https://news.ycombinator.com/item?id=50091127",
+        "https://aihub.remakelearning.org/",
+        "https://news.ycombinator.com/item?id=50081189",
+        "https://openai.com/index/partnering-with-codeai"
+      ]
+    },
+    {
+      "term": "HN AI",
+      "slug": "hn-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 100,
+      "source_diversity_score": 33,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://aiinterviewindex.com",
+        "https://www.orchardagentic.cloud/#browse/funding-review",
+        "https://aihub.remakelearning.org/"
+      ]
+    },
+    {
+      "term": "Show HN AI",
+      "slug": "show-hn-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://aiinterviewindex.com",
+        "https://www.orchardagentic.cloud/#browse/funding-review",
+        "https://aihub.remakelearning.org/"
+      ]
+    },
+    {
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.orchardagentic.cloud/#browse/funding-review",
+        "https://news.ycombinator.com/item?id=50081857",
+        "https://pulseos.finance"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 13,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 67,
+      "opportunity_score": 80,
+      "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/aisixteen/fantastic",
+        "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+        "https://brianroemmele.substack.com/p/the-silicon-compiler-comes-back-as",
+        "https://github.com/taylorancapital/nothing-threw/blob/main/TEN_OF_EIGHTY_FOUR.md",
+        "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef"
+      ]
+    },
+    {
+      "term": "Character ai",
+      "slug": "character-ai",
+      "first_seen": "2026-10-14",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 64,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+        "https://www.latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy",
+        "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+        "https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown"
+      ]
+    },
+    {
+      "term": "my AI",
+      "slug": "my-ai",
+      "first_seen": "2026-06-12",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 61,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+        "https://news.ycombinator.com/item?id=50091127",
+        "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+        "https://www.prereason.com/"
+      ]
+    },
+    {
+      "term": "AI Coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 70,
+      "source_diversity_score": 67,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/waywardgeek/ensemble",
+        "https://news.ycombinator.com/item?id=50081857",
+        "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
+        "https://openai.com/index/scientific-computing-agentic-ai"
+      ]
+    },
+    {
+      "term": "AI Slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 58,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://checkobot.ai",
+        "https://100toolkit.com/blog/where-ai-slop-comes-from/",
+        "https://retrogamecoders.com/ai-slop/",
+        "https://github.com/your-moon/tern"
+      ]
+    },
+    {
+      "term": "Claude Code",
+      "slug": "claude-code",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 59,
+      "source_diversity_score": 33,
+      "opportunity_score": 66,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://usemerlin.ai",
+        "https://github.com/fuzdev/tsv",
+        "https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/"
+      ]
+    }
+  ]
+}
