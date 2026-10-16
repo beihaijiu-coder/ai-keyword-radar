@@ -1918,5 +1918,13 @@
   "model architecture": {
     "interest": 19,
     "checked_at": "2026-10-14T01:45:41.432054+00:00"
+  },
+  "agent fleet": {
+    "interest": 1,
+    "checked_at": "2026-10-16T01:07:08.560129+00:00"
+  },
+  "muse spark open": {
+    "interest": 3,
+    "checked_at": "2026-10-16T01:07:18.425942+00:00"
   }
 }

@@ -1,10 +1,33 @@
 {
-  "updated_at": "2026-10-15T01:21:04.742348+00:00",
+  "updated_at": "2026-10-16T01:07:01.351029+00:00",
   "terms": [
     {
-      "term": "about AI",
-      "slug": "about-ai",
-      "first_seen": "2026-06-08",
+      "term": "AI coding agents",
+      "slug": "ai-coding-agents",
+      "first_seen": "2026-08-28",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 98,
+      "source_diversity_score": 67,
+      "opportunity_score": 93,
+      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
+        "https://github.com/second-time-is-a-bug-book/book-companion",
+        "https://github.com/bilalnaseer/wsp-wordpress-mcp",
+        "https://github.com/awslabs/aidlc-workflows",
+        "https://github.com/waywardgeek/ensemble"
+      ]
+    },
+    {
+      "term": "Local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
       "sources": [
         "hackernews",
         "rss"
@@ -12,56 +35,16 @@
       "mention_count_recent": 4,
       "mention_count_history": 1,
       "velocity_score": 100,
-      "search_gap_score": 75,
+      "search_gap_score": 73,
       "source_diversity_score": 67,
       "opportunity_score": 83,
       "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/",
-        "https://news.ycombinator.com/item?id=50091127",
-        "https://aihub.remakelearning.org/",
-        "https://news.ycombinator.com/item?id=50081189",
-        "https://openai.com/index/partnering-with-codeai"
-      ]
-    },
-    {
-      "term": "HN AI",
-      "slug": "hn-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 100,
-      "source_diversity_score": 33,
-      "opportunity_score": 83,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://aiinterviewindex.com",
-        "https://www.orchardagentic.cloud/#browse/funding-review",
-        "https://aihub.remakelearning.org/"
-      ]
-    },
-    {
-      "term": "Show HN AI",
-      "slug": "show-hn-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://aiinterviewindex.com",
-        "https://www.orchardagentic.cloud/#browse/funding-review",
-        "https://aihub.remakelearning.org/"
+        "https://lifesprites.com/demo",
+        "https://www.youtube.com/watch?v=x_qmqqp6d7s",
+        "https://sipeed.com/maixstation/",
+        "https://www.meauxsoft.com/News/AI_Benchmark.html",
+        "https://huggingface.co/blog/webgpu-kernels"
       ]
     },
     {
@@ -79,9 +62,71 @@
       "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.orchardagentic.cloud/#browse/funding-review",
-        "https://news.ycombinator.com/item?id=50081857",
-        "https://pulseos.finance"
+        "https://guessthellm.com/",
+        "https://app.netlumi.com",
+        "https://www.realdesignbenchmark.com"
+      ]
+    },
+    {
+      "term": "agent fleet",
+      "slug": "agent-fleet",
+      "first_seen": "2026-10-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://intentlab.ai/blog/an-agent-fleet-on-clickbench",
+        "https://quickchat.ai/post/chinese-ai-agent-fleet",
+        "https://twitter.com/GruPiotr/status/2110494758976000004"
+      ]
+    },
+    {
+      "term": "AI coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 6,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 67,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+        "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
+        "https://github.com/second-time-is-a-bug-book/book-companion",
+        "https://github.com/bilalnaseer/wsp-wordpress-mcp",
+        "https://github.com/awslabs/aidlc-workflows"
+      ]
+    },
+    {
+      "term": "Muse Spark Open",
+      "slug": "muse-spark-open",
+      "first_seen": "2026-10-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 97,
+      "source_diversity_score": 33,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://research.meta.ai/blog/muse-spark-open",
+        "https://dev.meta.ai/resources/blog/build-with-muse-spark-open"
       ]
     },
     {
@@ -92,67 +137,69 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 13,
+      "mention_count_recent": 9,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 67,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/aisixteen/fantastic",
-        "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
-        "https://brianroemmele.substack.com/p/the-silicon-compiler-comes-back-as",
-        "https://github.com/taylorancapital/nothing-threw/blob/main/TEN_OF_EIGHTY_FOUR.md",
-        "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef"
+        "https://sifty.dev/blog/web-pages",
+        "https://app.netlumi.com",
+        "https://madsalt.tech/blog/how-much-does-an-ai-agent-cost/",
+        "https://quickchat.ai/post/chinese-ai-agent-fleet",
+        "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html"
       ]
     },
     {
-      "term": "Character ai",
-      "slug": "character-ai",
-      "first_seen": "2026-10-14",
+      "term": "AI video",
+      "slug": "ai-video",
+      "first_seen": "2026-06-10",
       "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 64,
-      "source_diversity_score": 33,
-      "opportunity_score": 72,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-        "https://www.latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy",
-        "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
-        "https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown"
-      ]
-    },
-    {
-      "term": "my AI",
-      "slug": "my-ai",
-      "first_seen": "2026-06-12",
-      "sources": [
-        "hackernews"
+        "hackernews",
+        "rss"
       ],
       "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
-      "search_gap_score": 61,
-      "source_diversity_score": 33,
-      "opportunity_score": 71,
+      "search_gap_score": 63,
+      "source_diversity_score": 67,
+      "opportunity_score": 79,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
-        "https://news.ycombinator.com/item?id=50091127",
-        "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
-        "https://www.prereason.com/"
+        "https://www.youtube.com/watch?v=bAnwMdfcMVw",
+        "https://kling3.io/kling-4",
+        "https://openai.com/index/higgsfield-longer-videos-voice"
       ]
     },
     {
-      "term": "AI Coding",
-      "slug": "ai-coding",
-      "first_seen": "2026-08-27",
+      "term": "AI tools",
+      "slug": "ai-tools",
+      "first_seen": "2026-08-16",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 63,
+      "source_diversity_score": 67,
+      "opportunity_score": 79,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/ShaikhWarsi/free-ai-tools",
+        "https://productflo.io/ai-tools",
+        "https://github.com/QAInsights/awesome-ai-tools",
+        "https://stylebot.dev/",
+        "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+      ]
+    },
+    {
+      "term": "AI Era",
+      "slug": "ai-era",
+      "first_seen": "2026-06-12",
       "sources": [
         "hackernews",
         "rss"
@@ -165,51 +212,30 @@
       "opportunity_score": 71,
       "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/waywardgeek/ensemble",
-        "https://news.ycombinator.com/item?id=50081857",
-        "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
-        "https://openai.com/index/scientific-computing-agentic-ai"
+        "https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "https://nicobrenner.github.io/lossy-git/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
       ]
     },
     {
-      "term": "AI Slop",
-      "slug": "ai-slop",
-      "first_seen": "2026-06-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 58,
-      "source_diversity_score": 33,
-      "opportunity_score": 70,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://checkobot.ai",
-        "https://100toolkit.com/blog/where-ai-slop-comes-from/",
-        "https://retrogamecoders.com/ai-slop/",
-        "https://github.com/your-moon/tern"
-      ]
-    },
-    {
-      "term": "Claude Code",
-      "slug": "claude-code",
-      "first_seen": "2026-06-06",
+      "term": "Run AI",
+      "slug": "run-ai",
+      "first_seen": "2026-06-30",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 59,
+      "search_gap_score": 56,
       "source_diversity_score": 33,
-      "opportunity_score": 66,
+      "opportunity_score": 65,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://usemerlin.ai",
-        "https://github.com/fuzdev/tsv",
-        "https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/"
+        "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+        "https://github.com/logicalclocks/run-ai-helm",
+        "https://github.com/dsx-ai-factory/run-ai"
       ]
     }
   ]

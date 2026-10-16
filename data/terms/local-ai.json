@@ -1,22 +1,23 @@
 {
-  "term": "local AI",
+  "term": "Local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 67,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://heypippa.app/en/",
-    "https://news.ycombinator.com/item?id=50039529",
-    "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
+    "https://lifesprites.com/demo",
+    "https://www.youtube.com/watch?v=x_qmqqp6d7s",
+    "https://sipeed.com/maixstation/",
+    "https://www.meauxsoft.com/News/AI_Benchmark.html",
     "https://huggingface.co/blog/webgpu-kernels"
   ]
 }
