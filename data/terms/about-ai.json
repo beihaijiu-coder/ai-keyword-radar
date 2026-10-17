@@ -1,23 +1,23 @@
 {
-  "term": "about AI",
+  "term": "About AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 75,
   "source_diversity_score": 67,
   "opportunity_score": 83,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/",
-    "https://news.ycombinator.com/item?id=50091127",
-    "https://aihub.remakelearning.org/",
-    "https://news.ycombinator.com/item?id=50081189",
+    "https://www.youtube.com/watch?v=bAnwMdfcMVw",
+    "https://github.com/Canonry/canonry",
+    "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html",
+    "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
     "https://openai.com/index/partnering-with-codeai"
   ]
 }

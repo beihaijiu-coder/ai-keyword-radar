@@ -1,0 +1,20 @@
+{
+  "term": "AI Revolution",
+  "slug": "ai-revolution",
+  "first_seen": "2026-10-17",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 75,
+  "source_diversity_score": 33,
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=50120075",
+    "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456",
+    "https://nymag.com/intelligencer/article/china-ai-learning-craze.html"
+  ]
+}
