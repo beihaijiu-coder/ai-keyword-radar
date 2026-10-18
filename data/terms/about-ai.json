@@ -1,5 +1,5 @@
 {
-  "term": "About AI",
+  "term": "about AI",
   "slug": "about-ai",
   "first_seen": "2026-06-08",
   "sources": [
@@ -14,10 +14,10 @@
   "opportunity_score": 83,
   "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764",
+    "https://news.ycombinator.com/item?id=50134684",
     "https://www.youtube.com/watch?v=bAnwMdfcMVw",
     "https://github.com/Canonry/canonry",
-    "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html",
-    "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
-    "https://openai.com/index/partnering-with-codeai"
+    "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html"
   ]
 }

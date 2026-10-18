@@ -6,18 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 38,
   "source_diversity_score": 67,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 59,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors",
-    "https://seylo.co",
-    "https://www.groundcover.com/blog/open-source-ai-naor-peled",
-    "https://news.ycombinator.com/item?id=49955704",
+    "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
+    "https://news.ycombinator.com/item?id=50127389",
     "https://openai.com/index/the-work-now-within-reach"
   ]
 }

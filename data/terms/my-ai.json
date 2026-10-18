@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 61,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50118474",
-    "https://medium.com/@simon-pitt/my-ai-apps-are-bad-in-exactly-the-right-ways-c4b43e8fd371",
-    "https://www.youtube.com/watch?v=Ig2gYmOTuug",
-    "https://cooldock.app/"
+    "https://news.ycombinator.com/item?id=50135854",
+    "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
+    "https://news.ycombinator.com/item?id=50118474"
   ]
 }

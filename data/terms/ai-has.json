@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 46,
   "source_diversity_score": 33,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 61,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50073471",
-    "https://github.com/lmxrd/potoo",
-    "https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd",
-    "https://blog.character.ai/an-update-on-character-ai/"
+    "https://news.ycombinator.com/item?id=50135854",
+    "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+    "https://news.ycombinator.com/item?id=50128412"
   ]
 }

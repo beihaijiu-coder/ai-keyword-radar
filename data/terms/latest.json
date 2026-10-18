@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T01:12:30.452499+00:00",
+  "updated_at": "2026-10-18T00:47:47.103287+00:00",
   "terms": [
     {
-      "term": "About AI",
+      "term": "about AI",
       "slug": "about-ai",
       "first_seen": "2026-06-08",
       "sources": [
@@ -17,11 +17,11 @@
       "opportunity_score": 83,
       "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764",
+        "https://news.ycombinator.com/item?id=50134684",
         "https://www.youtube.com/watch?v=bAnwMdfcMVw",
         "https://github.com/Canonry/canonry",
-        "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html",
-        "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
-        "https://openai.com/index/partnering-with-codeai"
+        "https://naildrivin5.com/blog/2026/10/15/i-m-gonna-write-about-ai-so-i-can-process-what-is-going-on.html"
       ]
     },
     {
@@ -39,9 +39,9 @@
       "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://halalcryptoindex.com/",
         "https://fakeipedia.org",
-        "https://stoke.money",
-        "https://guessthellm.com/"
+        "https://stoke.money"
       ]
     },
     {
@@ -52,19 +52,19 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 6,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 70,
       "source_diversity_score": 67,
       "opportunity_score": 81,
-      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/Moshik21/weatherdeck",
-        "https://github.com/hugomn/heldkeys",
-        "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
-        "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
-        "https://openai.com/index/scientific-computing-agentic-ai"
+        "https://github.com/rogeriojunior31/lazyagents",
+        "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+        "https://playbitty.com/",
+        "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
+        "https://github.com/Moshik21/weatherdeck"
       ]
     },
     {
@@ -75,61 +75,19 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 12,
+      "mention_count_recent": 10,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 67,
       "opportunity_score": 80,
-      "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 10; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980",
-        "https://stoke.money",
-        "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
-        "https://github.com/busabase/busabase",
-        "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/"
-      ]
-    },
-    {
-      "term": "AI Software",
-      "slug": "ai-software",
-      "first_seen": "2026-10-17",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 81,
-      "source_diversity_score": 33,
-      "opportunity_score": 79,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/",
-        "https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already",
-        "https://www.albertcode.dev",
-        "https://news.ycombinator.com/item?id=50109685"
-      ]
-    },
-    {
-      "term": "AI video",
-      "slug": "ai-video",
-      "first_seen": "2026-06-10",
-      "sources": [
-        "hackernews",
-        "rss"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 63,
-      "source_diversity_score": 67,
-      "opportunity_score": 75,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://www.kapwing.com/ai/prompt-generator/camera",
-        "https://www.youtube.com/watch?v=bAnwMdfcMVw",
-        "https://openai.com/index/higgsfield-longer-videos-voice"
+        "https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764",
+        "https://kairos-experiment.com/checks.html",
+        "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+        "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+        "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980"
       ]
     },
     {
@@ -148,8 +106,8 @@
       "opportunity_score": 73,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
         "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
-        "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
         "https://openai.com/index/itau-generative-ai"
       ]
     },
@@ -174,23 +132,63 @@
       ]
     },
     {
-      "term": "AI Revolution",
-      "slug": "ai-revolution",
-      "first_seen": "2026-10-17",
+      "term": "where AI",
+      "slug": "where-ai",
+      "first_seen": "2026-06-16",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 75,
+      "search_gap_score": 69,
       "source_diversity_score": 33,
-      "opportunity_score": 73,
+      "opportunity_score": 70,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=50120075",
-        "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456",
-        "https://nymag.com/intelligencer/article/china-ai-learning-craze.html"
+        "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "https://lumovi.dev/",
+        "https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/"
+      ]
+    },
+    {
+      "term": "own AI",
+      "slug": "own-ai",
+      "first_seen": "2026-07-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+        "https://news.ycombinator.com/item?id=50132747"
+      ]
+    },
+    {
+      "term": "when AI",
+      "slug": "when-ai",
+      "first_seen": "2026-07-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 50,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+        "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
+        "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
+        "https://maevyn.codes/decoherence"
       ]
     },
     {
@@ -200,59 +198,79 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
+      "velocity_score": 90,
       "search_gap_score": 61,
       "source_diversity_score": 33,
-      "opportunity_score": 71,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=50118474",
-        "https://medium.com/@simon-pitt/my-ai-apps-are-bad-in-exactly-the-right-ways-c4b43e8fd371",
-        "https://www.youtube.com/watch?v=Ig2gYmOTuug",
-        "https://cooldock.app/"
+        "https://news.ycombinator.com/item?id=50135854",
+        "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
+        "https://news.ycombinator.com/item?id=50118474"
       ]
     },
     {
-      "term": "AI slop",
-      "slug": "ai-slop",
-      "first_seen": "2026-06-07",
+      "term": "AI has",
+      "slug": "ai-has",
+      "first_seen": "2026-06-09",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 58,
+      "search_gap_score": 46,
       "source_diversity_score": 33,
-      "opportunity_score": 66,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 61,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://github.com/ahmedarif193/LiberNT",
-        "https://usebeeline.app",
-        "https://marquee.page"
+        "https://news.ycombinator.com/item?id=50135854",
+        "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+        "https://news.ycombinator.com/item?id=50128412"
       ]
     },
     {
-      "term": "agent can",
-      "slug": "agent-can",
-      "first_seen": "2026-07-01",
+      "term": "make AI",
+      "slug": "make-ai",
+      "first_seen": "2026-10-18",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 37,
+      "velocity_score": 90,
+      "search_gap_score": 44,
       "source_diversity_score": 33,
-      "opportunity_score": 61,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "opportunity_score": 60,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=50125397",
-        "https://github.com/hugomn/heldkeys",
-        "https://github.com/aws-safebox/aws-safebox",
-        "https://www.youtube.com/watch?v=fboNucIC3uU"
+        "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+        "https://crypticinkling.co.uk",
+        "https://news.ycombinator.com/item?id=50123524"
+      ]
+    },
+    {
+      "term": "AI can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 59,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+        "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
+        "https://news.ycombinator.com/item?id=50127389",
+        "https://openai.com/index/the-work-now-within-reach"
       ]
     },
     {
@@ -262,18 +280,17 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
+      "velocity_score": 90,
       "search_gap_score": 37,
       "source_diversity_score": 33,
-      "opportunity_score": 61,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "opportunity_score": 57,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
         "https://www.youtube.com/watch?v=claxN4oxDuY",
         "https://economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch",
-        "https://cr34te.it/",
-        "https://www.youtube.com/watch?v=19hdzsbeBHY"
+        "https://cr34te.it/"
       ]
     }
   ]

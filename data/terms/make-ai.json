@@ -1,0 +1,20 @@
+{
+  "term": "make AI",
+  "slug": "make-ai",
+  "first_seen": "2026-10-18",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 44,
+  "source_diversity_score": 33,
+  "opportunity_score": 60,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+    "https://crypticinkling.co.uk",
+    "https://news.ycombinator.com/item?id=50123524"
+  ]
+}
