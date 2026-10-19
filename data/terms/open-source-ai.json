@@ -5,18 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 77,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
-    "https://github.com/frankzch/ai-news-brief",
-    "https://workspacemcp.com/release-notes/v2",
-    "https://github.com/Aliyunazeer/cloudgrip-backend",
-    "https://github.com/nano-muse/nanoMuse"
+    "https://github.com/matricphase-dot/aiops",
+    "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
+    "https://github.com/abhij1306/CiteLadder"
   ]
 }

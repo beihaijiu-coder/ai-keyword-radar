@@ -1,0 +1,19 @@
+{
+  "term": "AI safety bill",
+  "slug": "ai-safety-bill",
+  "first_seen": "2026-10-19",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+  ]
+}
