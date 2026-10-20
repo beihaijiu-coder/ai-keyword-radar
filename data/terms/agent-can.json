@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 37,
   "source_diversity_score": 33,
-  "opportunity_score": 61,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 57,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50125397",
-    "https://github.com/hugomn/heldkeys",
-    "https://github.com/aws-safebox/aws-safebox",
-    "https://www.youtube.com/watch?v=fboNucIC3uU"
+    "https://news.ycombinator.com/item?id=50154029",
+    "https://meetcap.seacen.dev/",
+    "https://github.com/aldohushi1-stack/shipback-sftp"
   ]
 }
