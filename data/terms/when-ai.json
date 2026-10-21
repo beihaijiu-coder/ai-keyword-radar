@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
-    "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
-    "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
-    "https://maevyn.codes/decoherence"
+    "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
+    "https://worklicant.com/",
+    "https://news.ycombinator.com/item?id=50161914"
   ]
 }

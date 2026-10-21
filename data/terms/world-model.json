@@ -1,0 +1,19 @@
+{
+  "term": "World Model",
+  "slug": "world-model",
+  "first_seen": "2026-10-21",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google Trends data was unavailable in the latest run.",
+  "example_links": [
+    "https://skyfall.ai/blog/introducing-sky-001",
+    "https://skyfall.ai/sky-001"
+  ]
+}

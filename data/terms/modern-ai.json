@@ -1,5 +1,5 @@
 {
-  "term": "modern AI",
+  "term": "Modern AI",
   "slug": "modern-ai",
   "first_seen": "2026-07-01",
   "sources": [
@@ -13,7 +13,8 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://boredpeoplechat.com/",
-    "https://github.com/raiyanyahya/llmaker"
+    "https://research.poh.org/bot-benchmarking-2026/",
+    "https://www.modern.ai/",
+    "https://www.geekwire.com/2026/retro-tech-meets-modern-ai-inside-an-amazon-developers-garage-turned-working-computer-museum/"
   ]
 }

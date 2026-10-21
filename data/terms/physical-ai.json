@@ -1,21 +1,20 @@
 {
-  "term": "Physical AI",
+  "term": "physical AI",
   "slug": "physical-ai",
   "first_seen": "2026-07-21",
   "sources": [
-    "hackernews",
-    "rss"
+    "hackernews"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
   "search_gap_score": 65,
-  "source_diversity_score": 67,
-  "opportunity_score": 75,
+  "source_diversity_score": 33,
+  "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://topicqueue.substack.com/p/nvidia-puts-a-4b-world-model-on-the",
-    "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+    "https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers",
+    "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+    "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
   ]
 }

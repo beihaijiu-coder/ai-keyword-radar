@@ -3,18 +3,21 @@
   "slug": "ai-tool",
   "first_seen": "2026-06-16",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 65,
-  "source_diversity_score": 33,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "source_diversity_score": 67,
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
-    "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687",
-    "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit"
+    "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+    "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+    "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+    "https://a2oliteai.com/",
+    "https://openai.com/index/sullivan-cromwell"
   ]
 }

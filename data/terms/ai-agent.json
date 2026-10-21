@@ -1,23 +1,23 @@
 {
-  "term": "AI agent",
+  "term": "AI Agent",
   "slug": "ai-agent",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 13,
+  "mention_count_recent": 8,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 13; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/SeeRay11/OpenFlow",
-    "https://arxiv.org/abs/2610.19264",
-    "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
-    "https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions/",
-    "https://aiskills402.com/blog/agent-skills-security-risks"
+    "https://www.minlit.app/ask",
+    "https://github.com/datacrate360/countercheck",
+    "https://www.youtube.com/watch?v=vMDhFMJHsxs",
+    "https://sage.cs.princeton.edu/trends/emerging-trends-paper.pdf",
+    "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en"
   ]
 }
