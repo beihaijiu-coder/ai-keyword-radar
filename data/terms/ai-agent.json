@@ -1,23 +1,23 @@
 {
-  "term": "AI Agent",
+  "term": "AI agent",
   "slug": "ai-agent",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 8,
+  "mention_count_recent": 9,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 67,
   "opportunity_score": 80,
-  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.minlit.app/ask",
-    "https://github.com/datacrate360/countercheck",
-    "https://www.youtube.com/watch?v=vMDhFMJHsxs",
-    "https://sage.cs.princeton.edu/trends/emerging-trends-paper.pdf",
-    "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en"
+    "https://victorribeiro.com/bots/",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+    "https://theaioperatorstore.gumroad.com/l/uszyx",
+    "https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/",
+    "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
   ]
 }

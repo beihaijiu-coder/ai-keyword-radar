@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 67,
   "opportunity_score": 81,
-  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/1270011/multica-android-unofficial",
-    "https://news.ycombinator.com/item?id=50167220",
-    "https://github.com/antonum/bash-harness",
-    "https://github.com/reticlehq/reticle",
-    "https://github.com/os-factory/har"
+    "https://unixdigest.com/articles/with-ai-coding-the-future-of-software-development-looks-more-grim-than-ever-before.html",
+    "https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards",
+    "https://nyrion.ai/research/ai-coding-interviews-2026",
+    "https://layerfs.ai/",
+    "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }
