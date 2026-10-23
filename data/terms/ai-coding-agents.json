@@ -1,5 +1,5 @@
 {
-  "term": "AI coding agents",
+  "term": "AI Coding Agents",
   "slug": "ai-coding-agents",
   "first_seen": "2026-08-28",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 83,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/reticlehq/reticle",
-    "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
-    "https://craig-cli.com/",
+    "https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/",
+    "https://www.i-kh.net/p/my-spec-first-workflow-for-ai-coding",
+    "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
     "https://openai.com/index/scientific-computing-agentic-ai"
   ]
 }

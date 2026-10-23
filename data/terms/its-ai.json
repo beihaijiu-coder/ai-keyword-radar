@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 67,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://microsoft.ai/news/building-medical-superintelligence/",
+    "https://techxplore.com/news/2026-10-openai-ai-agents-disabled-safety.html",
     "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
     "https://www.bbc.com/news/articles/cmreyvepnv0po",
-    "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
     "https://openai.com/index/itau-generative-ai"
   ]
 }
