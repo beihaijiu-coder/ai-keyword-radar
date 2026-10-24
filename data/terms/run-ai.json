@@ -13,8 +13,8 @@
   "opportunity_score": 65,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
-    "https://github.com/logicalclocks/run-ai-helm",
-    "https://github.com/dsx-ai-factory/run-ai"
+    "https://github.com/rla-labs/argus",
+    "https://kunalkushwaha.github.io/homebrew-koala/",
+    "https://www.snippetbar.com"
   ]
 }

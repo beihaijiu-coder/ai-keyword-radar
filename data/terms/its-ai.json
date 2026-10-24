@@ -7,17 +7,17 @@
     "rss"
   ],
   "mention_count_recent": 5,
-  "mention_count_history": 0,
+  "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 67,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://microsoft.ai/news/building-medical-superintelligence/",
-    "https://techxplore.com/news/2026-10-openai-ai-agents-disabled-safety.html",
-    "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-    "https://www.bbc.com/news/articles/cmreyvepnv0po",
-    "https://openai.com/index/itau-generative-ai"
+    "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+    "https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/",
+    "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
+    "https://zordt.com/",
+    "https://microsoft.ai/news/building-medical-superintelligence/"
   ]
 }

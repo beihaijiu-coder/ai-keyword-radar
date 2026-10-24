@@ -1958,5 +1958,9 @@
   "ai world": {
     "interest": 40,
     "checked_at": "2026-10-23T01:22:15.218611+00:00"
+  },
+  "aws trainium": {
+    "interest": 0,
+    "checked_at": "2026-10-24T01:27:43.916786+00:00"
   }
 }
