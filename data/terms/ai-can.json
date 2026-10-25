@@ -6,18 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 38,
   "source_diversity_score": 67,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 59,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
     "https://www.youtube.com/watch?v=1-NXfnVeDfw",
     "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
     "https://www.youtube.com/watch?v=SP7y1h0laN0",
-    "https://palmesi.com/blog/knowledge-work-needs-awareness/",
-    "https://news.ycombinator.com/item?id=50197889"
+    "https://openai.com/index/the-work-now-within-reach"
   ]
 }

@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 99,
   "source_diversity_score": 33,
   "opportunity_score": 86,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+    "https://aitrendvideo.net",
+    "https://app.enclave.ai/threat-feed",
     "https://kouh.me/ai-text-detector",
-    "https://theaioperatorstore.gumroad.com/l/womuyx",
-    "https://ai-news.jagular.io",
-    "https://theaioperatorstore.gumroad.com/l/kjxamb"
+    "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+    "https://theaioperatorstore.gumroad.com/l/womuyx"
   ]
 }

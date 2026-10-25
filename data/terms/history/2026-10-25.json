@@ -1,0 +1,440 @@
+{
+  "updated_at": "2026-10-25T00:58:02.947875+00:00",
+  "terms": [
+    {
+      "term": "HN AI",
+      "slug": "hn-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 7,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 100,
+      "source_diversity_score": 33,
+      "opportunity_score": 87,
+      "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://aitrendvideo.net",
+        "https://app.enclave.ai/threat-feed",
+        "https://kouh.me/ai-text-detector",
+        "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+        "https://theaioperatorstore.gumroad.com/l/womuyx"
+      ]
+    },
+    {
+      "term": "Show HN AI",
+      "slug": "show-hn-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 7,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://aitrendvideo.net",
+        "https://app.enclave.ai/threat-feed",
+        "https://kouh.me/ai-text-detector",
+        "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+        "https://theaioperatorstore.gumroad.com/l/womuyx"
+      ]
+    },
+    {
+      "term": "Kimi K3",
+      "slug": "kimi-k3",
+      "first_seen": "2026-07-17",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 94,
+      "source_diversity_score": 33,
+      "opportunity_score": 84,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+        "https://www.modelcompare.ai/blog/china-open-source-ai",
+        "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+        "https://www.kimi.ai/blog/kimi-k3-1-pro"
+      ]
+    },
+    {
+      "term": "Local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/swrdfish/narro",
+        "https://sideos.ai",
+        "https://useinstantsearch.com/",
+        "https://www.youtube.com/watch?v=3mx84MRj8lY",
+        "https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai"
+      ]
+    },
+    {
+      "term": "AWS Trainium",
+      "slug": "aws-trainium",
+      "first_seen": "2026-10-24",
+      "sources": [
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 100,
+      "source_diversity_score": 33,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://huggingface.co/blog/torch-neuronx-model-support",
+        "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+        "https://huggingface.co/blog/hf-torchneuron"
+      ]
+    },
+    {
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://kat-assessment.com/",
+        "https://useinstantsearch.com/",
+        "https://orbitdesktop.com/"
+      ]
+    },
+    {
+      "term": "EU Member States",
+      "slug": "eu-member-states",
+      "first_seen": "2026-10-25",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 12,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 67,
+      "opportunity_score": 80,
+      "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/DainoJung/omni-verify",
+        "https://github.com/sevenboxlabs/sevenbox",
+        "https://app.enclave.ai/threat-feed",
+        "https://console.usetd.com/",
+        "https://aakatheeri.github.io/narrative-deck/"
+      ]
+    },
+    {
+      "term": "coding agent",
+      "slug": "coding-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 76,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/gtanczyk/genaicode",
+        "https://news.ycombinator.com/item?id=50219641",
+        "https://www.endorlabs.com/research/ai-code-security-benchmark"
+      ]
+    },
+    {
+      "term": "AI Data",
+      "slug": "ai-data",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=NyOeLB0WVNE",
+        "https://www.construction-physics.com/p/reading-list-102426",
+        "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+        "https://theaioperatorstore.gumroad.com/l/womuyx",
+        "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud"
+      ]
+    },
+    {
+      "term": "AI gets",
+      "slug": "ai-gets",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 72,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://stevekrouse.com/10x",
+        "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html"
+      ]
+    },
+    {
+      "term": "Claude Code",
+      "slug": "claude-code",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 59,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://perchfocus.com/",
+        "https://github.com/gtanczyk/genaicode",
+        "https://news.ycombinator.com/item?id=50219641",
+        "https://github.com/lucasmartins-ai/lcc",
+        "https://apps.apple.com/us/app/paragrafx-illustrate-books/id6795768929"
+      ]
+    },
+    {
+      "term": "its AI",
+      "slug": "its-ai",
+      "first_seen": "2026-06-23",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 59,
+      "source_diversity_score": 67,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+        "https://openai.com/index/itau-generative-ai"
+      ]
+    },
+    {
+      "term": "my AI",
+      "slug": "my-ai",
+      "first_seen": "2026-06-12",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 61,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/DainoJung/omni-verify",
+        "https://github.com/greg76/token-quota/tree/main",
+        "https://getframecap.com/"
+      ]
+    },
+    {
+      "term": "AI assistant",
+      "slug": "ai-assistant",
+      "first_seen": "2026-06-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 62,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/RhinoDevel/poldi",
+        "https://news.ycombinator.com/item?id=50219838",
+        "https://cowagent.ai/en/"
+      ]
+    },
+    {
+      "term": "AI companies",
+      "slug": "ai-companies",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 62,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies"
+      ]
+    },
+    {
+      "term": "AI chat",
+      "slug": "ai-chat",
+      "first_seen": "2026-06-13",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 49,
+      "source_diversity_score": 33,
+      "opportunity_score": 66,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://github.com/Lucki74/draggy",
+        "https://pilely.ai/",
+        "https://aethyro.com/",
+        "https://saanora.com"
+      ]
+    },
+    {
+      "term": "AI generated",
+      "slug": "ai-generated",
+      "first_seen": "2026-07-25",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 55,
+      "source_diversity_score": 33,
+      "opportunity_score": 65,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://motioncrackers.com",
+        "https://arxiv.org/abs/2610.29162",
+        "https://news.ycombinator.com/item?id=50216167"
+      ]
+    },
+    {
+      "term": "Run AI",
+      "slug": "run-ai",
+      "first_seen": "2026-06-30",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 56,
+      "source_diversity_score": 33,
+      "opportunity_score": 65,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/rla-labs/argus",
+        "https://kunalkushwaha.github.io/homebrew-koala/",
+        "https://www.snippetbar.com"
+      ]
+    },
+    {
+      "term": "AI Data Centers",
+      "slug": "ai-data-centers",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 44,
+      "source_diversity_score": 33,
+      "opportunity_score": 60,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=NyOeLB0WVNE",
+        "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+        "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud"
+      ]
+    },
+    {
+      "term": "AI Can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 59,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=1-NXfnVeDfw",
+        "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+        "https://www.youtube.com/watch?v=SP7y1h0laN0",
+        "https://openai.com/index/the-work-now-within-reach"
+      ]
+    }
+  ]
+}
