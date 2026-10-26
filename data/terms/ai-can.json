@@ -1,5 +1,5 @@
 {
-  "term": "AI Can",
+  "term": "AI can",
   "slug": "ai-can",
   "first_seen": "2026-06-06",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 59,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.youtube.com/watch?v=1-NXfnVeDfw",
-    "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-    "https://www.youtube.com/watch?v=SP7y1h0laN0",
+    "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
+    "https://git-ing-over-it.vercel.app/",
+    "https://huggingface.co/destined/hurston-1",
     "https://openai.com/index/the-work-now-within-reach"
   ]
 }

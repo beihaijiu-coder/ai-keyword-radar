@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 49,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 62,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
     "https://github.com/Lucki74/draggy",
     "https://pilely.ai/",
-    "https://aethyro.com/",
-    "https://saanora.com"
+    "https://aethyro.com/"
   ]
 }
