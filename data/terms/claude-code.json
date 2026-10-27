@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://optio.host/",
-    "https://perchfocus.com/",
-    "https://github.com/gtanczyk/genaicode",
-    "https://news.ycombinator.com/item?id=50219641"
+    "https://medium.com/@tbugaevsky/ai-is-expensive-how-do-you-save-tokens-without-compromising-quality-9d76b333e5e5",
+    "https://github.com/arcanemachine/pw-repl",
+    "https://news.ycombinator.com/item?id=50243565",
+    "https://news.ycombinator.com/item?id=50241410",
+    "https://optio.host/"
   ]
 }

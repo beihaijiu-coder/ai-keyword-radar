@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 38,
   "source_diversity_score": 67,
-  "opportunity_score": 59,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human",
+    "https://news.ycombinator.com/item?id=50245017",
+    "https://news.ycombinator.com/item?id=50242573",
     "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
-    "https://git-ing-over-it.vercel.app/",
-    "https://huggingface.co/destined/hurston-1",
     "https://openai.com/index/the-work-now-within-reach"
   ]
 }

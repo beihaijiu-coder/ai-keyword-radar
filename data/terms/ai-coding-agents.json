@@ -1,22 +1,23 @@
 {
-  "term": "AI Coding Agents",
+  "term": "AI coding agents",
   "slug": "ai-coding-agents",
   "first_seen": "2026-08-28",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 98,
   "source_diversity_score": 67,
-  "opportunity_score": 83,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 93,
+  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/",
-    "https://www.i-kh.net/p/my-spec-first-workflow-for-ai-coding",
-    "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
-    "https://openai.com/index/scientific-computing-agentic-ai"
+    "https://github.com/humanlayer/humanlayer",
+    "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "https://github.com/goyohan0611-png/graph-mind",
+    "https://github.com/mohsa/idhn",
+    "https://github.com/aron98/load-lock"
   ]
 }
