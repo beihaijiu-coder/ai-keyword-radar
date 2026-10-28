@@ -3,21 +3,20 @@
   "slug": "ai-agent",
   "first_seen": "2026-06-06",
   "sources": [
-    "hackernews",
-    "rss"
+    "hackernews"
   ],
-  "mention_count_recent": 9,
-  "mention_count_history": 1,
+  "mention_count_recent": 13,
+  "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
-  "source_diversity_score": 67,
-  "opportunity_score": 80,
-  "trend_note": "Recent mentions: 9; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "source_diversity_score": 33,
+  "opportunity_score": 73,
+  "trend_note": "Recent mentions: 13; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50245483",
-    "https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it",
-    "https://github.com/iayanpahwa/research-agent-from-scratch",
-    "https://news.ycombinator.com/item?id=50240121",
-    "https://news.ycombinator.com/item?id=50240104"
+    "https://jsdev.space/30-agent-skills/",
+    "https://medium.com/@MirArshadTalpur/how-to-give-your-ai-agent-memory-you-can-audit-aec39a5c60ed",
+    "https://github.com/sanmak/specops",
+    "https://crulon.ai/#talk",
+    "https://github.com/IdoGol24/weir"
   ]
 }

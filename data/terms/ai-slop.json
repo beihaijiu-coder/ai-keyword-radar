@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/Nutlope/hallmark",
-    "https://news.ycombinator.com/item?id=50225469",
-    "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899"
+    "https://www.audiodamage.com/blogs/news/slopapotamus-ai-and-the-indie-plugin-business",
+    "https://chemicalx.xophz.com",
+    "https://grahamdumpleton.me/posts/2026/10/ai-slop-is-the-new-tldr/",
+    "https://claudeslop.bryanhu.com"
   ]
 }

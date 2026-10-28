@@ -1974,5 +1974,41 @@
   "help agents": {
     "interest": 18,
     "checked_at": "2026-10-27T01:57:09.460505+00:00"
+  },
+  "people over because ai": {
+    "interest": 10,
+    "checked_at": "2026-10-28T02:05:16.781989+00:00"
+  },
+  "over because ai": {
+    "interest": 23,
+    "checked_at": "2026-10-28T02:05:26.677560+00:00"
+  },
+  "over because ai deems": {
+    "interest": 0,
+    "checked_at": "2026-10-28T02:05:36.807105+00:00"
+  },
+  "because ai": {
+    "interest": 50,
+    "checked_at": "2026-10-28T02:05:46.671514+00:00"
+  },
+  "because ai deems": {
+    "interest": 1,
+    "checked_at": "2026-10-28T02:05:56.745269+00:00"
+  },
+  "because ai deems their": {
+    "interest": 0,
+    "checked_at": "2026-10-28T02:06:26.708291+00:00"
+  },
+  "ai deems": {
+    "interest": 1,
+    "checked_at": "2026-10-28T02:06:36.798234+00:00"
+  },
+  "ai deems their": {
+    "interest": 1,
+    "checked_at": "2026-10-28T02:06:46.729722+00:00"
+  },
+  "ai deems their driving": {
+    "interest": 0,
+    "checked_at": "2026-10-28T02:06:56.732620+00:00"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "term": "Because AI",
+  "slug": "because-ai",
+  "first_seen": "2026-10-28",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 50,
+  "source_diversity_score": 33,
+  "opportunity_score": 63,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops"
+  ]
+}

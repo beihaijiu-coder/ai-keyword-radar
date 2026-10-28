@@ -1,5 +1,5 @@
 {
-  "term": "its AI",
+  "term": "Its AI",
   "slug": "its-ai",
   "first_seen": "2026-06-23",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 67,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-    "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+    "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "https://theainewsreport.com/2026-10-27-openai-exponential-time-hypothesis-false-runtime-lean-explained.html",
+    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
     "https://openai.com/index/itau-generative-ai"
   ]
 }
