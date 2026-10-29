@@ -1,0 +1,19 @@
+{
+  "term": "vs AI",
+  "slug": "vs-ai",
+  "first_seen": "2026-10-29",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 46,
+  "source_diversity_score": 33,
+  "opportunity_score": 61,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=50274354",
+    "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+  ]
+}

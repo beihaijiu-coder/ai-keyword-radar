@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 13,
+  "mention_count_recent": 8,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 13; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://jsdev.space/30-agent-skills/",
-    "https://medium.com/@MirArshadTalpur/how-to-give-your-ai-agent-memory-you-can-audit-aec39a5c60ed",
-    "https://github.com/sanmak/specops",
-    "https://crulon.ai/#talk",
-    "https://github.com/IdoGol24/weir"
+    "https://ai-agent-antivirus.space/",
+    "https://armincat.com/articles/ai-agent-executed-same-query-254-times",
+    "https://github.com/budna-marketplace/recommerce",
+    "https://blog.getwerk.ai/posts/rent-the-model-own-the-harness",
+    "https://blogs.cisco.com/ai/project-quarry-agent-security-detections"
   ]
 }

@@ -1,22 +1,23 @@
 {
-  "term": "AI Era",
+  "term": "AI era",
   "slug": "ai-era",
   "first_seen": "2026-06-12",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "https://nicobrenner.github.io/lossy-git/",
+    "https://news.ycombinator.com/item?id=50275751",
+    "https://news.ycombinator.com/item?id=50275109",
+    "https://tw93.fun/en/2026-10-26/mole-product.html",
+    "https://blog.piotrnalepa.pl/en/2026/10/27/shadow-ai-in-a-development-team-how-to-keep-your-clients-code-out-of-the-chat/",
     "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
   ]
 }
