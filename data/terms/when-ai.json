@@ -1,5 +1,5 @@
 {
-  "term": "when AI",
+  "term": "When AI",
   "slug": "when-ai",
   "first_seen": "2026-07-07",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 63,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
-    "https://worklicant.com/",
-    "https://news.ycombinator.com/item?id=50161914"
+    "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
+    "https://project507.substack.com/p/when-ai-does-the-work-what-will-humans"
   ]
 }

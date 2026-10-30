@@ -2018,5 +2018,13 @@
   "vs ai": {
     "interest": 54,
     "checked_at": "2026-10-29T02:16:07.897971+00:00"
+  },
+  "ai takes": {
+    "interest": 37,
+    "checked_at": "2026-10-30T02:29:08.880584+00:00"
+  },
+  "ai takes time": {
+    "interest": 5,
+    "checked_at": "2026-10-30T02:29:19.027972+00:00"
   }
 }

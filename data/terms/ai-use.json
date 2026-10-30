@@ -3,18 +3,19 @@
   "slug": "ai-use",
   "first_seen": "2026-07-04",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_history": 1,
+  "velocity_score": 75,
   "search_gap_score": 45,
-  "source_diversity_score": 33,
+  "source_diversity_score": 67,
   "opportunity_score": 61,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.okanode.com/industry/technology-software-ai-use-cases?tags=43",
-    "https://www.nature.com/articles/d41586-026-01881-2",
-    "https://willpenman.com/klara/"
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+    "https://news.ycombinator.com/item?id=50285795",
+    "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
   ]
 }

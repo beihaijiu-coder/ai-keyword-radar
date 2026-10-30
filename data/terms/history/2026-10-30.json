@@ -1,0 +1,232 @@
+{
+  "updated_at": "2026-10-30T02:29:02.858691+00:00",
+  "terms": [
+    {
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://regbase.com/datacenters",
+        "https://github.com/lonthq/overtone-captions",
+        "https://news.ycombinator.com/item?id=50291424",
+        "https://manalect.com/",
+        "https://github.com/chriscasper/startica"
+      ]
+    },
+    {
+      "term": "AI takes time",
+      "slug": "ai-takes-time",
+      "first_seen": "2026-10-30",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 95,
+      "source_diversity_score": 33,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 14,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 14; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://labs.ycombinator.com/projects/games/index.html",
+        "https://www.npmjs.com/package/pipeup",
+        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+        "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "https://github.com/phpclaw-php/phpclaw-monorepo"
+      ]
+    },
+    {
+      "term": "local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/harlixay7/Kinoloom",
+        "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+        "https://supermhel.github.io/fengarde/",
+        "https://huggingface.co/blog/webgpu-kernels"
+      ]
+    },
+    {
+      "term": "AI coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 70,
+      "source_diversity_score": 67,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/",
+        "https://github.com/oll4com/spaceapp",
+        "https://news.ycombinator.com/item?id=50288521",
+        "https://openai.com/index/scientific-computing-agentic-ai"
+      ]
+    },
+    {
+      "term": "AI takes",
+      "slug": "ai-takes",
+      "first_seen": "2026-10-30",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 68,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/"
+      ]
+    },
+    {
+      "term": "used AI",
+      "slug": "used-ai",
+      "first_seen": "2026-06-12",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 59,
+      "source_diversity_score": 67,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://apnews.com/article/dartmouth-provost-ai-a9f71dc5e9e10461c7c2390febcd1b5a",
+        "https://news.ycombinator.com/item?id=50292611",
+        "https://spectrum.ieee.org/ai-generated-scientific-papers",
+        "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+      ]
+    },
+    {
+      "term": "Most AI",
+      "slug": "most-ai",
+      "first_seen": "2026-09-04",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 51,
+      "source_diversity_score": 33,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46",
+        "https://twitter.com/jsnnsa/status/2115623382721126826",
+        "https://getotium.ai/blog/graph-engineering"
+      ]
+    },
+    {
+      "term": "When AI",
+      "slug": "when-ai",
+      "first_seen": "2026-07-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 50,
+      "source_diversity_score": 33,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+        "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
+        "https://project507.substack.com/p/when-ai-does-the-work-what-will-humans"
+      ]
+    },
+    {
+      "term": "AI use",
+      "slug": "ai-use",
+      "first_seen": "2026-07-04",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 45,
+      "source_diversity_score": 67,
+      "opportunity_score": 61,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+        "https://news.ycombinator.com/item?id=50285795",
+        "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+      ]
+    },
+    {
+      "term": "Google AI",
+      "slug": "google-ai",
+      "first_seen": "2026-07-24",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 42,
+      "source_diversity_score": 33,
+      "opportunity_score": 59,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.wavefunction.si/",
+        "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
+        "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
+      ]
+    }
+  ]
+}
