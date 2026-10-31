@@ -3,17 +3,18 @@
   "slug": "their-ai",
   "first_seen": "2026-06-07",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 3,
   "mention_count_history": 0,
   "velocity_score": 90,
   "search_gap_score": 60,
-  "source_diversity_score": 33,
-  "opportunity_score": 67,
+  "source_diversity_score": 67,
+  "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-    "https://news.ycombinator.com/item?id=49391286"
+    "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "https://openai.com/index/helping-websites-express-ai-training-preferences"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "term": "What AI",
+  "term": "what AI",
   "slug": "what-ai",
   "first_seen": "2026-06-19",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 69,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://whybook.dev/",
-    "https://thecompanionlab.com/billing/",
-    "https://news.ycombinator.com/item?id=50186182"
+    "https://blog.kolen.dev/LLM/want",
+    "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
+    "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957"
   ]
 }

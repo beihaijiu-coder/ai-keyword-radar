@@ -1,0 +1,19 @@
+{
+  "term": "Pilled Company",
+  "slug": "pilled-company",
+  "first_seen": "2026-10-31",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 99,
+  "source_diversity_score": 33,
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://twitter.com/jsnnsa/status/2115623382721126826",
+    "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46"
+  ]
+}

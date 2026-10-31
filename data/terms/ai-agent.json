@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 14,
+  "mention_count_recent": 18,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 14; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 18; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://labs.ycombinator.com/projects/games/index.html",
-    "https://www.npmjs.com/package/pipeup",
+    "https://bsvkey-governor-demo.fly.dev/",
+    "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
     "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "https://twitter.com/OcanaSantero/status/2115442964574908902",
-    "https://github.com/phpclaw-php/phpclaw-monorepo"
+    "https://github.com/wojtas99/EasyRE-Agent",
+    "https://www.reddit.com/r/SolidWorks/comments/1xjhrvz/psa_mecagent_ai_agent_for_solidworks_scans_your/"
   ]
 }
