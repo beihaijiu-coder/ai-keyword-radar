@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:12:06.543862+00:00",
+  "updated_at": "2026-11-01T02:01:40.150352+00:00",
   "terms": [
     {
       "term": "Hi HN",
@@ -8,19 +8,18 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 5,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 99,
       "source_diversity_score": 33,
       "opportunity_score": 86,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+        "https://news.ycombinator.com/item?id=50314339",
         "https://www.fastbrowse.ai/",
-        "https://pollsight.napsty.com",
-        "https://regbase.com/datacenters",
-        "https://github.com/lonthq/overtone-captions",
-        "https://news.ycombinator.com/item?id=50291424"
+        "https://pollsight.napsty.com"
       ]
     },
     {
@@ -38,45 +37,9 @@
       "opportunity_score": 83,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://apps.apple.com/us/app/neonetworking/id6818046802",
         "https://nomorehappypath.com/",
-        "https://github.com/ZKStamp/AgentWallet",
-        "https://www.aiknowsus.com"
-      ]
-    },
-    {
-      "term": "Defense Contractor Gave Their",
-      "slug": "defense-contractor-gave-their",
-      "first_seen": "2026-10-31",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
-      ]
-    },
-    {
-      "term": "Secure Pentagon System",
-      "slug": "secure-pentagon-system",
-      "first_seen": "2026-10-31",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+        "https://github.com/ZKStamp/AgentWallet"
       ]
     },
     {
@@ -94,46 +57,52 @@
       "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
+        "https://apps.apple.com/us/app/neonetworking/id6818046802",
         "https://nomorehappypath.com/",
-        "https://github.com/ZKStamp/AgentWallet",
-        "https://www.aiknowsus.com"
+        "https://github.com/ZKStamp/AgentWallet"
       ]
     },
     {
-      "term": "Pilled Company",
-      "slug": "pilled-company",
-      "first_seen": "2026-10-31",
+      "term": "AI coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
       "sources": [
-        "hackernews"
+        "hackernews",
+        "rss"
       ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://twitter.com/jsnnsa/status/2115623382721126826",
-        "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46"
-      ]
-    },
-    {
-      "term": "AI Agent Access",
-      "slug": "ai-agent-access",
-      "first_seen": "2026-10-31",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 95,
-      "source_diversity_score": 33,
+      "mention_count_recent": 6,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 67,
       "opportunity_score": 81,
+      "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://mobileagent.dev",
+        "https://github.com/ailucius/praex-cli",
+        "https://github.com/tapaskar/archwhere",
+        "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html",
+        "https://www.youtube.com/watch?v=9ahgxINOJlo"
+      ]
+    },
+    {
+      "term": "same agent",
+      "slug": "same-agent",
+      "first_seen": "2026-11-01",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 80,
+      "source_diversity_score": 33,
+      "opportunity_score": 75,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+        "https://blog.getwerk.ai/posts/prompt-caching-a-quarter-of-the-bill",
+        "https://nomorehappypath.com/",
+        "https://news.ycombinator.com/item?id=50304514"
       ]
     },
     {
@@ -143,45 +112,89 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 18,
+      "mention_count_recent": 12,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 33,
       "opportunity_score": 73,
-      "trend_note": "Recent mentions: 18; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 12; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "https://github.com/openclaw/openclaw/pull/188766",
         "https://bsvkey-governor-demo.fly.dev/",
         "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
-        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-        "https://github.com/wojtas99/EasyRE-Agent",
-        "https://www.reddit.com/r/SolidWorks/comments/1xjhrvz/psa_mecagent_ai_agent_for_solidworks_scans_your/"
+        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
       ]
     },
     {
-      "term": "Their AI",
-      "slug": "their-ai",
-      "first_seen": "2026-06-07",
+      "term": "about AI",
+      "slug": "about-ai",
+      "first_seen": "2026-06-08",
       "sources": [
         "hackernews",
         "rss"
       ],
       "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 60,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 75,
       "source_diversity_score": 67,
       "opportunity_score": 73,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-        "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+        "https://www.msn.com/en-us/science/general/hans-moravec-was-right-about-ai-is-he-right-about-the-fate-of-humanity/ar-AA28ALzg",
+        "https://news.ycombinator.com/item?id=50314339",
+        "https://openai.com/index/partnering-with-codeai"
       ]
     },
     {
-      "term": "Agent Access",
-      "slug": "agent-access",
-      "first_seen": "2026-10-31",
+      "term": "coding agent",
+      "slug": "coding-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 76,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "https://github.com/ailucius/praex-cli",
+        "https://specdeck.ai/"
+      ]
+    },
+    {
+      "term": "AI data",
+      "slug": "ai-data",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 6,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+        "https://www.youtube.com/watch?v=kON2ZI2BNj8",
+        "https://github.com/anima-universe/character-ai-export-viewer",
+        "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
+        "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law"
+      ]
+    },
+    {
+      "term": "AI cost",
+      "slug": "ai-cost",
+      "first_seen": "2026-11-01",
       "sources": [
         "hackernews"
       ],
@@ -193,150 +206,49 @@
       "opportunity_score": 72,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "https://uncracked.city",
+        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
       ]
     },
     {
-      "term": "what AI",
-      "slug": "what-ai",
-      "first_seen": "2026-06-19",
+      "term": "AI slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 3,
+      "mention_count_recent": 4,
       "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 66,
+      "velocity_score": 100,
+      "search_gap_score": 58,
       "source_diversity_score": 33,
-      "opportunity_score": 69,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://blog.kolen.dev/LLM/want",
-        "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
-        "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957"
+        "https://news.ycombinator.com/item?id=50318869",
+        "https://news.ycombinator.com/item?id=50318091",
+        "https://news.ycombinator.com/item?id=50314217",
+        "https://news.ycombinator.com/item?id=50310650"
       ]
     },
     {
-      "term": "AI Data",
-      "slug": "ai-data",
-      "first_seen": "2026-06-06",
+      "term": "AI search",
+      "slug": "ai-search",
+      "first_seen": "2026-06-27",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 63,
+      "search_gap_score": 64,
       "source_diversity_score": 33,
       "opportunity_score": 68,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-        "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
-        "https://www.youtube.com/watch?v=ckoi0RTEgcY"
-      ]
-    },
-    {
-      "term": "AI Bubble",
-      "slug": "ai-bubble",
-      "first_seen": "2026-07-02",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://aibubble.bighea.com",
-        "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
-        "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
-        "https://samissermoyer.substack.com/p/are-we-in-an-ai-bubble-lessons-from",
-        "https://www.youtube.com/watch?v=MgngwkPAuqQ"
-      ]
-    },
-    {
-      "term": "used AI",
-      "slug": "used-ai",
-      "first_seen": "2026-06-12",
-      "sources": [
-        "hackernews",
-        "rss"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 1,
-      "velocity_score": 75,
-      "search_gap_score": 59,
-      "source_diversity_score": 67,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://news.ycombinator.com/item?id=50310650",
-        "https://apnews.com/article/dartmouth-provost-ai-a9f71dc5e9e10461c7c2390febcd1b5a",
-        "https://news.ycombinator.com/item?id=50292611",
-        "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
-      ]
-    },
-    {
-      "term": "my AI",
-      "slug": "my-ai",
-      "first_seen": "2026-06-12",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 61,
-      "source_diversity_score": 33,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://dotpals.vercel.app/",
-        "https://github.com/Dodaios/Dodaios",
-        "https://news.ycombinator.com/item?id=50292611"
-      ]
-    },
-    {
-      "term": "Claude Code",
-      "slug": "claude-code",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 59,
-      "source_diversity_score": 33,
-      "opportunity_score": 66,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://sketch.wakeshift.ai/games/q5ucru",
-        "https://github.com/Dodaios/Dodaios",
-        "https://news.ycombinator.com/item?id=50291424"
-      ]
-    },
-    {
-      "term": "Most AI",
-      "slug": "most-ai",
-      "first_seen": "2026-09-04",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 51,
-      "source_diversity_score": 33,
-      "opportunity_score": 63,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://twitter.com/jsnnsa/status/2115623382721126826",
-        "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46"
+        "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
+        "https://lumi-geo.pages.dev/"
       ]
     },
     {
@@ -346,17 +258,57 @@
       "sources": [
         "hackernews"
       ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 42,
+      "source_diversity_score": 33,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
+        "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+        "https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10",
+        "https://twitter.com/kouhxp/status/2116218737237840261"
+      ]
+    },
+    {
+      "term": "AI Bubble",
+      "slug": "ai-bubble",
+      "first_seen": "2026-07-02",
+      "sources": [
+        "hackernews"
+      ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 42,
+      "search_gap_score": 50,
       "source_diversity_score": 33,
-      "opportunity_score": 59,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://aibubble.bighea.com",
+        "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
+        "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets"
+      ]
+    },
+    {
+      "term": "AI data centers",
+      "slug": "ai-data-centers",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 44,
+      "source_diversity_score": 33,
+      "opportunity_score": 60,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-        "https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10",
-        "https://twitter.com/kouhxp/status/2116218737237840261"
+        "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+        "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030"
       ]
     }
   ]

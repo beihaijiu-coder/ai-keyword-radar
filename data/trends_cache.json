@@ -2046,5 +2046,13 @@
   "pilled company": {
     "interest": 1,
     "checked_at": "2026-10-31T02:12:53.012332+00:00"
+  },
+  "ai cost": {
+    "interest": 26,
+    "checked_at": "2026-11-01T02:02:04.016999+00:00"
+  },
+  "same agent": {
+    "interest": 20,
+    "checked_at": "2026-11-01T02:02:13.882552+00:00"
   }
 }

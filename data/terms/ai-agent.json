@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 18,
+  "mention_count_recent": 12,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 18; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 12; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "https://github.com/openclaw/openclaw/pull/188766",
     "https://bsvkey-governor-demo.fly.dev/",
     "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
-    "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "https://github.com/wojtas99/EasyRE-Agent",
-    "https://www.reddit.com/r/SolidWorks/comments/1xjhrvz/psa_mecagent_ai_agent_for_solidworks_scans_your/"
+    "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
   ]
 }
