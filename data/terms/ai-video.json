@@ -6,17 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 67,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.youtube.com/watch?v=v5d8nwgiSYI",
-    "https://www.aivideosugc.com/ai-video-generation",
-    "https://www.aivideosugc.com/",
+    "https://youtu.be/X7vf7koPxKg?si=qTC7OOblJyWjibv6&t=829",
+    "https://www.youtube.com/watch?v=NWNbAEivyvs",
+    "https://www.youtube.com/watch?v=GU9msk_eH7w",
     "https://openai.com/index/higgsfield-longer-videos-voice"
   ]
 }

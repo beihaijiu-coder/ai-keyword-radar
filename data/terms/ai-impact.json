@@ -1,0 +1,21 @@
+{
+  "term": "AI impact",
+  "slug": "ai-impact",
+  "first_seen": "2026-11-02",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 68,
+  "source_diversity_score": 33,
+  "opportunity_score": 74,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+    "https://age-of-product.com/measuring-ai-impact/",
+    "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487",
+    "https://www.youtube.com/watch?v=usZLo_9Jz54"
+  ]
+}

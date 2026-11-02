@@ -1,5 +1,5 @@
 {
-  "term": "AI data",
+  "term": "AI Data",
   "slug": "ai-data",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,10 +13,10 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://iungotech.com",
     "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
     "https://www.youtube.com/watch?v=kON2ZI2BNj8",
     "https://github.com/anima-universe/character-ai-export-viewer",
-    "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
-    "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law"
+    "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030"
   ]
 }

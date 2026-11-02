@@ -2054,5 +2054,25 @@
   "same agent": {
     "interest": 20,
     "checked_at": "2026-11-01T02:02:13.882552+00:00"
+  },
+  "ai impact": {
+    "interest": 32,
+    "checked_at": "2026-11-02T02:16:13.539650+00:00"
+  },
+  "express ai": {
+    "interest": 13,
+    "checked_at": "2026-11-02T02:16:23.540812+00:00"
+  },
+  "express ai training": {
+    "interest": 0,
+    "checked_at": "2026-11-02T02:16:33.461913+00:00"
+  },
+  "express ai training preferences": {
+    "interest": 1,
+    "checked_at": "2026-11-02T02:16:43.541865+00:00"
+  },
+  "ai training preferences": {
+    "interest": 1,
+    "checked_at": "2026-11-02T02:16:53.500534+00:00"
   }
 }

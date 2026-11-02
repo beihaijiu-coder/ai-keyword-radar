@@ -1,5 +1,5 @@
 {
-  "term": "AI generated",
+  "term": "AI Generated",
   "slug": "ai-generated",
   "first_seen": "2026-07-25",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 65,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://motioncrackers.com",
-    "https://arxiv.org/abs/2610.29162",
-    "https://news.ycombinator.com/item?id=50216167"
+    "https://bytesizedbets.com/p/how-to-review-a-2000-line-ai-written",
+    "https://github.com/seeeeew/aiwarningforsteam",
+    "https://news.ycombinator.com/item?id=50314217"
   ]
 }
