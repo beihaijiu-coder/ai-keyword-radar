@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 10,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 10; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.anonce.io/",
-    "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-    "https://medium.com/@MirArshadTalpur/how-to-prove-what-your-ai-agent-did-in-minutes-zizkadbs-two-github-actions-and-mcp-listing-7d3d6669dab6",
-    "https://shroom.am",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+    "https://github.com/xescure/slop-node",
+    "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
+    "https://tinysuite.dev/blog/how-to-add-memory-to-ai-agent/",
+    "https://www.anonce.io/"
   ]
 }

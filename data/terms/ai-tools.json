@@ -6,17 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 67,
-  "opportunity_score": 69,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.explain-ai.com",
-    "https://elegant-chebakia-7aee64.netlify.app/",
-    "https://news.ycombinator.com/item?id=50186182",
+    "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-14066677.html",
+    "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+    "https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc",
+    "https://kilasec.com",
     "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
   ]
 }
