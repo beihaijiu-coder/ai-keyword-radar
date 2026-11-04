@@ -1,22 +1,23 @@
 {
-  "term": "local AI",
+  "term": "Local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 67,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://yanahchat.com",
+    "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "https://devden.raghavan.studio/p/could-edge-inference-be-the-dr-pepper",
     "https://www.predatorray.me/CheapGPT/",
-    "https://www.pcmag.com/news/sam-altman-suggests-running-ai-locally-is-a-waste-of-memory",
-    "https://castov.com",
     "https://huggingface.co/blog/webgpu-kernels"
   ]
 }

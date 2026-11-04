@@ -1,21 +1,22 @@
 {
-  "term": "AI slop",
+  "term": "AI Slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50318869",
-    "https://news.ycombinator.com/item?id=50318091",
-    "https://news.ycombinator.com/item?id=50314217",
-    "https://news.ycombinator.com/item?id=50310650"
+    "https://kotaku.com/itch-io-gen-ai-slop-terrabytes-deleted-claude-chagpt-steam-epic-2000752485",
+    "https://chromewebstore.google.com/detail/animus-ai-blocker/ofpjilegndibkndcacajdgmkjicjgbck",
+    "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+    "https://arxiv.org/abs/2603.27249",
+    "https://medium.com/@smoking2man/sick-of-ai-slop-but-what-lies-behind-it-dc416eb66bad"
   ]
 }

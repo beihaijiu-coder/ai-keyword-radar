@@ -1,5 +1,5 @@
 {
-  "term": "AI coding",
+  "term": "AI Coding",
   "slug": "ai-coding",
   "first_seen": "2026-08-27",
   "sources": [
@@ -13,10 +13,10 @@
   "opportunity_score": 75,
   "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
-    "https://medium.com/@ajseven/your-ai-coding-agent-needs-more-than-a-good-prompt-8b5b4de1cf70",
-    "https://github.com/mgantlett/nomos",
-    "https://github.com/Jyotishmoy12/AgentTM",
-    "https://skepagent.com/"
+    "https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136",
+    "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+    "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+    "https://vault.hyperiux.com",
+    "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs"
   ]
 }
