@@ -1,0 +1,23 @@
+{
+  "term": "AI models",
+  "slug": "ai-models",
+  "first_seen": "2026-11-05",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 8,
+  "mention_count_history": 1,
+  "velocity_score": 100,
+  "search_gap_score": 62,
+  "source_diversity_score": 67,
+  "opportunity_score": 78,
+  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=50374297",
+    "https://github.com/gauge-sh/gauge-cli",
+    "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+    "https://stories.tamu.edu/news/2026/10/21/ai-models-can-get-brain-rot-too/",
+    "https://umwelt.vision/first-silicon/"
+  ]
+}

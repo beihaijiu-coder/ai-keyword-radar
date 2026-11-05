@@ -2074,5 +2074,13 @@
   "ai training preferences": {
     "interest": 1,
     "checked_at": "2026-11-02T02:16:53.500534+00:00"
+  },
+  "ai models": {
+    "interest": 38,
+    "checked_at": "2026-11-05T03:22:45.786226+00:00"
+  },
+  "agents use": {
+    "interest": 22,
+    "checked_at": "2026-11-05T03:22:55.758798+00:00"
   }
 }

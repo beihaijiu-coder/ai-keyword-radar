@@ -1,19 +1,22 @@
 {
-  "term": "AI data centers",
+  "term": "AI Data Centers",
   "slug": "ai-data-centers",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 44,
   "source_diversity_score": 33,
-  "opportunity_score": 60,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 64,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-    "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030"
+    "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "https://www.reasond.de/topics/6aeb8450718f8e90f14f241f",
+    "https://epyhia.com/ai-data-centers-turn-to-decommissioned-jet-engines-as-grid-queues",
+    "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+    "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly"
   ]
 }

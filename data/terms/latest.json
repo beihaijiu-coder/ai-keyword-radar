@@ -1,71 +1,170 @@
 {
-  "updated_at": "2026-11-04T02:57:52.969279+00:00",
+  "updated_at": "2026-11-05T03:22:18.489566+00:00",
   "terms": [
     {
-      "term": "Local AI",
-      "slug": "local-ai",
-      "first_seen": "2026-06-10",
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
       "sources": [
-        "hackernews",
-        "rss"
+        "hackernews"
       ],
       "mention_count_recent": 4,
-      "mention_count_history": 1,
+      "mention_count_history": 0,
       "velocity_score": 100,
-      "search_gap_score": 73,
-      "source_diversity_score": 67,
-      "opportunity_score": 83,
-      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://yanahchat.com",
-        "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
-        "https://devden.raghavan.studio/p/could-edge-inference-be-the-dr-pepper",
-        "https://www.predatorray.me/CheapGPT/",
-        "https://huggingface.co/blog/webgpu-kernels"
+        "https://louisabraham.github.io/anagranames/",
+        "https://github.com/gauge-sh/gauge-cli",
+        "https://news.ycombinator.com/item?id=50368804",
+        "https://rivermark.ai/"
       ]
     },
     {
-      "term": "AI could",
-      "slug": "ai-could",
-      "first_seen": "2026-06-19",
+      "term": "Siri AI",
+      "slug": "siri-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 94,
+      "source_diversity_score": 33,
+      "opportunity_score": 84,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://developer.apple.com/news/?id=gdk2umrf",
+        "https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/"
+      ]
+    },
+    {
+      "term": "HN AI",
+      "slug": "hn-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 100,
+      "source_diversity_score": 33,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=50374297",
+        "https://github.com/alex0ptr/aigude",
+        "https://news.ycombinator.com/item?id=50360823"
+      ]
+    },
+    {
+      "term": "Hey HN",
+      "slug": "hey-hn",
+      "first_seen": "2026-06-11",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 100,
+      "source_diversity_score": 33,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://github.com/djuk8/beacon/",
+        "https://github.com/finic-ai/kairos",
+        "https://confetti.build"
+      ]
+    },
+    {
+      "term": "AI models",
+      "slug": "ai-models",
+      "first_seen": "2026-11-05",
       "sources": [
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 3,
+      "mention_count_recent": 8,
       "mention_count_history": 1,
-      "velocity_score": 75,
-      "search_gap_score": 91,
+      "velocity_score": 100,
+      "search_gap_score": 62,
       "source_diversity_score": 67,
-      "opportunity_score": 80,
-      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+      "opportunity_score": 78,
+      "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://econvitals.org/posts/2026-11-01-ai-first-job/",
-        "https://www.bbc.com/audio/play/w3ct8mcy",
-        "https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066",
-        "https://openai.com/index/introducing-intelligence-age"
+        "https://news.ycombinator.com/item?id=50374297",
+        "https://github.com/gauge-sh/gauge-cli",
+        "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+        "https://stories.tamu.edu/news/2026/10/21/ai-models-can-get-brain-rot-too/",
+        "https://umwelt.vision/first-silicon/"
       ]
     },
     {
-      "term": "AI Coding",
+      "term": "coding agent",
+      "slug": "coding-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 76,
+      "source_diversity_score": 33,
+      "opportunity_score": 77,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://getchronosphere.com/",
+        "https://surgehq.ai/blog/benchmarking-coding-agent-harnesses",
+        "https://github.com/gauge-sh/gauge-cli",
+        "https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136"
+      ]
+    },
+    {
+      "term": "AI coding",
       "slug": "ai-coding",
       "first_seen": "2026-08-27",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 5,
+      "mention_count_recent": 8,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 70,
       "source_diversity_score": 33,
       "opportunity_score": 75,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136",
+        "https://news.ycombinator.com/item?id=50374297",
+        "https://github.com/oll4com/spaceapp",
         "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
-        "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
-        "https://vault.hyperiux.com",
-        "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs"
+        "https://www.glow.io/blogs/mcphantom-ai-coding-agents-are-installing-vulnerable-deprecated-mcp-servers-from-training-data",
+        "https://github.com/Coding-Dev-Tools/engraphis"
+      ]
+    },
+    {
+      "term": "agents use",
+      "slug": "agents-use",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 78,
+      "source_diversity_score": 33,
+      "opportunity_score": 74,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/zoghlamimostafa/BrowserForge-MCP",
+        "https://github.com/gauge-sh/gauge-cli",
+        "https://atlas.insanearts.io/"
       ]
     },
     {
@@ -75,38 +174,63 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 11,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 33,
       "opportunity_score": 73,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 11; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://github.com/bewithkhan/bansat",
         "https://getcinnamon.ai/",
-        "https://duckity.com/",
-        "https://common-ground-pho7.onrender.com/",
-        "https://proof.zketernity.app/stamps/try.html"
+        "https://github.com/akustikrausch/amigent",
+        "https://github.com/elifalanrocha/openring",
+        "https://agent.svoxx.com/int/en"
       ]
     },
     {
-      "term": "AI boom",
-      "slug": "ai-boom",
-      "first_seen": "2026-06-08",
+      "term": "local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://jrabbass.github.io/axon/",
+        "https://yanahchat.com",
+        "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+        "https://huggingface.co/blog/webgpu-kernels"
+      ]
+    },
+    {
+      "term": "AI Data",
+      "slug": "ai-data",
+      "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 3,
+      "mention_count_recent": 5,
       "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 72,
+      "velocity_score": 100,
+      "search_gap_score": 63,
       "source_diversity_score": 33,
-      "opportunity_score": 71,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-        "https://www.semafor.com/article/11/03/2026/democrats-run-more-anti-tech-ads-amid-ai-boom",
-        "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/"
+        "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+        "https://www.reasond.de/topics/6aeb8450718f8e90f14f241f",
+        "https://epyhia.com/ai-data-centers-turn-to-decommissioned-jet-engines-as-grid-queues",
+        "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+        "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly"
       ]
     },
     {
@@ -116,90 +240,23 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 6,
+      "mention_count_recent": 5,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 59,
       "source_diversity_score": 33,
       "opportunity_score": 70,
-      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://github.com/finic-ai/kairos",
-        "https://mallard-ai.com/home",
-        "https://github.com/federicolaterra/knemora",
-        "https://github.com/RazinAI/deputy",
-        "https://github.com/glocker-app/glocker"
-      ]
-    },
-    {
-      "term": "AI Slop",
-      "slug": "ai-slop",
-      "first_seen": "2026-06-07",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 58,
-      "source_diversity_score": 33,
-      "opportunity_score": 70,
       "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://kotaku.com/itch-io-gen-ai-slop-terrabytes-deleted-claude-chagpt-steam-epic-2000752485",
-        "https://chromewebstore.google.com/detail/animus-ai-blocker/ofpjilegndibkndcacajdgmkjicjgbck",
-        "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
-        "https://arxiv.org/abs/2603.27249",
-        "https://medium.com/@smoking2man/sick-of-ai-slop-but-what-lies-behind-it-dc416eb66bad"
+        "https://louisabraham.github.io/anagranames/",
+        "https://github.com/gauge-sh/gauge-cli",
+        "https://news.ycombinator.com/item?id=50361973",
+        "https://github.com/finic-ai/kairos",
+        "https://mallard-ai.com/home"
       ]
     },
     {
-      "term": "AI can",
-      "slug": "ai-can",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews",
-        "rss"
-      ],
-      "mention_count_recent": 6,
-      "mention_count_history": 1,
-      "velocity_score": 100,
-      "search_gap_score": 38,
-      "source_diversity_score": 67,
-      "opportunity_score": 69,
-      "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is already visible, so move quickly.",
-      "example_links": [
-        "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
-        "https://github.com/ohhbeehave35-commits/adamanteum-community",
-        "https://melodygenie.app/",
-        "https://theconversation.com/how-governments-worldwide-are-shaping-what-ai-can-say-about-politics-294097",
-        "https://isitslop.org"
-      ]
-    },
-    {
-      "term": "AI tools",
-      "slug": "ai-tools",
-      "first_seen": "2026-08-16",
-      "sources": [
-        "hackernews",
-        "rss"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 1,
-      "velocity_score": 75,
-      "search_gap_score": 63,
-      "source_diversity_score": 67,
-      "opportunity_score": 69,
-      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://www.gateonai.com/blog/gateonai-eu-data-statements-2026-11",
-        "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
-        "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-14066677.html",
-        "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-      ]
-    },
-    {
-      "term": "what AI",
+      "term": "What AI",
       "slug": "what-ai",
       "first_seen": "2026-06-19",
       "sources": [
@@ -213,49 +270,72 @@
       "opportunity_score": 69,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/traccia-ai/traccia-py",
-        "https://theconversation.com/how-governments-worldwide-are-shaping-what-ai-can-say-about-politics-294097",
-        "https://www.gateonai.com/blog/gateonai-eu-data-statements-2026-11"
+        "https://codingplans.dev/recipes/optimal-effort/",
+        "https://news.ycombinator.com/item?id=50366117",
+        "https://github.com/traccia-ai/traccia-py"
       ]
     },
     {
-      "term": "own AI",
-      "slug": "own-ai",
-      "first_seen": "2026-07-06",
+      "term": "AI Slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 66,
+      "search_gap_score": 58,
       "source_diversity_score": 33,
-      "opportunity_score": 69,
+      "opportunity_score": 66,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://slopgrid.com/",
-        "https://airtranslate.ai/blog/dialect-benchmark",
-        "https://news.ycombinator.com/item?id=50353629"
+        "https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/",
+        "https://spectrum.ieee.org/ai-slop-trust-science",
+        "https://kotaku.com/itch-io-gen-ai-slop-terrabytes-deleted-claude-chagpt-steam-epic-2000752485"
       ]
     },
     {
-      "term": "Free AI",
-      "slug": "free-ai",
-      "first_seen": "2026-07-11",
+      "term": "AI Data Centers",
+      "slug": "ai-data-centers",
+      "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 3,
+      "mention_count_recent": 5,
       "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 54,
+      "velocity_score": 100,
+      "search_gap_score": 44,
       "source_diversity_score": 33,
       "opportunity_score": 64,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://cloudy.chat",
-        "https://docmaker.ai",
-        "https://clarpex.ai/"
+        "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+        "https://www.reasond.de/topics/6aeb8450718f8e90f14f241f",
+        "https://epyhia.com/ai-data-centers-turn-to-decommissioned-jet-engines-as-grid-queues",
+        "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+        "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly"
+      ]
+    },
+    {
+      "term": "AI Can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 59,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
+        "https://github.com/ohhbeehave35-commits/adamanteum-community",
+        "https://openai.com/index/the-work-now-within-reach"
       ]
     }
   ]

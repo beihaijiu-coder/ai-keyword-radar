@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 33,
   "opportunity_score": 72,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://iungotech.com",
-    "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-    "https://www.youtube.com/watch?v=kON2ZI2BNj8",
-    "https://github.com/anima-universe/character-ai-export-viewer",
-    "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030"
+    "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "https://www.reasond.de/topics/6aeb8450718f8e90f14f241f",
+    "https://epyhia.com/ai-data-centers-turn-to-decommissioned-jet-engines-as-grid-queues",
+    "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+    "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly"
   ]
 }
