@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 11,
+  "mention_count_recent": 14,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 11; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 14; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/bewithkhan/bansat",
-    "https://getcinnamon.ai/",
-    "https://github.com/akustikrausch/amigent",
-    "https://github.com/elifalanrocha/openring",
-    "https://agent.svoxx.com/int/en"
+    "https://arxiv.org/abs/2609.30137",
+    "https://eunomia.dev/agentsight/",
+    "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
+    "https://prax-labs.com/wallet-screening",
+    "https://github.com/salahmakboul/call4agents"
   ]
 }

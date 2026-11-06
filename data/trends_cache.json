@@ -2082,5 +2082,13 @@
   "agents use": {
     "interest": 22,
     "checked_at": "2026-11-05T03:22:55.758798+00:00"
+  },
+  "gemini omni": {
+    "interest": 4,
+    "checked_at": "2026-11-06T03:19:31.246653+00:00"
+  },
+  "responsible ai infrastructure": {
+    "interest": 4,
+    "checked_at": "2026-11-06T03:19:41.107890+00:00"
   }
 }
