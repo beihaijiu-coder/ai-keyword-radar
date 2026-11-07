@@ -2090,5 +2090,13 @@
   "responsible ai infrastructure": {
     "interest": 4,
     "checked_at": "2026-11-06T03:19:41.107890+00:00"
+  },
+  "agents handle": {
+    "interest": 8,
+    "checked_at": "2026-11-07T02:38:42.948018+00:00"
+  },
+  "together compiler": {
+    "interest": 1,
+    "checked_at": "2026-11-07T02:38:52.942927+00:00"
   }
 }

@@ -1,0 +1,335 @@
+{
+  "updated_at": "2026-11-07T02:38:37.130636+00:00",
+  "terms": [
+    {
+      "term": "Gemini Omni",
+      "slug": "gemini-omni",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 96,
+      "source_diversity_score": 67,
+      "opportunity_score": 88,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available"
+      ]
+    },
+    {
+      "term": "AI R D",
+      "slug": "ai-r-d",
+      "first_seen": "2026-09-29",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
+        "https://theainewsreport.com/2026-11-06-metr-anthropic-ai-rd-acceleration-1-9x-explained.html",
+        "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+      ]
+    },
+    {
+      "term": "agents handle",
+      "slug": "agents-handle",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 92,
+      "source_diversity_score": 67,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+        "https://chargeback.cloudbotanist.ai/",
+        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+      ]
+    },
+    {
+      "term": "Together Compiler",
+      "slug": "together-compiler",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+        "https://www.alphaxiv.org/abs/2611.together-compiler-continual-ai-inference"
+      ]
+    },
+    {
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://ajx.dev/",
+        "https://penguinbase.com/game-install?game=192471728&ref=hn",
+        "https://github.com/dmellok/tesserae-widget-overhead"
+      ]
+    },
+    {
+      "term": "AI coding agents",
+      "slug": "ai-coding-agents",
+      "first_seen": "2026-08-28",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 98,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://pleasedonotescape.com/",
+        "https://github.com/cahian/baton",
+        "https://news.ycombinator.com/item?id=50387483"
+      ]
+    },
+    {
+      "term": "AI models",
+      "slug": "ai-models",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 7,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 62,
+      "source_diversity_score": 67,
+      "opportunity_score": 78,
+      "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/meshapplied/Goethe",
+        "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+        "https://news.ycombinator.com/item?id=50394913",
+        "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
+        "https://soarhen.com/how-run-ai-in-low-vram/"
+      ]
+    },
+    {
+      "term": "AI R",
+      "slug": "ai-r",
+      "first_seen": "2026-09-29",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 75,
+      "source_diversity_score": 33,
+      "opportunity_score": 77,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
+        "https://theainewsreport.com/2026-11-06-metr-anthropic-ai-rd-acceleration-1-9x-explained.html",
+        "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+      ]
+    },
+    {
+      "term": "AI coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 33,
+      "opportunity_score": 75,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://pleasedonotescape.com/",
+        "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+        "https://github.com/cahian/baton",
+        "https://news.ycombinator.com/item?id=50387483",
+        "https://ritualdev.in/agentshield/"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 13,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 13; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://getcinnamon.ai/",
+        "https://github.com/3orionkings/ai-product-team",
+        "https://stripe.dev/blog/your-ai-agent-can-move-money-in-stripe",
+        "https://github.com/zalando-incubator/agentic-identity-broker",
+        "https://easyruncraft.com/"
+      ]
+    },
+    {
+      "term": "AI Inference",
+      "slug": "ai-inference",
+      "first_seen": "2026-06-27",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+        "https://www.youtube.com/watch?v=bn82CJfeYko",
+        "https://openai.com/index/jalapeno-first-results"
+      ]
+    },
+    {
+      "term": "AI data",
+      "slug": "ai-data",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
+        "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+        "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/",
+        "https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45"
+      ]
+    },
+    {
+      "term": "let AI",
+      "slug": "let-ai",
+      "first_seen": "2026-06-23",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 68,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "https://www.stackbuilders.com/insights/let-ai-debug-dynamodb-without-giving-it-your-aws-credentials/"
+      ]
+    },
+    {
+      "term": "Claude Code",
+      "slug": "claude-code",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 59,
+      "source_diversity_score": 33,
+      "opportunity_score": 66,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://penguinbase.com/game-install?game=192471728&ref=hn",
+        "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
+        "https://finalapproach.fm/"
+      ]
+    },
+    {
+      "term": "AI Bubble",
+      "slug": "ai-bubble",
+      "first_seen": "2026-07-02",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 50,
+      "source_diversity_score": 33,
+      "opportunity_score": 63,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://aibubblemonitor.com/analysis/dot-com-bubble-vs-ai-bubble-data-comparison",
+        "https://www.youtube.com/watch?v=dOIFazFlvlc",
+        "https://news.ycombinator.com/item?id=50390678"
+      ]
+    },
+    {
+      "term": "Can AI",
+      "slug": "can-ai",
+      "first_seen": "2026-07-04",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 39,
+      "source_diversity_score": 33,
+      "opportunity_score": 58,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.juliusresearch.ai/blog/deep-finance",
+        "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+        "https://news.spencer.place/p/can-ai-slop-help-us-save-the-internet"
+      ]
+    }
+  ]
+}
