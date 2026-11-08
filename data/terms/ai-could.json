@@ -1,5 +1,5 @@
 {
-  "term": "AI could",
+  "term": "AI Could",
   "slug": "ai-could",
   "first_seen": "2026-06-19",
   "sources": [
@@ -14,9 +14,8 @@
   "opportunity_score": 80,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://econvitals.org/posts/2026-11-01-ai-first-job/",
-    "https://www.bbc.com/audio/play/w3ct8mcy",
-    "https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066",
+    "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+    "https://www.piie.com/blogs/realtime-economics/2026/ai-could-do-my-first-job-not-my-last",
     "https://openai.com/index/introducing-intelligence-age"
   ]
 }

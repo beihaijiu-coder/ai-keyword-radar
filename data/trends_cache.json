@@ -2098,5 +2098,21 @@
   "together compiler": {
     "interest": 1,
     "checked_at": "2026-11-07T02:38:52.942927+00:00"
+  },
+  "ai agents handle": {
+    "interest": 3,
+    "checked_at": "2026-11-08T02:13:56.894911+00:00"
+  },
+  "ai agents handle everyday": {
+    "interest": 1,
+    "checked_at": "2026-11-08T02:14:06.872252+00:00"
+  },
+  "agents handle everyday": {
+    "interest": 1,
+    "checked_at": "2026-11-08T02:14:16.900876+00:00"
+  },
+  "ai frontiers": {
+    "interest": 1,
+    "checked_at": "2026-11-08T02:14:26.846753+00:00"
   }
 }

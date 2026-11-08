@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 72,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 68,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
     "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-    "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/",
-    "https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45"
+    "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/"
   ]
 }

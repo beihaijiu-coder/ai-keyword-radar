@@ -1,5 +1,5 @@
 {
-  "term": "AI Can",
+  "term": "AI can",
   "slug": "ai-can",
   "first_seen": "2026-06-06",
   "sources": [
@@ -14,8 +14,9 @@
   "opportunity_score": 59,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
-    "https://github.com/ohhbeehave35-commits/adamanteum-community",
+    "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
+    "https://opuslabs.substack.com/p/building-the-judgment-layer-for-hardware",
+    "https://www.physicl.ai/insights/inside-studio",
     "https://openai.com/index/the-work-now-within-reach"
   ]
 }
