@@ -6,17 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
-  "mention_count_history": 0,
-  "velocity_score": 100,
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://cacm.acm.org/blogcacm/the-real-cost-of-ai-code-shows-up-30-days-later/",
-    "https://mastodon.social/@bencurthoys/117563232404985385",
-    "https://news.ycombinator.com/item?id=50374984",
+    "https://thenewstack.io/scale-ai-code-reviews/",
+    "https://www.rxcode.dev/",
+    "https://regescode.com/",
     "https://openai.com/index/qodo-codex-plugin"
   ]
 }

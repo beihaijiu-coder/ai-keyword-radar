@@ -1,5 +1,5 @@
 {
-  "term": "AI research",
+  "term": "AI Research",
   "slug": "ai-research",
   "first_seen": "2026-06-16",
   "sources": [
@@ -14,8 +14,9 @@
   "opportunity_score": 72,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://arxiv.org/abs/2609.26457",
-    "https://foundinghires.tech/atlas.html",
+    "https://station-house.net/",
+    "https://app.station-house.net",
+    "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
     "https://openai.com/index/research-acceleration-view-inside-openai"
   ]
 }

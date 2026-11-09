@@ -14,10 +14,10 @@
   "opportunity_score": 78,
   "trend_note": "Recent mentions: 6; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
+    "https://modelrefs.com/",
+    "https://news.ycombinator.com/item?id=50413158",
     "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-    "https://github.com/meshapplied/Goethe",
-    "https://news.ycombinator.com/item?id=50394913",
-    "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
-    "https://soarhen.com/how-run-ai-in-low-vram/"
+    "https://github.com/meshapplied/Goethe"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "term": "open source AI",
+  "term": "Open Source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/matricphase-dot/aiops",
-    "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
-    "https://github.com/abhij1306/CiteLadder"
+    "https://station-house.net/",
+    "https://www.rxcode.dev/",
+    "https://news.ycombinator.com/item?id=50406105"
   ]
 }
