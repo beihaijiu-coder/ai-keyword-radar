@@ -6,18 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat",
-    "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
-    "https://matthewlloyd.github.io/ai-model-release-timeline/",
-    "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "https://openai.com/index/deployment-simulation"
+    "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html",
+    "https://taskrouter.com/tasks",
+    "https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do",
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
   ]
 }

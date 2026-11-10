@@ -1,20 +1,22 @@
 {
-  "term": "AI Slop",
+  "term": "AI slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://aless.tabnas.dev/",
-    "https://spectrum.ieee.org/ai-slop-trust-science",
-    "https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/"
+    "https://twitter.com/zhizdev/status/2119874095269707977",
+    "https://zonderlabs.com/slop",
+    "https://www.cbc.ca/news/canada/british-columbia/pen-paper-advertising-anti-artificial-intelligence-9.7409932",
+    "https://www.nature.com/articles/s41562-026-02639-6",
+    "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161"
   ]
 }

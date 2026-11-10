@@ -1,20 +1,22 @@
 {
-  "term": "AI Usage",
+  "term": "AI usage",
   "slug": "ai-usage",
   "first_seen": "2026-06-08",
   "sources": [
-    "hackernews"
+    "hackernews",
+    "rss"
   ],
   "mention_count_recent": 3,
-  "mention_count_history": 0,
-  "velocity_score": 90,
+  "mention_count_history": 1,
+  "velocity_score": 75,
   "search_gap_score": 63,
-  "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "source_diversity_score": 67,
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://blog.scottlogic.com/ceberhardt/rise-of-open-weights/",
-    "https://zenlyfinancial.com/",
-    "https://github.com/burakgon/ai-usage-menubar"
+    "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "https://0rwx.com/",
+    "http://0rwx.com",
+    "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
   ]
 }

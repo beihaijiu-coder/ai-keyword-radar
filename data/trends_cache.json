@@ -2118,5 +2118,9 @@
   "another ai": {
     "interest": 41,
     "checked_at": "2026-11-09T02:31:02.329696+00:00"
+  },
+  "ai agents use": {
+    "interest": 20,
+    "checked_at": "2026-11-10T04:33:17.878661+00:00"
   }
 }

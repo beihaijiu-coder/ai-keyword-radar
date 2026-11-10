@@ -5,15 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 64,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-    "https://lumi-geo.pages.dev/"
+    "https://github.com/XInTheDark/TimeScrollApp",
+    "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
+    "https://news.ycombinator.com/item?id=50419260",
+    "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit"
   ]
 }

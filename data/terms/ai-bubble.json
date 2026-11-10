@@ -1,20 +1,21 @@
 {
-  "term": "AI Bubble",
+  "term": "AI bubble",
   "slug": "ai-bubble",
   "first_seen": "2026-07-02",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://aibubblemonitor.com/analysis/dot-com-bubble-vs-ai-bubble-data-comparison",
-    "https://www.youtube.com/watch?v=dOIFazFlvlc",
-    "https://news.ycombinator.com/item?id=50390678"
+    "https://endtime-instruments.org/ai-bubble-tracker/",
+    "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+    "https://news.ycombinator.com/item?id=50421778",
+    "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
   ]
 }
