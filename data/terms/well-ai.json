@@ -1,0 +1,22 @@
+{
+  "term": "well AI",
+  "slug": "well-ai",
+  "first_seen": "2026-11-11",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 57,
+  "source_diversity_score": 67,
+  "opportunity_score": 66,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://arxiv.org/abs/2610.20344",
+    "https://aivisionindex.com/",
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "https://openai.com/index/lifeval"
+  ]
+}

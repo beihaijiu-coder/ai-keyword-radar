@@ -1,20 +1,22 @@
 {
-  "term": "Open Source AI",
+  "term": "Open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://station-house.net/",
-    "https://www.rxcode.dev/",
-    "https://news.ycombinator.com/item?id=50406105"
+    "https://github.com/alekseev04051988-blip/ai-cost-calculator",
+    "https://github.com/kadirb4rut/voxadub",
+    "https://github.com/DiegoZaluski/co-sh",
+    "https://github.com/PersonaliAI/chatty",
+    "https://news.ycombinator.com/item?id=50436493"
   ]
 }

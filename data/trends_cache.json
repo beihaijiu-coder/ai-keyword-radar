@@ -2122,5 +2122,21 @@
   "ai agents use": {
     "interest": 20,
     "checked_at": "2026-11-10T04:33:17.878661+00:00"
+  },
+  "fireworks ai": {
+    "interest": 16,
+    "checked_at": "2026-11-11T02:39:27.627326+00:00"
+  },
+  "well ai": {
+    "interest": 43,
+    "checked_at": "2026-11-11T02:39:37.502404+00:00"
+  },
+  "personal agents": {
+    "interest": 21,
+    "checked_at": "2026-11-11T02:39:47.534799+00:00"
+  },
+  "voice ai": {
+    "interest": 36,
+    "checked_at": "2026-11-11T02:39:57.513679+00:00"
   }
 }
