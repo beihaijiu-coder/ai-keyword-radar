@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 8,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 62,
   "source_diversity_score": 67,
   "opportunity_score": 78,
-  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50447699",
-    "https://news.ycombinator.com/item?id=50446617",
-    "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "https://aivisionindex.com/",
-    "https://aipicks.ca/"
+    "https://singularityhub.com/2026/11/11/ai-models-can-tell-when-researchers-plant-concepts-in-their-neural-networks-is-it-self-reflection/",
+    "https://news.ycombinator.com/item?id=50457018",
+    "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
+    "https://github.com/FrigadeHQ/yogurt",
+    "https://news.ycombinator.com/item?id=50447699"
   ]
 }

@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 99,
   "source_diversity_score": 33,
   "opportunity_score": 86,
-  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://barterpilot.com/",
-    "https://twitter.com/PietroMiotti/status/2120219901814043087",
-    "https://github.com/alex0ptr/aigude",
-    "https://github.com/gmpetrov/brigade",
-    "https://aivisionindex.com/"
+    "https://aispar.app/",
+    "https://aicoderating.com/",
+    "https://tylerthinking.com/purgatory/",
+    "https://barterpilot.com/"
   ]
 }

@@ -2138,5 +2138,25 @@
   "voice ai": {
     "interest": 36,
     "checked_at": "2026-11-11T02:39:57.513679+00:00"
+  },
+  "ai harness": {
+    "interest": 24,
+    "checked_at": "2026-11-12T03:42:52.357651+00:00"
+  },
+  "my ai agents": {
+    "interest": 16,
+    "checked_at": "2026-11-12T03:43:02.380523+00:00"
+  },
+  "my ai agents found": {
+    "interest": 0,
+    "checked_at": "2026-11-12T03:43:12.140706+00:00"
+  },
+  "ai agents found": {
+    "interest": 1,
+    "checked_at": "2026-11-12T03:43:22.375604+00:00"
+  },
+  "agents found": {
+    "interest": 8,
+    "checked_at": "2026-11-12T03:43:32.268824+00:00"
   }
 }

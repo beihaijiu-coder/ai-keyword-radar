@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 9,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "https://github.com/shanjeevrajendran/cloakroom",
-    "https://thunderphone.com/blog/introducing-zeus",
-    "https://apptraction.dev"
+    "https://github.com/yakkomajuri/lynx",
+    "https://solomon-b.github.io/dogfood-bench/",
+    "https://github.com/hubzoid/hubzoid",
+    "https://infisical.com/blog/dont-give-ai-agents-your-env",
+    "https://ecc.kodelyth.com"
   ]
 }

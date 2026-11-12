@@ -1,20 +1,21 @@
 {
-  "term": "AI coding",
+  "term": "AI Coding",
   "slug": "ai-coding",
   "first_seen": "2026-08-27",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://danielbmarkham.com/blog/thoughts-on-ai-coding",
-    "https://github.com/dirmedmr-alt/ai-access-auditor",
-    "https://antelog.dev/"
+    "https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii",
+    "https://apps.apple.com/us/app/hex-soccer-dice-football/id6830311319",
+    "https://isoburlington.com",
+    "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex"
   ]
 }
