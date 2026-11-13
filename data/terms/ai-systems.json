@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 86,
   "source_diversity_score": 33,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10",
-    "https://www.nngroup.com/articles/big-ball-of-mud-ai/",
-    "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/",
-    "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/"
+    "https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai",
+    "https://news.ycombinator.com/item?id=50471281",
+    "https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w"
   ]
 }
