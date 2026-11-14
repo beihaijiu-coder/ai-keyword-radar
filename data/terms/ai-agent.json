@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 10,
+  "mention_count_recent": 8,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 10; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50471281",
-    "https://www.heysenku.com/",
-    "https://therecord.media/kazakhstan-hackers-central-asia",
-    "https://upstar.dev/",
-    "https://closed.sh"
+    "https://www.youtube.com/watch?v=q0Q-Hy8TTps",
+    "https://www.mellonbot.app",
+    "https://github.com/Dodaios/Dodaios",
+    "https://railyard.run/blog/ai-agent-read-only-sql/",
+    "https://github.com/vosidov-msaid/Mandat"
   ]
 }

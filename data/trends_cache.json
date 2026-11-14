@@ -2158,5 +2158,49 @@
   "agents found": {
     "interest": 8,
     "checked_at": "2026-11-12T03:43:32.268824+00:00"
+  },
+  "faa expands ai": {
+    "interest": 2,
+    "checked_at": "2026-11-14T02:59:11.853427+00:00"
+  },
+  "faa expands ai advice": {
+    "interest": 1,
+    "checked_at": "2026-11-14T02:59:21.852392+00:00"
+  },
+  "expands ai": {
+    "interest": 2,
+    "checked_at": "2026-11-14T02:59:31.864528+00:00"
+  },
+  "expands ai advice": {
+    "interest": 1,
+    "checked_at": "2026-11-14T02:59:41.858015+00:00"
+  },
+  "ai advice": {
+    "interest": 30,
+    "checked_at": "2026-11-14T02:59:51.863802+00:00"
+  },
+  "chinese ai labs": {
+    "interest": 0,
+    "checked_at": "2026-11-14T03:00:01.863438+00:00"
+  },
+  "chinese ai labs built": {
+    "interest": 0,
+    "checked_at": "2026-11-14T03:00:11.866477+00:00"
+  },
+  "ai labs built": {
+    "interest": 0,
+    "checked_at": "2026-11-14T03:00:21.899279+00:00"
+  },
+  "ai labs built their": {
+    "interest": 0,
+    "checked_at": "2026-11-14T03:00:31.849233+00:00"
+  },
+  "nvidia blackwell": {
+    "interest": 26,
+    "checked_at": "2026-11-14T03:01:01.928041+00:00"
+  },
+  "agents have": {
+    "interest": 15,
+    "checked_at": "2026-11-14T03:01:11.932035+00:00"
   }
 }

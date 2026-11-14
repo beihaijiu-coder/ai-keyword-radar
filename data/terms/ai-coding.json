@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
   "opportunity_score": 75,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50473926",
-    "https://brian.biz/blog/ai-agents-keep-it-working/",
-    "https://www.harness.io/blog/why-ai-coding-agents-lose-context-after-pr",
-    "https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii",
-    "https://apps.apple.com/us/app/hex-soccer-dice-football/id6830311319"
+    "https://github.com/simbaTmotsi/simba-skills",
+    "https://rainshare.dev/",
+    "https://news.ycombinator.com/item?id=50485228",
+    "https://algocademy.com/ai-coding-practice/",
+    "https://cloudhike.dev"
   ]
 }

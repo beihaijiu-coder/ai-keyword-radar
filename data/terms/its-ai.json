@@ -1,22 +1,23 @@
 {
-  "term": "Its AI",
+  "term": "its AI",
   "slug": "its-ai",
   "first_seen": "2026-06-23",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 67,
-  "opportunity_score": 67,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 77,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-    "https://theainewsreport.com/2026-10-27-openai-exponential-time-hypothesis-false-runtime-lean-explained.html",
-    "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down/",
+    "https://finance.yahoo.com/technology/ai/articles/anthropic-says-ai-model-cut-154824196.html",
+    "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
     "https://openai.com/index/itau-generative-ai"
   ]
 }

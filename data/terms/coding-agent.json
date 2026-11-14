@@ -5,17 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 76,
   "source_diversity_score": 33,
   "opportunity_score": 77,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://news.ycombinator.com/item?id=50455811",
-    "https://github.com/klad-app/klad",
-    "https://github.com/Crokily/pi-durable-bot",
-    "https://flaviocopes.com/zcode/"
+    "https://portofcontext.com",
+    "https://djangocontrolroom.com/build",
+    "https://cloudhike.dev",
+    "https://wonderchat.io/",
+    "https://github.com/cerulion-inc/cerulion"
   ]
 }

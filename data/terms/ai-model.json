@@ -1,22 +1,23 @@
 {
-  "term": "AI model",
+  "term": "AI Model",
   "slug": "ai-model",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 71,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 81,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://dedoomify.com/",
-    "https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/",
-    "https://thunderphone.com/blog/introducing-zeus",
+    "https://saif.org/research/model-specs/",
+    "https://www.youtube.com/watch?v=u-yf-HlKhxU",
+    "https://wonderchat.io/",
+    "https://finance.yahoo.com/technology/ai/articles/anthropic-says-ai-model-cut-154824196.html",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
   ]
 }
