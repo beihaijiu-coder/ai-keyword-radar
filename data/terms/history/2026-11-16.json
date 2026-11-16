@@ -1,0 +1,239 @@
+{
+  "updated_at": "2026-11-16T02:39:21.378192+00:00",
+  "terms": [
+    {
+      "term": "Local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.webmodels.dev/",
+        "https://www.wiyomi.com/",
+        "https://www.youtube.com/watch?v=_e2dk4Pothw",
+        "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "https://huggingface.co/blog/webgpu-kernels"
+      ]
+    },
+    {
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 82,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=HxdQawDIlnU",
+        "https://www.wiyomi.com/",
+        "https://pizza.hertzbeat.com/"
+      ]
+    },
+    {
+      "term": "Jensen Huang",
+      "slug": "jensen-huang",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 80,
+      "source_diversity_score": 33,
+      "opportunity_score": 79,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+        "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+        "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      ]
+    },
+    {
+      "term": "AI models",
+      "slug": "ai-models",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 7,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 62,
+      "source_diversity_score": 67,
+      "opportunity_score": 78,
+      "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://galleries.artfish.ai/aquarium/",
+        "https://www.webmodels.dev/",
+        "https://github.com/zk4x/skamandros",
+        "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+        "https://news.ycombinator.com/item?id=50502344"
+      ]
+    },
+    {
+      "term": "AI coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 6,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 33,
+      "opportunity_score": 75,
+      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://finance.biggo.com/news/71888475bad974d6",
+        "https://github.com/gitseed-dev/gitseed",
+        "https://josh.earth/2026/11/14/writing-is-thinking",
+        "https://flaient.com/",
+        "https://github.com/dirmedmr-alt/ai-access-auditor"
+      ]
+    },
+    {
+      "term": "Miami International Airport",
+      "slug": "miami-international-airport",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 79,
+      "source_diversity_score": 33,
+      "opportunity_score": 74,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.gulfcoastnewsnow.com/article/planes-collide-at-miami-international-airport/74431861",
+        "https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 8,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://pizza.hertzbeat.com/",
+        "https://flashvmm.com/",
+        "https://github.com/Scronkfinkle/byob",
+        "https://agline.in/mcp",
+        "https://github.com/erson/awesome-agent-orchestrators/"
+      ]
+    },
+    {
+      "term": "AI model",
+      "slug": "ai-model",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 68,
+      "source_diversity_score": 67,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://maccus.fr/en/eu-open-ai-model-europa/",
+        "https://www.nature.com/articles/s41467-026-75653-x",
+        "https://www.sunsetlint.com",
+        "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+      ]
+    },
+    {
+      "term": "What AI",
+      "slug": "what-ai",
+      "first_seen": "2026-06-19",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://attest-framework.github.io/",
+        "https://news.ycombinator.com/item?id=50503017",
+        "https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us"
+      ]
+    },
+    {
+      "term": "AI Music",
+      "slug": "ai-music",
+      "first_seen": "2026-08-12",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 49,
+      "source_diversity_score": 33,
+      "opportunity_score": 66,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=4NExTWq_wvk",
+        "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+        "https://yvd.io/",
+        "https://www.youtube.com/watch?v=drjltnetKtQ"
+      ]
+    },
+    {
+      "term": "AI can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 59,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://www.nature.com/articles/d41586-025-00649-4",
+        "https://news.ycombinator.com/item?id=50498553",
+        "https://openos.space",
+        "https://openai.com/index/the-work-now-within-reach"
+      ]
+    }
+  ]
+}

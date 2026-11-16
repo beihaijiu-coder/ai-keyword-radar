@@ -6,18 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://maccus.fr/en/eu-open-ai-model-europa/",
     "https://www.nature.com/articles/s41467-026-75653-x",
     "https://www.sunsetlint.com",
-    "https://saif.org/research/model-specs/",
-    "https://www.youtube.com/watch?v=u-yf-HlKhxU",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
   ]
 }
