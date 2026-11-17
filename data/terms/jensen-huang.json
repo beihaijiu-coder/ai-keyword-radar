@@ -5,16 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 80,
   "source_diversity_score": 33,
-  "opportunity_score": 79,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 75,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
-    "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
-    "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+    "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+    "https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-us-china-ai-tech-decoupling-6552516"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "term": "United Airlines",
+  "slug": "united-airlines",
+  "first_seen": "2026-11-17",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 4,
+  "mention_count_history": 0,
+  "velocity_score": 100,
+  "search_gap_score": 91,
+  "source_diversity_score": 33,
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://news.ycombinator.com/item?id=50525469",
+    "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+    "https://www.nbcchicago.com/news/local/united-airlines-experiencing-widespread-system-outage/4017556/",
+    "https://www.cnn.com/2026/11/16/us/united-airlines-outage"
+  ]
+}

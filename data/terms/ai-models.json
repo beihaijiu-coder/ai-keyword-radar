@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 5,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 62,
   "source_diversity_score": 67,
   "opportunity_score": 78,
-  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/",
+    "https://bendyline.com/posts/docbench.html",
+    "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
     "https://galleries.artfish.ai/aquarium/",
-    "https://www.webmodels.dev/",
-    "https://github.com/zk4x/skamandros",
-    "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
-    "https://news.ycombinator.com/item?id=50502344"
+    "https://www.webmodels.dev/"
   ]
 }

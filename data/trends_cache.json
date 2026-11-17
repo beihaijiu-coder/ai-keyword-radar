@@ -2210,5 +2210,13 @@
   "miami international airport": {
     "interest": 21,
     "checked_at": "2026-11-16T02:39:37.254021+00:00"
+  },
+  "united airlines": {
+    "interest": 9,
+    "checked_at": "2026-11-17T05:00:32.380379+00:00"
+  },
+  "artex ai": {
+    "interest": 11,
+    "checked_at": "2026-11-17T05:00:52.385128+00:00"
   }
 }

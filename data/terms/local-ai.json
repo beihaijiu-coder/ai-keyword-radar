@@ -1,5 +1,5 @@
 {
-  "term": "Local AI",
+  "term": "local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 83,
   "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://bendyline.com/posts/docbench.html",
+    "https://irrigator.dev/",
     "https://www.webmodels.dev/",
-    "https://www.wiyomi.com/",
-    "https://www.youtube.com/watch?v=_e2dk4Pothw",
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
     "https://huggingface.co/blog/webgpu-kernels"
   ]

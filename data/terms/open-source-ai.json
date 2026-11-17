@@ -1,5 +1,5 @@
 {
-  "term": "Open source AI",
+  "term": "open source AI",
   "slug": "open-source-ai",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,10 +13,10 @@
   "opportunity_score": 77,
   "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/alekseev04051988-blip/ai-cost-calculator",
-    "https://github.com/kadirb4rut/voxadub",
-    "https://github.com/DiegoZaluski/co-sh",
-    "https://github.com/PersonaliAI/chatty",
-    "https://news.ycombinator.com/item?id=50436493"
+    "https://github.com/openstatusHQ/stromboli",
+    "https://blog.ostorlab.co/artex-ai-pentest-framework-threat.html",
+    "https://coderbaba.si",
+    "https://github.com/grapim/grapim",
+    "https://github.com/andausman/comemo"
   ]
 }
