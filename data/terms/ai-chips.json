@@ -1,22 +1,20 @@
 {
-  "term": "AI chips",
+  "term": "AI Chips",
   "slug": "ai-chips",
   "first_seen": "2026-10-04",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 74,
   "source_diversity_score": 33,
-  "opportunity_score": 76,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
-    "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
-    "https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f",
-    "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips",
-    "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
+    "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
+    "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
   ]
 }

@@ -5,16 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 6,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 63,
   "source_diversity_score": 33,
-  "opportunity_score": 68,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 72,
+  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
-    "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-    "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/"
+    "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f",
+    "https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them",
+    "https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-center-cheaper-gas",
+    "https://mainstreetwealth.ai/ai-data-brokerage",
+    "https://mainstreetwealth.ai/datasets"
   ]
 }
