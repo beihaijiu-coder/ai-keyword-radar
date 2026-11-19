@@ -5,18 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
   "opportunity_score": 75,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "https://news.ycombinator.com/item?id=50535157",
-    "https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/",
-    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-    "https://news.ycombinator.com/item?id=50525469"
+    "https://github.com/ViviBeri/webcraft-pro",
+    "https://news.ycombinator.com/item?id=50548343",
+    "https://github.com/adityadebnath009/Project-M",
+    "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
   ]
 }

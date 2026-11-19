@@ -5,16 +5,17 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 81,
   "source_diversity_score": 33,
-  "opportunity_score": 75,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "opportunity_score": 79,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://twitter.com/deanwball/status/2078133895766114412",
-    "https://github.com/adgapar/teya",
-    "https://stateofopensource.ai/"
+    "https://intrusive.ai/",
+    "https://www.youtube.com/watch?v=siy0744Ykys",
+    "https://github.com/taoeffect/dez",
+    "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
   ]
 }

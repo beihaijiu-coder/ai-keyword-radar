@@ -6,18 +6,18 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 7,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 68,
   "source_diversity_score": 67,
   "opportunity_score": 81,
-  "trend_note": "Recent mentions: 7; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://orpheic.com/decoders/",
     "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-    "https://modelrefs.com/",
-    "https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f",
-    "https://news.ycombinator.com/item?id=50533438",
-    "https://aispar.app"
+    "https://twitter.com/MGately_au/status/2122780345947017287",
+    "https://news.ycombinator.com/item?id=50542654",
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
   ]
 }

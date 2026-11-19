@@ -1,5 +1,5 @@
 {
-  "term": "Agents Need",
+  "term": "agents need",
   "slug": "agents-need",
   "first_seen": "2026-06-11",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 75,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://github.com/onecli/onecli",
-    "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
-    "https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6/"
+    "https://www.kradle.ai?1",
+    "http://www.kradle.ai",
+    "https://news.ycombinator.com/item?id=50549188"
   ]
 }

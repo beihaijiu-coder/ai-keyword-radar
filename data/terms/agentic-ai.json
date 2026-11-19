@@ -1,5 +1,5 @@
 {
-  "term": "agentic AI",
+  "term": "Agentic AI",
   "slug": "agentic-ai",
   "first_seen": "2026-06-06",
   "sources": [
@@ -14,9 +14,9 @@
   "opportunity_score": 68,
   "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
+    "https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/",
     "https://github.com/eltzanis/SystemOneAgents",
-    "https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/",
-    "https://glyphzerolabs.com/blog/2026-04-17-agentic-ai-attacks/",
     "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "term": "AI Coding Agents",
+  "term": "AI coding agents",
   "slug": "ai-coding-agents",
   "first_seen": "2026-08-28",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 82,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
   "example_links": [
-    "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/",
-    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+    "https://github.com/ViviBeri/webcraft-pro",
+    "https://github.com/adityadebnath009/Project-M",
+    "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
   ]
 }
