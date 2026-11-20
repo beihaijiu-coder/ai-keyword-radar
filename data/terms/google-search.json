@@ -1,0 +1,22 @@
+{
+  "term": "Google Search",
+  "slug": "google-search",
+  "first_seen": "2026-11-20",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 1,
+  "velocity_score": 75,
+  "search_gap_score": 21,
+  "source_diversity_score": 67,
+  "opportunity_score": 52,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is already visible, so move quickly.",
+  "example_links": [
+    "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
+    "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+  ]
+}

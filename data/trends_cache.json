@@ -2230,5 +2230,9 @@
   "world model": {
     "interest": 42,
     "checked_at": "2026-11-19T04:03:13.777064+00:00"
+  },
+  "google search": {
+    "interest": 79,
+    "checked_at": "2026-11-20T03:55:13.925008+00:00"
   }
 }
