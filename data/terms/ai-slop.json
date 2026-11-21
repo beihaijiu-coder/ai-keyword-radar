@@ -1,20 +1,21 @@
 {
-  "term": "AI slop",
+  "term": "AI Slop",
   "slug": "ai-slop",
   "first_seen": "2026-06-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 58,
   "source_diversity_score": 33,
-  "opportunity_score": 66,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 70,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/replit/datacat",
-    "https://changelog.complete.org/archives/45166-what-is-this-ai-slop-bug-report-trying-to-achieve",
-    "https://defector.com/theres-a-new-disruptor-throwing-terrible-ai-slop-at-sports-fans"
+    "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+    "https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf",
+    "https://news.ycombinator.com/item?id=50570283",
+    "https://github.com/replit/datacat"
   ]
 }

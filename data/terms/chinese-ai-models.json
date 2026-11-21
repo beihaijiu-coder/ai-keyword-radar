@@ -1,0 +1,20 @@
+{
+  "term": "Chinese AI models",
+  "slug": "chinese-ai-models",
+  "first_seen": "2026-11-21",
+  "sources": [
+    "hackernews"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 98,
+  "source_diversity_score": 33,
+  "opportunity_score": 82,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+  "example_links": [
+    "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+    "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+    "https://www.cnbc.com/2026/11/20/cursor-"
+  ]
+}

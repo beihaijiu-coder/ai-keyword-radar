@@ -1,20 +1,22 @@
 {
-  "term": "When AI",
+  "term": "when AI",
   "slug": "when-ai",
   "first_seen": "2026-07-07",
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://saturnsql.com/context-layer",
+    "https://github.com/prathikmurugan/jsonbit",
+    "https://alok929699.substack.com/p/agentic-ads-how-advertising-changes",
     "https://pathtoship.com/blog/when-ai-built-apps-actually-break",
-    "https://www.latolabs.io/studies/ear-to-the-ground/",
-    "https://open.spotify.com/episode/6AcIzPDTkFQoD2t0esNuA9"
+    "https://www.latolabs.io/studies/ear-to-the-ground/"
   ]
 }

@@ -1,23 +1,22 @@
 {
-  "term": "AI model",
+  "term": "AI Model",
   "slug": "ai-model",
   "first_seen": "2026-06-06",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 1,
-  "velocity_score": 100,
+  "velocity_score": 75,
   "search_gap_score": 68,
   "source_diversity_score": 67,
-  "opportunity_score": 81,
-  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 71,
+  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://orpheic.com/decoders/",
-    "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-    "https://twitter.com/MGately_au/status/2122780345947017287",
-    "https://news.ycombinator.com/item?id=50542654",
+    "https://teamorouter.com/blogs/gestalt-ai-model",
+    "https://shaungallagher.pressbin.com/blog/lipogram.html",
+    "https://thunderphone.com/blog/introducing-zeus",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
   ]
 }

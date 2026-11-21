@@ -2234,5 +2234,21 @@
   "google search": {
     "interest": 79,
     "checked_at": "2026-11-20T03:55:13.925008+00:00"
+  },
+  "ai we": {
+    "interest": 20,
+    "checked_at": "2026-11-21T03:52:25.882320+00:00"
+  },
+  "chinese ai models": {
+    "interest": 2,
+    "checked_at": "2026-11-21T03:52:35.678642+00:00"
+  },
+  "web browser": {
+    "interest": 32,
+    "checked_at": "2026-11-21T03:52:45.805648+00:00"
+  },
+  "ai which": {
+    "interest": 21,
+    "checked_at": "2026-11-21T03:52:55.777063+00:00"
   }
 }
