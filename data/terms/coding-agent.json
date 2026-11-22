@@ -1,5 +1,5 @@
 {
-  "term": "coding agent",
+  "term": "Coding Agent",
   "slug": "coding-agent",
   "first_seen": "2026-06-06",
   "sources": [
@@ -13,8 +13,8 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://cerin.space",
-    "https://coderbaba.si",
-    "https://github.com/Joystonm/furnish/"
+    "http://ricapar.net/ClawDOS/",
+    "https://xsquads.ai",
+    "https://enola.tech/blog/agent-memory-needs-a-code-reference"
   ]
 }

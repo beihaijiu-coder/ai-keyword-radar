@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 15,
+  "mention_count_recent": 12,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 15; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 12; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://arkviz.io",
-    "https://play.outbid.sh",
-    "https://github.com/senko/swb",
-    "https://github.com/ShieldaAI/agent-guard",
-    "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/"
+    "https://ilion-project.org/lab/",
+    "https://www.jkfsom.com/writing/four-levels-of-agentic-commerce/",
+    "https://github.com/srpadmanabhuni/agentest",
+    "https://clawvet.vercel.app/",
+    "https://arkviz.io"
   ]
 }

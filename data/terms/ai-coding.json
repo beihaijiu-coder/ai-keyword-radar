@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
   "opportunity_score": 75,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/mrzdevcore/intent-graph",
+    "http://ricapar.net/ClawDOS/",
     "https://news.ycombinator.com/item?id=50582890",
     "https://arkviz.io",
-    "https://enola.tech/blog/agent-memory-needs-a-code-reference",
-    "https://sandscale.dev",
-    "https://spectrum.ieee.org/epic-games-unreal-engine-ai"
+    "https://enola.tech/blog/agent-memory-needs-a-code-reference"
   ]
 }
