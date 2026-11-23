@@ -1,44 +1,26 @@
 {
-  "updated_at": "2026-11-22T02:56:16.433118+00:00",
+  "updated_at": "2026-11-23T03:38:10.881805+00:00",
   "terms": [
     {
-      "term": "Hi HN",
-      "slug": "hi-hn",
-      "first_seen": "2026-06-09",
+      "term": "about AI",
+      "slug": "about-ai",
+      "first_seen": "2026-06-08",
       "sources": [
-        "hackernews"
+        "hackernews",
+        "rss"
       ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 99,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 75,
+      "source_diversity_score": 67,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://news.ycombinator.com/item?id=50588314",
-        "https://arkviz.io",
-        "https://www.vaticin.ai"
-      ]
-    },
-    {
-      "term": "Chinese AI models",
-      "slug": "chinese-ai-models",
-      "first_seen": "2026-11-21",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 98,
-      "source_diversity_score": 33,
-      "opportunity_score": 82,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
-      "example_links": [
-        "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
-        "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-        "https://www.cnbc.com/2026/11/20/cursor-"
+        "https://www.youtube.com/watch?v=_Zzv15cwG1A",
+        "https://tirania.org/blog/archive/2026/Nov-20.html",
+        "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+        "https://openai.com/index/partnering-with-codeai"
       ]
     },
     {
@@ -49,13 +31,13 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 12,
+      "mention_count_recent": 10,
       "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 62,
       "source_diversity_score": 67,
       "opportunity_score": 78,
-      "trend_note": "Recent mentions: 12; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 10; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
         "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
         "https://nistivo.com/",
@@ -65,150 +47,45 @@
       ]
     },
     {
-      "term": "AI coding",
-      "slug": "ai-coding",
-      "first_seen": "2026-08-27",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 7,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 70,
-      "source_diversity_score": 33,
-      "opportunity_score": 75,
-      "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://github.com/mrzdevcore/intent-graph",
-        "http://ricapar.net/ClawDOS/",
-        "https://news.ycombinator.com/item?id=50582890",
-        "https://arkviz.io",
-        "https://enola.tech/blog/agent-memory-needs-a-code-reference"
-      ]
-    },
-    {
       "term": "AI agent",
       "slug": "ai-agent",
       "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 12,
+      "mention_count_recent": 9,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 66,
       "source_diversity_score": 33,
       "opportunity_score": 73,
-      "trend_note": "Recent mentions: 12; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://ilion-project.org/lab/",
-        "https://www.jkfsom.com/writing/four-levels-of-agentic-commerce/",
-        "https://github.com/srpadmanabhuni/agentest",
-        "https://clawvet.vercel.app/",
-        "https://arkviz.io"
+        "https://github.com/salespeak-ai/inbox-envoy",
+        "https://asi.anahata.uno/ifptoasi/greenpaper.html",
+        "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
+        "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "https://theagentdoctor.com/"
       ]
     },
     {
-      "term": "No AI",
-      "slug": "no-ai",
-      "first_seen": "2026-06-09",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 4,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 66,
-      "source_diversity_score": 33,
-      "opportunity_score": 73,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
-        "https://www.youtube.com/watch?v=TTppvBU2rU4",
-        "https://hubbub.page",
-        "https://channel.is/"
-      ]
-    },
-    {
-      "term": "Coding Agent",
-      "slug": "coding-agent",
-      "first_seen": "2026-06-06",
+      "term": "AI startup",
+      "slug": "ai-startup",
+      "first_seen": "2026-07-20",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 76,
-      "source_diversity_score": 33,
-      "opportunity_score": 73,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "http://ricapar.net/ClawDOS/",
-        "https://xsquads.ai",
-        "https://enola.tech/blog/agent-memory-needs-a-code-reference"
-      ]
-    },
-    {
-      "term": "Chinese AI",
-      "slug": "chinese-ai",
-      "first_seen": "2026-06-21",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 74,
-      "source_diversity_score": 33,
-      "opportunity_score": 72,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
-        "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-        "https://www.cnbc.com/2026/11/20/cursor-"
-      ]
-    },
-    {
-      "term": "AI Trade",
-      "slug": "ai-trade",
-      "first_seen": "2026-10-23",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 70,
+      "search_gap_score": 72,
       "source_diversity_score": 33,
       "opportunity_score": 71,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-        "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
-        "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/"
-      ]
-    },
-    {
-      "term": "Claude Code",
-      "slug": "claude-code",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 59,
-      "source_diversity_score": 33,
-      "opportunity_score": 70,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://news.ycombinator.com/item?id=50593162",
-        "https://klistra.ai",
-        "https://xsquads.ai",
-        "https://trichroma.namirsab.dev/",
-        "https://arkviz.io"
+        "https://news.ycombinator.com/item?id=50602740",
+        "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
+        "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"
       ]
     },
     {
@@ -226,10 +103,10 @@
       "opportunity_score": 70,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://www.flyingpenguin.com/ai-slop-as-a-service-why-microsoft-won-but-the-soviets-lost/",
         "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
         "https://libreboot.org/news/clankers.html",
-        "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
-        "https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf"
+        "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html"
       ]
     },
     {
@@ -248,48 +125,71 @@
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
         "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
-        "https://news.ycombinator.com/item?id=50584623",
-        "https://schottentotten.com/?src=hn"
+        "https://news.ycombinator.com/item?id=50584623"
       ]
     },
     {
-      "term": "web browser",
-      "slug": "web-browser",
-      "first_seen": "2026-11-21",
+      "term": "AI can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://plantsresearch.pro/chess-lab",
+        "https://news.ycombinator.com/item?id=50603705",
+        "https://ishadeodhar.substack.com/p/the-case-for-why-ai-can-never-replace",
+        "https://news.ycombinator.com/item?id=50588314",
+        "https://openai.com/index/the-work-now-within-reach"
+      ]
+    },
+    {
+      "term": "No AI",
+      "slug": "no-ai",
+      "first_seen": "2026-06-09",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 3,
       "mention_count_history": 0,
       "velocity_score": 90,
-      "search_gap_score": 68,
+      "search_gap_score": 66,
       "source_diversity_score": 33,
-      "opportunity_score": 70,
+      "opportunity_score": 69,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://blog.senko.net/ai-is-building-me-a-web-browser",
-        "https://github.com/senko/swb"
+        "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
+        "https://www.youtube.com/watch?v=TTppvBU2rU4",
+        "https://hubbub.page"
       ]
     },
     {
-      "term": "When AI",
-      "slug": "when-ai",
-      "first_seen": "2026-07-07",
+      "term": "Can AI",
+      "slug": "can-ai",
+      "first_seen": "2026-07-04",
       "sources": [
-        "hackernews"
+        "hackernews",
+        "rss"
       ],
-      "mention_count_recent": 4,
+      "mention_count_recent": 3,
       "mention_count_history": 0,
-      "velocity_score": 100,
-      "search_gap_score": 50,
-      "source_diversity_score": 33,
-      "opportunity_score": 67,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "velocity_score": 90,
+      "search_gap_score": 39,
+      "source_diversity_score": 67,
+      "opportunity_score": 65,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
-        "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
-        "https://saturnsql.com/context-layer",
-        "https://github.com/prathikmurugan/jsonbit",
-        "https://alok929699.substack.com/p/agentic-ads-how-advertising-changes"
+        "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/",
+        "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+        "https://openai.com/index/introducing-medchembench"
       ]
     }
   ]

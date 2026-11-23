@@ -1,0 +1,196 @@
+{
+  "updated_at": "2026-11-23T03:38:10.881805+00:00",
+  "terms": [
+    {
+      "term": "about AI",
+      "slug": "about-ai",
+      "first_seen": "2026-06-08",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 75,
+      "source_diversity_score": 67,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.youtube.com/watch?v=_Zzv15cwG1A",
+        "https://tirania.org/blog/archive/2026/Nov-20.html",
+        "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+        "https://openai.com/index/partnering-with-codeai"
+      ]
+    },
+    {
+      "term": "AI models",
+      "slug": "ai-models",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 10,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 62,
+      "source_diversity_score": 67,
+      "opportunity_score": 78,
+      "trend_note": "Recent mentions: 10; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
+        "https://nistivo.com/",
+        "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+        "https://unmark.grandimam.com/",
+        "https://uplinkswitch.ai"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 9,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/salespeak-ai/inbox-envoy",
+        "https://asi.anahata.uno/ifptoasi/greenpaper.html",
+        "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
+        "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "https://theagentdoctor.com/"
+      ]
+    },
+    {
+      "term": "AI startup",
+      "slug": "ai-startup",
+      "first_seen": "2026-07-20",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 72,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.ycombinator.com/item?id=50602740",
+        "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
+        "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"
+      ]
+    },
+    {
+      "term": "AI Slop",
+      "slug": "ai-slop",
+      "first_seen": "2026-06-07",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 58,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.flyingpenguin.com/ai-slop-as-a-service-why-microsoft-won-but-the-soviets-lost/",
+        "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
+        "https://libreboot.org/news/clankers.html",
+        "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html"
+      ]
+    },
+    {
+      "term": "AI I",
+      "slug": "ai-i",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 68,
+      "source_diversity_score": 33,
+      "opportunity_score": 70,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+        "https://news.ycombinator.com/item?id=50584623"
+      ]
+    },
+    {
+      "term": "AI can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://plantsresearch.pro/chess-lab",
+        "https://news.ycombinator.com/item?id=50603705",
+        "https://ishadeodhar.substack.com/p/the-case-for-why-ai-can-never-replace",
+        "https://news.ycombinator.com/item?id=50588314",
+        "https://openai.com/index/the-work-now-within-reach"
+      ]
+    },
+    {
+      "term": "No AI",
+      "slug": "no-ai",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
+        "https://www.youtube.com/watch?v=TTppvBU2rU4",
+        "https://hubbub.page"
+      ]
+    },
+    {
+      "term": "Can AI",
+      "slug": "can-ai",
+      "first_seen": "2026-07-04",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 39,
+      "source_diversity_score": 67,
+      "opportunity_score": 65,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/",
+        "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+        "https://openai.com/index/introducing-medchembench"
+      ]
+    }
+  ]
+}

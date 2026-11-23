@@ -5,17 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 4,
+  "mention_count_recent": 3,
   "mention_count_history": 0,
-  "velocity_score": 100,
+  "velocity_score": 90,
   "search_gap_score": 66,
   "source_diversity_score": 33,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
     "https://www.youtube.com/watch?v=TTppvBU2rU4",
-    "https://hubbub.page",
-    "https://channel.is/"
+    "https://hubbub.page"
   ]
 }

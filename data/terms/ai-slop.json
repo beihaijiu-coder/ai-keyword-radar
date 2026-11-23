@@ -13,9 +13,9 @@
   "opportunity_score": 70,
   "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://www.flyingpenguin.com/ai-slop-as-a-service-why-microsoft-won-but-the-soviets-lost/",
     "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
     "https://libreboot.org/news/clankers.html",
-    "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
-    "https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf"
+    "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html"
   ]
 }
