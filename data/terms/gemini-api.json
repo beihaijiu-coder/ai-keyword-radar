@@ -1,0 +1,21 @@
+{
+  "term": "Gemini API",
+  "slug": "gemini-api",
+  "first_seen": "2026-11-24",
+  "sources": [
+    "hackernews",
+    "rss"
+  ],
+  "mention_count_recent": 3,
+  "mention_count_history": 0,
+  "velocity_score": 90,
+  "search_gap_score": 67,
+  "source_diversity_score": 67,
+  "opportunity_score": 76,
+  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "example_links": [
+    "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+    "https://maido.place",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+  ]
+}

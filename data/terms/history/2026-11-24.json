@@ -1,0 +1,366 @@
+{
+  "updated_at": "2026-11-24T06:52:47.686079+00:00",
+  "terms": [
+    {
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://outloudreader.app/",
+        "https://news.ycombinator.com/item?id=50620275",
+        "https://trucehq.com/agents",
+        "https://codeyam.com/apps/cadyam"
+      ]
+    },
+    {
+      "term": "AI Coding Agents",
+      "slug": "ai-coding-agents",
+      "first_seen": "2026-08-28",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 98,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://jurajb.dev/coding-agents-mostly-waiting/",
+        "https://www.okteto.com/blog/how-to-run-ai-coding-agents-on-kubernetes/",
+        "https://kudelskisecurity.com/research/sandboxing-coding-agents",
+        "https://www.superlogical.com/updates/public-testing-beginning"
+      ]
+    },
+    {
+      "term": "AI code",
+      "slug": "ai-code",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 68,
+      "source_diversity_score": 67,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://getstream.io/blog/local-video-audit-skill/",
+        "https://leaddev.com/the-ai-code-review-report-2026",
+        "https://github.com/dharmeshgurnani/CodeOtter",
+        "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
+        "https://openai.com/index/qodo-codex-plugin"
+      ]
+    },
+    {
+      "term": "AI code review",
+      "slug": "ai-code-review",
+      "first_seen": "2026-07-28",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 1,
+      "velocity_score": 75,
+      "search_gap_score": 94,
+      "source_diversity_score": 67,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://leaddev.com/the-ai-code-review-report-2026",
+        "https://github.com/dharmeshgurnani/CodeOtter",
+        "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
+        "https://openai.com/index/qodo-codex-plugin"
+      ]
+    },
+    {
+      "term": "AI can help",
+      "slug": "ai-can-help",
+      "first_seen": "2026-11-24",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 77,
+      "source_diversity_score": 67,
+      "opportunity_score": 80,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
+        "https://news.ycombinator.com/item?id=50603705",
+        "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+      ]
+    },
+    {
+      "term": "AI models",
+      "slug": "ai-models",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 62,
+      "source_diversity_score": 67,
+      "opportunity_score": 78,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://twitter.com/Harman26Singh/status/2124911857064640826",
+        "https://www.techspot.com/news/114656-newer-ai-models-swearing-more-usually-means-theyre.html",
+        "https://openai.com/index/perplexity-and-intelligence",
+        "https://openai.com/index/introducing-medchembench"
+      ]
+    },
+    {
+      "term": "Gemini API",
+      "slug": "gemini-api",
+      "first_seen": "2026-11-24",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 67,
+      "source_diversity_score": 67,
+      "opportunity_score": 76,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+        "https://maido.place",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+      ]
+    },
+    {
+      "term": "AI Coding",
+      "slug": "ai-coding",
+      "first_seen": "2026-08-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 6,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 70,
+      "source_diversity_score": 33,
+      "opportunity_score": 75,
+      "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/verfy-dev/verfy",
+        "https://jurajb.dev/coding-agents-mostly-waiting/",
+        "https://www.youtube.com/watch?v=TcrPYFdvR7c",
+        "https://www.okteto.com/blog/how-to-run-ai-coding-agents-on-kubernetes/",
+        "https://kudelskisecurity.com/research/sandboxing-coding-agents"
+      ]
+    },
+    {
+      "term": "Riemann Hypothesis",
+      "slug": "riemann-hypothesis",
+      "first_seen": "2026-11-24",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 82,
+      "source_diversity_score": 33,
+      "opportunity_score": 75,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.nature.com/articles/d41586-026-03812-7",
+        "https://www.math.brown.edu/reschwar/Stories/AI.pdf",
+        "https://news.ycombinator.com/item?id=50608700"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "slug": "ai-agent",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 11,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 66,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 11; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://github.com/wangzan101/mika",
+        "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
+        "https://rokan.computer/check",
+        "https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/",
+        "https://codeyam.com/apps/cadyam"
+      ]
+    },
+    {
+      "term": "about AI",
+      "slug": "about-ai",
+      "first_seen": "2026-06-08",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 75,
+      "source_diversity_score": 33,
+      "opportunity_score": 73,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://tirania.org/blog/archive/2026/Nov-20.html",
+        "https://news.ycombinator.com/item?id=50608700",
+        "https://www.youtube.com/watch?v=_Zzv15cwG1A"
+      ]
+    },
+    {
+      "term": "AI Bots",
+      "slug": "ai-bots",
+      "first_seen": "2026-10-03",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 63,
+      "source_diversity_score": 33,
+      "opportunity_score": 72,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://blog.miloslavhomer.cz/overwhelmed-by-ai-bots/",
+        "https://chatwithwork.com/",
+        "https://news.ycombinator.com/item?id=50609568",
+        "https://www.giuliomagnifico.dev/apps/smartesto/"
+      ]
+    },
+    {
+      "term": "AI startup",
+      "slug": "ai-startup",
+      "first_seen": "2026-07-20",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 72,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi",
+        "https://news.ycombinator.com/item?id=50602740",
+        "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart"
+      ]
+    },
+    {
+      "term": "AI can",
+      "slug": "ai-can",
+      "first_seen": "2026-06-06",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 38,
+      "source_diversity_score": 67,
+      "opportunity_score": 69,
+      "trend_note": "Recent mentions: 5; historical mentions: 1. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
+        "https://news.ycombinator.com/item?id=50608452",
+        "https://plantsresearch.pro/chess-lab",
+        "https://news.ycombinator.com/item?id=50603705",
+        "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+      ]
+    },
+    {
+      "term": "AI search",
+      "slug": "ai-search",
+      "first_seen": "2026-06-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 64,
+      "source_diversity_score": 33,
+      "opportunity_score": 68,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.mcpfolio.com",
+        "https://github.com/alicexixi85/geo-seo-mcp-pro",
+        "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/"
+      ]
+    },
+    {
+      "term": "AI bubble",
+      "slug": "ai-bubble",
+      "first_seen": "2026-07-02",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 50,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://cepr.net/publications/ai-bubble-monitor/#nov232026",
+        "https://www.rnz.co.nz/news/world/2757034/the-ai-bubble-hasn-t-burst-but-it-has-significantly-deflated",
+        "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+        "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8"
+      ]
+    },
+    {
+      "term": "Can AI",
+      "slug": "can-ai",
+      "first_seen": "2026-07-04",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 39,
+      "source_diversity_score": 67,
+      "opportunity_score": 65,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://postgres.ai/blog/20261123-pgaibench",
+        "https://openai.com/index/introducing-medchembench/",
+        "https://openai.com/index/introducing-medchembench"
+      ]
+    }
+  ]
+}

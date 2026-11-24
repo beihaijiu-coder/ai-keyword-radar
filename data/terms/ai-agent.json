@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 9,
+  "mention_count_recent": 11,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 66,
   "source_diversity_score": 33,
   "opportunity_score": 73,
-  "trend_note": "Recent mentions: 9; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 11; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/salespeak-ai/inbox-envoy",
-    "https://asi.anahata.uno/ifptoasi/greenpaper.html",
-    "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
-    "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-    "https://theagentdoctor.com/"
+    "https://github.com/wangzan101/mika",
+    "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
+    "https://rokan.computer/check",
+    "https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/",
+    "https://codeyam.com/apps/cadyam"
   ]
 }
