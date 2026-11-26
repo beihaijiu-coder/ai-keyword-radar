@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 6,
+  "mention_count_recent": 8,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 59,
   "source_diversity_score": 33,
   "opportunity_score": 70,
-  "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://github.com/wakeshift/server",
-    "https://news.ycombinator.com/item?id=50633601",
-    "https://joonoo.art/create-comic",
-    "https://github.com/navbuildz/ai-usage-menu",
-    "https://lasergrid.app/?from=rd-hn"
+    "https://talira.ai/",
+    "https://inxpanse.com/heycube",
+    "https://github.com/editide/pintura",
+    "https://gatoaitranslations.com/blog/claude-code-vs-gato-ai-translations",
+    "https://github.com/wakeshift/server"
   ]
 }

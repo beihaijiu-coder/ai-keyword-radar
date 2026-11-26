@@ -6,16 +6,16 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 39,
   "source_diversity_score": 67,
-  "opportunity_score": 65,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "opportunity_score": 69,
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://postgres.ai/blog/20261123-pgaibench",
-    "https://openai.com/index/introducing-medchembench/",
+    "https://gameautoresearch.github.io/",
+    "https://www.youtube.com/watch?v=ENhHv_VCDL0",
     "https://openai.com/index/introducing-medchembench"
   ]
 }

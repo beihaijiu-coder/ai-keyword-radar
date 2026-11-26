@@ -5,17 +5,15 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 4,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 41,
   "source_diversity_score": 33,
   "opportunity_score": 63,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
   "example_links": [
-    "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
-    "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
-    "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns",
-    "https://www.bbc.co.uk/news/articles/cq635037g18o"
+    "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "https://www.bbc.com/news/articles/cq0md8g14zryo"
   ]
 }

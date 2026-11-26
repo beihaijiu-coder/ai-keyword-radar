@@ -5,18 +5,18 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 5,
+  "mention_count_recent": 7,
   "mention_count_history": 0,
   "velocity_score": 100,
   "search_gap_score": 70,
   "source_diversity_score": 33,
   "opportunity_score": 75,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/",
-    "https://leaddev.com/ai/your-ai-coding-agent-lacks-context",
-    "https://github.com/Emreceyhnn/Agentbadge",
-    "https://designverse.ai/resources/ai-coding-drift-report",
-    "https://harny.dev/"
+    "https://news.ycombinator.com/item?id=50645376",
+    "https://github.com/wg5759/nachuan",
+    "https://github.com/yonivav/app-map",
+    "https://rocketcrab.com/",
+    "https://developer.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/"
   ]
 }
