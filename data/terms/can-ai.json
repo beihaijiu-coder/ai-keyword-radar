@@ -7,13 +7,14 @@
     "rss"
   ],
   "mention_count_recent": 4,
-  "mention_count_history": 0,
+  "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 39,
   "source_diversity_score": 67,
   "opportunity_score": 69,
-  "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
   "example_links": [
+    "https://news.ycombinator.com/item?id=50662399",
     "https://gameautoresearch.github.io/",
     "https://www.youtube.com/watch?v=ENhHv_VCDL0",
     "https://openai.com/index/introducing-medchembench"

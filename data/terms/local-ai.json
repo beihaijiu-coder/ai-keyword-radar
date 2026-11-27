@@ -1,22 +1,23 @@
 {
-  "term": "local AI",
+  "term": "Local AI",
   "slug": "local-ai",
   "first_seen": "2026-06-10",
   "sources": [
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 4,
   "mention_count_history": 1,
-  "velocity_score": 75,
+  "velocity_score": 100,
   "search_gap_score": 73,
   "source_diversity_score": 67,
-  "opportunity_score": 73,
-  "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 83,
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
-    "https://thedataexchange.media/pete-warden-moonshine/",
-    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "https://www.phoronix.com/news/Omarchy-4.6-Released",
+    "https://thesis.truffle.net/introduction",
+    "https://news.ycombinator.com/item?id=50648334",
+    "https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison",
     "https://huggingface.co/blog/webgpu-kernels"
   ]
 }

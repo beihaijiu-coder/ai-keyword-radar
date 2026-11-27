@@ -13,10 +13,10 @@
   "opportunity_score": 73,
   "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
+    "https://github.com/doors-dev/neui",
+    "https://github.com/tope-olajide/clockwork",
+    "https://github.com/Breaktroughf1/lockward",
     "https://talira.ai/",
-    "https://github.com/randomNinja64/SimpleLLMChat",
-    "https://eustella.com",
-    "https://avva.chat/",
-    "https://github.com/ThreatDefence/agentic-attack-detections"
+    "https://github.com/randomNinja64/SimpleLLMChat"
   ]
 }

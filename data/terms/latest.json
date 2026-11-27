@@ -1,10 +1,54 @@
 {
-  "updated_at": "2026-11-26T04:51:03.390499+00:00",
+  "updated_at": "2026-11-27T04:53:31.693393+00:00",
   "terms": [
     {
-      "term": "Photoshop over AI",
-      "slug": "photoshop-over-ai",
-      "first_seen": "2026-11-26",
+      "term": "Hi HN",
+      "slug": "hi-hn",
+      "first_seen": "2026-06-09",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 99,
+      "source_diversity_score": 33,
+      "opportunity_score": 86,
+      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://steve.ly/travels",
+        "https://weblidar.com",
+        "https://talira.ai/",
+        "https://inxpanse.com/heycube"
+      ]
+    },
+    {
+      "term": "Local AI",
+      "slug": "local-ai",
+      "first_seen": "2026-06-10",
+      "sources": [
+        "hackernews",
+        "rss"
+      ],
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
+      "velocity_score": 100,
+      "search_gap_score": 73,
+      "source_diversity_score": 67,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.phoronix.com/news/Omarchy-4.6-Released",
+        "https://thesis.truffle.net/introduction",
+        "https://news.ycombinator.com/item?id=50648334",
+        "https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison",
+        "https://huggingface.co/blog/webgpu-kernels"
+      ]
+    },
+    {
+      "term": "suggests AI bubble",
+      "slug": "suggests-ai-bubble",
+      "first_seen": "2026-11-27",
       "sources": [
         "hackernews"
       ],
@@ -16,13 +60,31 @@
       "opportunity_score": 83,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+        "https://www.london.edu/think/ai-bubble-about-to-burst"
       ]
     },
     {
-      "term": "update Photoshop over AI",
-      "slug": "update-photoshop-over-ai",
-      "first_seen": "2026-11-26",
+      "term": "suggests AI bubble bursting",
+      "slug": "suggests-ai-bubble-bursting",
+      "first_seen": "2026-11-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 100,
+      "source_diversity_score": 33,
+      "opportunity_score": 83,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.london.edu/think/ai-bubble-about-to-burst"
+      ]
+    },
+    {
+      "term": "research suggests AI",
+      "slug": "research-suggests-ai",
+      "first_seen": "2026-11-27",
       "sources": [
         "hackernews"
       ],
@@ -34,13 +96,13 @@
       "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+        "https://www.london.edu/think/ai-bubble-about-to-burst"
       ]
     },
     {
-      "term": "Photoshop over AI features",
-      "slug": "photoshop-over-ai-features",
-      "first_seen": "2026-11-26",
+      "term": "research suggests AI bubble",
+      "slug": "research-suggests-ai-bubble",
+      "first_seen": "2026-11-27",
       "sources": [
         "hackernews"
       ],
@@ -52,7 +114,7 @@
       "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+        "https://www.london.edu/think/ai-bubble-about-to-burst"
       ]
     },
     {
@@ -70,15 +132,32 @@
       "opportunity_score": 82,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://rocketcrab.com/",
-        "https://developer.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/",
-        "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/"
+        "https://github.com/HarsH-1877/Dev-Mem",
+        "https://rocketcrab.com/"
       ]
     },
     {
-      "term": "over AI features",
-      "slug": "over-ai-features",
-      "first_seen": "2026-11-26",
+      "term": "suggests AI",
+      "slug": "suggests-ai",
+      "first_seen": "2026-11-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 97,
+      "source_diversity_score": 33,
+      "opportunity_score": 81,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.london.edu/think/ai-bubble-about-to-burst"
+      ]
+    },
+    {
+      "term": "Happy Thanksgiving",
+      "slug": "happy-thanksgiving",
+      "first_seen": "2026-11-27",
       "sources": [
         "hackernews"
       ],
@@ -90,7 +169,9 @@
       "opportunity_score": 80,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
       "example_links": [
-        "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+        "https://news.ycombinator.com/item?id=50657957",
+        "https://news.ycombinator.com/item?id=50656826",
+        "https://news.ycombinator.com/item?id=50651635"
       ]
     },
     {
@@ -101,38 +182,58 @@
         "hackernews",
         "rss"
       ],
-      "mention_count_recent": 5,
-      "mention_count_history": 0,
+      "mention_count_recent": 4,
+      "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 62,
       "source_diversity_score": 67,
       "opportunity_score": 78,
-      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.modelxare.com/",
-        "https://www.youtube.com/watch?v=E5Trav-bgmo",
-        "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+        "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae",
+        "https://www.usesara.ai",
+        "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
         "https://openai.com/index/perplexity-and-intelligence",
         "https://openai.com/index/introducing-medchembench"
       ]
     },
     {
-      "term": "AI features",
-      "slug": "ai-features",
-      "first_seen": "2026-06-18",
+      "term": "AI bubble bursting",
+      "slug": "ai-bubble-bursting",
+      "first_seen": "2026-11-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 88,
+      "source_diversity_score": 33,
+      "opportunity_score": 78,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is still low, so the content window looks open.",
+      "example_links": [
+        "https://www.london.edu/think/ai-bubble-about-to-burst"
+      ]
+    },
+    {
+      "term": "coding agent",
+      "slug": "coding-agent",
+      "first_seen": "2026-06-06",
       "sources": [
         "hackernews"
       ],
       "mention_count_recent": 4,
       "mention_count_history": 0,
       "velocity_score": 100,
-      "search_gap_score": 79,
+      "search_gap_score": 76,
       "source_diversity_score": 33,
-      "opportunity_score": 78,
+      "opportunity_score": 77,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "https://www.usedimensional.com"
+        "https://inferedge-ai.github.io/evalkit/",
+        "https://github.com/luisg0nc/torno",
+        "https://news.ycombinator.com/item?id=50645376",
+        "https://github.com/yonivav/app-map"
       ]
     },
     {
@@ -150,11 +251,11 @@
       "opportunity_score": 75,
       "trend_note": "Recent mentions: 7; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://github.com/HarsH-1877/Dev-Mem",
+        "https://github.com/luisg0nc/torno",
         "https://news.ycombinator.com/item?id=50645376",
         "https://github.com/wg5759/nachuan",
-        "https://github.com/yonivav/app-map",
-        "https://rocketcrab.com/",
-        "https://developer.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/"
+        "https://github.com/yonivav/app-map"
       ]
     },
     {
@@ -172,11 +273,11 @@
       "opportunity_score": 73,
       "trend_note": "Recent mentions: 6; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://github.com/doors-dev/neui",
+        "https://github.com/tope-olajide/clockwork",
+        "https://github.com/Breaktroughf1/lockward",
         "https://talira.ai/",
-        "https://github.com/randomNinja64/SimpleLLMChat",
-        "https://eustella.com",
-        "https://avva.chat/",
-        "https://github.com/ThreatDefence/agentic-attack-detections"
+        "https://github.com/randomNinja64/SimpleLLMChat"
       ]
     },
     {
@@ -200,26 +301,6 @@
       ]
     },
     {
-      "term": "coding agent",
-      "slug": "coding-agent",
-      "first_seen": "2026-06-06",
-      "sources": [
-        "hackernews"
-      ],
-      "mention_count_recent": 3,
-      "mention_count_history": 0,
-      "velocity_score": 90,
-      "search_gap_score": 76,
-      "source_diversity_score": 33,
-      "opportunity_score": 73,
-      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
-      "example_links": [
-        "https://news.ycombinator.com/item?id=50645376",
-        "https://github.com/yonivav/app-map",
-        "https://leaddev.com/ai/your-ai-coding-agent-lacks-context"
-      ]
-    },
-    {
       "term": "AI coding agent",
       "slug": "ai-coding-agent",
       "first_seen": "2026-06-17",
@@ -234,9 +315,29 @@
       "opportunity_score": 72,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://github.com/luisg0nc/torno",
         "https://news.ycombinator.com/item?id=50645376",
-        "https://github.com/yonivav/app-map",
-        "https://leaddev.com/ai/your-ai-coding-agent-lacks-context"
+        "https://github.com/yonivav/app-map"
+      ]
+    },
+    {
+      "term": "AI Companion",
+      "slug": "ai-companion",
+      "first_seen": "2026-11-27",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 71,
+      "source_diversity_score": 33,
+      "opportunity_score": 71,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+        "https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/",
+        "https://github.com/raymond-van/animama"
       ]
     },
     {
@@ -246,19 +347,19 @@
       "sources": [
         "hackernews"
       ],
-      "mention_count_recent": 8,
+      "mention_count_recent": 5,
       "mention_count_history": 0,
       "velocity_score": 100,
       "search_gap_score": 59,
       "source_diversity_score": 33,
       "opportunity_score": 70,
-      "trend_note": "Recent mentions: 8; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
+        "https://earthciv.org",
+        "https://github.com/aigeano/kaju",
         "https://talira.ai/",
         "https://inxpanse.com/heycube",
-        "https://github.com/editide/pintura",
-        "https://gatoaitranslations.com/blog/claude-code-vs-gato-ai-translations",
-        "https://github.com/wakeshift/server"
+        "https://github.com/editide/pintura"
       ]
     },
     {
@@ -270,37 +371,57 @@
         "rss"
       ],
       "mention_count_recent": 4,
-      "mention_count_history": 0,
+      "mention_count_history": 1,
       "velocity_score": 100,
       "search_gap_score": 39,
       "source_diversity_score": 67,
       "opportunity_score": 69,
-      "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is already visible, so move quickly.",
       "example_links": [
+        "https://news.ycombinator.com/item?id=50662399",
         "https://gameautoresearch.github.io/",
         "https://www.youtube.com/watch?v=ENhHv_VCDL0",
         "https://openai.com/index/introducing-medchembench"
       ]
     },
     {
-      "term": "Agentic AI",
-      "slug": "agentic-ai",
-      "first_seen": "2026-06-06",
+      "term": "AI bubble",
+      "slug": "ai-bubble",
+      "first_seen": "2026-07-02",
       "sources": [
-        "hackernews",
-        "rss"
+        "hackernews"
+      ],
+      "mention_count_recent": 5,
+      "mention_count_history": 0,
+      "velocity_score": 100,
+      "search_gap_score": 50,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://www.london.edu/think/ai-bubble-about-to-burst",
+        "https://news.ycombinator.com/item?id=50654961",
+        "https://poptheaibubble.com"
+      ]
+    },
+    {
+      "term": "AI assistant",
+      "slug": "ai-assistant",
+      "first_seen": "2026-06-16",
+      "sources": [
+        "hackernews"
       ],
       "mention_count_recent": 3,
-      "mention_count_history": 1,
-      "velocity_score": 75,
-      "search_gap_score": 61,
-      "source_diversity_score": 67,
-      "opportunity_score": 68,
-      "trend_note": "Recent mentions: 3; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 62,
+      "source_diversity_score": 33,
+      "opportunity_score": 67,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://github.com/kbr-/shit-with-good-formatting",
-        "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
-        "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        "https://github.com/lian84/memora",
+        "https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450",
+        "https://scrivea.fr/"
       ]
     },
     {
@@ -318,9 +439,29 @@
       "opportunity_score": 66,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.youtube.com/watch?v=2IDLVctFAHw",
-        "https://joshuamorris.info/notes/2026/09/29/how-much-ai-slop-does-it-take-to-unslop-the-ai-slop/",
-        "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+        "https://www.youtube.com/watch?v=aZwQ8NW596Q",
+        "https://evancz.dev/how-to-reduce-ai-slop",
+        "https://www.youtube.com/watch?v=2IDLVctFAHw"
+      ]
+    },
+    {
+      "term": "agents I",
+      "slug": "agents-i",
+      "first_seen": "2026-07-14",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 54,
+      "source_diversity_score": 33,
+      "opportunity_score": 64,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+      "example_links": [
+        "https://inferedge-ai.github.io/evalkit/",
+        "https://inxpanse.com/heycube",
+        "https://rocketcrab.com/"
       ]
     },
     {
@@ -338,14 +479,15 @@
       "opportunity_score": 63,
       "trend_note": "Recent mentions: 4; historical mentions: 0. Google search interest is already visible, so move quickly.",
       "example_links": [
+        "https://news.ycombinator.com/item?id=50651635",
         "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
         "https://www.bbc.com/news/articles/cq0md8g14zryo"
       ]
     },
     {
-      "term": "AI bubble",
-      "slug": "ai-bubble",
-      "first_seen": "2026-07-02",
+      "term": "When AI",
+      "slug": "when-ai",
+      "first_seen": "2026-07-07",
       "sources": [
         "hackernews"
       ],
@@ -357,9 +499,28 @@
       "opportunity_score": 63,
       "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
       "example_links": [
-        "https://www.london.edu/think/ai-bubble-about-to-burst",
-        "https://poptheaibubble.com",
-        "https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/"
+        "https://www.myscreenbreak.com/",
+        "https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092",
+        "https://sphericalcowconsulting.com/2026/11/24/when-ai-agents-use-the-web/"
+      ]
+    },
+    {
+      "term": "Has AI",
+      "slug": "has-ai",
+      "first_seen": "2026-06-14",
+      "sources": [
+        "hackernews"
+      ],
+      "mention_count_recent": 3,
+      "mention_count_history": 0,
+      "velocity_score": 90,
+      "search_gap_score": 49,
+      "source_diversity_score": 33,
+      "opportunity_score": 62,
+      "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is already visible, so move quickly.",
+      "example_links": [
+        "https://superposer.substack.com/p/has-ai-come-for-quantum-gravity",
+        "https://news.ycombinator.com/item?id=50654648"
       ]
     }
   ]

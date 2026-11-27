@@ -5,16 +5,16 @@
   "sources": [
     "hackernews"
   ],
-  "mention_count_recent": 3,
+  "mention_count_recent": 5,
   "mention_count_history": 0,
-  "velocity_score": 90,
+  "velocity_score": 100,
   "search_gap_score": 50,
   "source_diversity_score": 33,
-  "opportunity_score": 63,
-  "trend_note": "Recent mentions: 3; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "opportunity_score": 67,
+  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
     "https://www.london.edu/think/ai-bubble-about-to-burst",
-    "https://poptheaibubble.com",
-    "https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/"
+    "https://news.ycombinator.com/item?id=50654961",
+    "https://poptheaibubble.com"
   ]
 }

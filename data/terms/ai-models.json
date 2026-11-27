@@ -6,17 +6,17 @@
     "hackernews",
     "rss"
   ],
-  "mention_count_recent": 5,
-  "mention_count_history": 0,
+  "mention_count_recent": 4,
+  "mention_count_history": 1,
   "velocity_score": 100,
   "search_gap_score": 62,
   "source_diversity_score": 67,
   "opportunity_score": 78,
-  "trend_note": "Recent mentions: 5; historical mentions: 0. Google search interest is forming, but the topic is not saturated yet.",
+  "trend_note": "Recent mentions: 4; historical mentions: 1. Google search interest is forming, but the topic is not saturated yet.",
   "example_links": [
-    "https://www.modelxare.com/",
-    "https://www.youtube.com/watch?v=E5Trav-bgmo",
-    "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+    "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae",
+    "https://www.usesara.ai",
+    "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
     "https://openai.com/index/perplexity-and-intelligence",
     "https://openai.com/index/introducing-medchembench"
   ]

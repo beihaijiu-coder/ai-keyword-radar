@@ -2282,5 +2282,37 @@
   "over ai features": {
     "interest": 6,
     "checked_at": "2026-11-26T04:51:39.100378+00:00"
+  },
+  "ai companion": {
+    "interest": 29,
+    "checked_at": "2026-11-27T04:53:37.410280+00:00"
+  },
+  "research suggests ai": {
+    "interest": 1,
+    "checked_at": "2026-11-27T04:53:47.279139+00:00"
+  },
+  "research suggests ai bubble": {
+    "interest": 1,
+    "checked_at": "2026-11-27T04:53:57.311879+00:00"
+  },
+  "suggests ai": {
+    "interest": 3,
+    "checked_at": "2026-11-27T04:54:07.283114+00:00"
+  },
+  "suggests ai bubble": {
+    "interest": 0,
+    "checked_at": "2026-11-27T04:54:17.269296+00:00"
+  },
+  "suggests ai bubble bursting": {
+    "interest": 0,
+    "checked_at": "2026-11-27T04:54:27.347831+00:00"
+  },
+  "ai bubble bursting": {
+    "interest": 12,
+    "checked_at": "2026-11-27T04:54:37.346943+00:00"
+  },
+  "happy thanksgiving": {
+    "interest": 6,
+    "checked_at": "2026-11-27T04:54:47.253689+00:00"
   }
 }
